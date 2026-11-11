@@ -1,0 +1,35 @@
+name: Export Mylib source archives
+on:
+  push:
+    branches:
+      - main
+      - codex/export-mylib-assets-20261111
+    paths:
+      - 'Libkimi.zip'
+      - 'Libg.zip'
+      - '.github/workflows/export-mylib-assets.yml'
+permissions:
+  contents: read
+  actions: write
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify source archives
+        run: |
+          test -s Libkimi.zip
+          test -s Libg.zip
+          sha256sum Libkimi.zip Libg.zip
+          unzip -tq Libkimi.zip
+          unzip -tq Libg.zip
+      - name: Upload source archives
+        uses: actions/upload-artifact@v4
+        with:
+          name: mylib-source-archives
+          path: |
+            Libkimi.zip
+            Libg.zip
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 2
