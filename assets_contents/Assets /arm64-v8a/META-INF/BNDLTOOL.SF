@@ -1,0 +1,113 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: uVXjmzeyFdXwE9XLPVxz6kEqI6o=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: X2Wtjq2FOIAP8Gw0CrWISLiTsfo=
+
+Name: lib/arm64-v8a/libNitroMarkdown.so
+SHA1-Digest: //QsttQrnZaQ4dog4iGiiCdsBak=
+
+Name: lib/arm64-v8a/libNitroModules.so
+SHA1-Digest: +a7y/lf+/nWkEZyUSpjEyulbhcw=
+
+Name: lib/arm64-v8a/libandroidx.graphics.path.so
+SHA1-Digest: qdPELWZ8G0EiUHhBZOMomwUjY54=
+
+Name: lib/arm64-v8a/libanimation-decoder-gif.so
+SHA1-Digest: OEOrig8Pj9V413SsdZvX4s1L0DA=
+
+Name: lib/arm64-v8a/libappmodules.so
+SHA1-Digest: ZaYbPm5xoH6eYxOCORr+FYI5oE8=
+
+Name: lib/arm64-v8a/libavif_android.so
+SHA1-Digest: G/kZN26R6rr5hOFPRo2N6MQ13bQ=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: E6jzg/fxUur6jwrti2hSK2wrxI0=
+
+Name: lib/arm64-v8a/libdatastore_shared_counter.so
+SHA1-Digest: 2QroeYLrBWw5bbYB9vLjZMnYZKg=
+
+Name: lib/arm64-v8a/libexpo-modules-core.so
+SHA1-Digest: N4ls1bRRQOs2c6g2rSQWks1bN1M=
+
+Name: lib/arm64-v8a/libexpo-updates.so
+SHA1-Digest: UGPkhdh+W0vSCdW2gnI8RmyeqJY=
+
+Name: lib/arm64-v8a/libfbjni.so
+SHA1-Digest: i9xoA3YpxN2DOCZk57/KXjoQRnA=
+
+Name: lib/arm64-v8a/libgesturehandler.so
+SHA1-Digest: 76c33+g9yQxKMqC8W0pjXVQTYYE=
+
+Name: lib/arm64-v8a/libgifimage.so
+SHA1-Digest: /vjo1Sw4riaqLEBvP1eNcs5HdYc=
+
+Name: lib/arm64-v8a/libhermestooling.so
+SHA1-Digest: mKKEFyEhoy8T+L7keXsBlC2p/w8=
+
+Name: lib/arm64-v8a/libhermesvm.so
+SHA1-Digest: BlKS5bP2m35qNdBhhZt7eUJBuwo=
+
+Name: lib/arm64-v8a/libimagepipeline.so
+SHA1-Digest: oSKgBFxTd/PJl74v1HGclOTbMoA=
+
+Name: lib/arm64-v8a/libjsi.so
+SHA1-Digest: xdBC2dgAqLcLSg2fVgHwTZ41Uic=
+
+Name: lib/arm64-v8a/libnative-filters.so
+SHA1-Digest: R/qKcsDmbHcC8paP8Y1VN4xHDSs=
+
+Name: lib/arm64-v8a/libnative-imagetranscoder.so
+SHA1-Digest: srPgUs1EYRaDzp5vzYVV7EPzHyw=
+
+Name: lib/arm64-v8a/libpairipcore.so
+SHA1-Digest: yp37Rp9USaMz/zk31RkE8mZPDyk=
+
+Name: lib/arm64-v8a/libreact-native-mmkv.so
+SHA1-Digest: C5q7nVPHBSShspinFdx8BybBvNo=
+
+Name: lib/arm64-v8a/libreact_codegen_RNKC.so
+SHA1-Digest: 0E1OE0m7kBskL3LikO4uc72EQTc=
+
+Name: lib/arm64-v8a/libreact_codegen_rnscreens.so
+SHA1-Digest: bCp/zptseArhSz4d1eEGPZAKllc=
+
+Name: lib/arm64-v8a/libreact_codegen_rnsvg.so
+SHA1-Digest: PHm93ew/1rXghCMbcJjCsb0S5Os=
+
+Name: lib/arm64-v8a/libreact_codegen_safeareacontext.so
+SHA1-Digest: qxyZUDrdwGP7E8WifPia1cYOzgg=
+
+Name: lib/arm64-v8a/libreactnative.so
+SHA1-Digest: C1SEKzq1LUtWAMbd8T5Lgp1WBjg=
+
+Name: lib/arm64-v8a/libreanimated.so
+SHA1-Digest: lS55TaCHM44mRK2esa1SPeQwMLE=
+
+Name: lib/arm64-v8a/librnscreens.so
+SHA1-Digest: gpQ06rPS09jeni6sl4H4mBGzSJQ=
+
+Name: lib/arm64-v8a/libsentry-android.so
+SHA1-Digest: xn1o4EsILIVTZXKEMLflFakHZy8=
+
+Name: lib/arm64-v8a/libsentry.so
+SHA1-Digest: IdjX4cYnAsUXwt3TeivqhfL9Gxk=
+
+Name: lib/arm64-v8a/libstatic-webp.so
+SHA1-Digest: fkl8g3cMGa0a8rpAwHs1oXYkd6Q=
+
+Name: lib/arm64-v8a/libunistyles.so
+SHA1-Digest: RXIfnrT6yGkvSZXKN1Ha+Zj6f4A=
+
+Name: lib/arm64-v8a/libworklets.so
+SHA1-Digest: RTKxmnPgRDcoffIRFf3bkCVhBS8=
+
+Name: lib/arm64-v8a/libzstd-kmp.so
+SHA1-Digest: s7h6L9oanRM/aJyUYFZBfAplpIk=
+
+Name: stamp-cert-sha256
+SHA1-Digest: Bs40BvDZ1xrbgQrPTD2x5w/NfHQ=
+

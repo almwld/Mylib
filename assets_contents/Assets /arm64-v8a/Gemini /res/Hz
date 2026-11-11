@@ -1,0 +1,140 @@
+0:54218 Android SDK Extras
+54218:10695 Android SDK for Linux - Versioned Parcelable
+54218:10695 AndroidX - Versioned parcelable
+64913:10695 AndroidX activity library
+64913:10695 AndroidX annotation experimental library
+64913:10695 AndroidX annotation library
+64913:10695 AndroidX annotation library
+64913:10695 AndroidX appcompat library
+64913:10695 AndroidX appcompat library
+64913:10695 AndroidX architecture core library
+64913:10695 AndroidX asynclayoutinflater library
+64913:10695 AndroidX cardview library
+64913:10695 AndroidX collection library
+75608:10173 AndroidX compose runtime annotation library
+64913:10695 AndroidX compose runtime library
+75608:10173 AndroidX compose ui geometry library
+75608:10173 AndroidX compose ui graphics library
+75608:10173 AndroidX compose ui unit library
+75608:10173 AndroidX compose ui util library
+64913:10695 AndroidX concurrent futures ktx library
+64913:10695 AndroidX concurrent futures library
+75608:10173 AndroidX constraintlayout library
+64913:10695 AndroidX coordinatorlayout library
+75608:10173 AndroidX core library
+64913:10695 AndroidX core library
+85781:10113 AndroidX core library
+64913:10695 AndroidX cursoradapter library
+64913:10695 AndroidX customview library
+64913:10695 AndroidX customview poolingcontainer library
+64913:10695 AndroidX datastore core library
+64913:10695 AndroidX datastore core okio library
+64913:10695 AndroidX datastore library
+64913:10695 AndroidX datastore preferences core library
+64913:10695 AndroidX datastore preferences external protobuf library
+64913:10695 AndroidX datastore preferences library
+64913:10695 AndroidX datastore preferences proto library
+64913:10695 AndroidX documentfile library
+64913:10695 AndroidX drawerlayout library
+64913:10695 AndroidX dynamicanimation library
+64913:10695 AndroidX emoji2 base library
+64913:10695 AndroidX fragment library
+64913:10695 AndroidX glance appwidget library
+95894:10180 AndroidX glance appwidget_external_protobuf library
+95894:10180 AndroidX glance appwidget_proto library
+64913:10695 AndroidX glance library
+64913:10695 AndroidX graphics path library
+64913:10695 AndroidX interpolator library
+64913:10695 AndroidX legacy coreui library
+64913:10695 AndroidX legacy coreutils library
+64913:10695 AndroidX legacy v13 library
+64913:10695 AndroidX lifecycle base library
+64913:10695 AndroidX lifecycle base library
+64913:10695 AndroidX lifecycle base library
+64913:10695 AndroidX lifecycle base library
+64913:10695 AndroidX lifecycle common java8 library
+64913:10695 AndroidX lifecycle common library
+64913:10695 AndroidX lifecycle livedatacore library
+64913:10695 AndroidX lifecycle process library
+64913:10695 AndroidX lifecycle service library
+75608:10173 AndroidX loader library
+64913:10695 AndroidX localbroadcastmanager library
+64913:10695 AndroidX media base library
+64913:10695 AndroidX navigationevent library
+64913:10695 AndroidX print library
+64913:10695 AndroidX recyclerview base library
+64913:10695 AndroidX room common library
+64913:10695 AndroidX room ktx library
+64913:10695 AndroidX room library
+64913:10695 AndroidX savedstate library
+64913:10695 AndroidX sqlite library
+64913:10695 AndroidX swiperefreshlayout library
+75608:10173 AndroidX tracing library
+64913:10695 AndroidX transition library
+64913:10695 AndroidX vectordrawable base library
+64913:10695 AndroidX window core library
+64913:10695 AndroidX window extensions core library
+64913:10695 AndroidX window library
+75608:10173 AndroidX work library
+75608:10173 AndroidX work library
+106074:1096 Animal Sniffer
+107170:1075 Animal Sniffer
+108245:10695 apksig
+108245:10695 apksig
+118940:11360 bazel_features_mock
+118940:11360 bazelbuild/bazel_skylib
+130300:1892 Checker Framework Annotations
+132192:382441 cronet
+118940:11360 Dagger
+118940:11360 Error Prone
+118940:11360 Error Prone
+118940:11360 flogger
+118940:11360 flogger
+514633:1479 golang/protobuf/v2
+118940:11360 Google Auto
+118940:11360 Google Auto
+118940:11360 gRPC Java
+118940:11360 gRPC Java
+118940:11360 gsfclient
+118940:11360 Guava JDK5
+118940:11360 Guava JDK7
+118940:11360 HighwayHash
+516112:114258 J2ObjC
+516112:114258 J2ObjC
+118940:11360 Jakarta Inject
+118940:11360 Jakarta Inject
+630370:9115 java_annotations
+639485:11307 JsInterop Annotations
+118940:11360 JSpecify
+118940:11360 JSR 250
+650792:1602 JSR 305
+652394:11365 JSR 330
+652394:11365 JSR 330
+118940:11360 Kotlin coroutines
+118940:11360 kotlinc
+118940:11360 kotlinx_atomicfu
+663759:11356 kotlinx_serialization
+118940:11360 Material Components for Android
+118940:11360 Material Components for Android
+118940:11360 mobiledatadownload
+118940:11360 Okio
+118940:11360 PerfMark library
+675115:14532 protobuf
+689647:1732 Protobuf (Kotlin)
+691379:1732 Protocol Buffers
+689647:1732 Protocol Buffers for Java
+689647:1732 Protocol Buffers for Java
+75608:10173 remote_core
+75608:10173 remote_creation
+75608:10173 remote_creation_core
+118940:11360 rules_android
+64913:10695 runtime
+118940:11360 SafeParcelable library
+118940:11360 SafeParcelable library
+118940:11360 Setup Compat library
+118940:11360 Setup Compat library
+693111:11326 tombstone_proto
+75608:10173 vectordrawable
+64913:10695 viewpager
+64913:10695 viewpager2
+64913:10695 views_helper

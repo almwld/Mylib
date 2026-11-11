@@ -1,0 +1,1576 @@
+{
+    "config": {
+        "general": {
+            "user_satisfaction_points_to_show_rate": 2
+        },
+        "android_new_feature_announcements": {
+            "announcements": [
+                {
+                    "id": "image_2_0",
+                    "title": "Introducing Image 2.0",
+                    "title_translated": {
+                        "ar": "\u0646\u0642\u062f\u0651\u0645 \u0644\u0643\u0645 Image 2.0",
+                        "bg": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u044f\u043c\u0435 Image 2.0",
+                        "bn": "Image 2.0 \u0989\u09aa\u09b8\u09cd\u09a5\u09be\u09aa\u09a8 \u0995\u09b0\u099b\u09bf",
+                        "cs": "P\u0159edstavujeme Image 2.0",
+                        "da": "Introducerer Image 2.0",
+                        "de": "Image 2.0 ist da",
+                        "el": "\u03a3\u03b1\u03c2 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf Image 2.0",
+                        "en": "Introducing Image 2.0",
+                        "es": "Presentamos Image 2.0",
+                        "es-US": "Presentamos Image 2.0",
+                        "fa": "\u0645\u0639\u0631\u0641\u06cc Image 2.0",
+                        "fi": "Esittelyss\u00e4 Image 2.0",
+                        "fil": "Ipinakikilala ang Image 2.0",
+                        "fr": "Voici Image 2.0",
+                        "fr-CA": "Voici Image 2.0",
+                        "he": "\u05de\u05e6\u05d9\u05d2\u05d9\u05dd \u05d0\u05ea Image 2.0",
+                        "hi": "Image 2.0 \u092a\u0947\u0936 \u0939\u0948",
+                        "hr": "Predstavljamo Image 2.0",
+                        "hu": "Bemutatjuk az Image 2.0-t",
+                        "id": "Memperkenalkan Image 2.0",
+                        "in": "Memperkenalkan Image 2.0",
+                        "it": "Vi presentiamo Image 2.0",
+                        "iw": "\u05de\u05e6\u05d9\u05d2\u05d9\u05dd \u05d0\u05ea Image 2.0",
+                        "ja": "Image 2.0\u767b\u5834",
+                        "ko": "Image 2.0 \ucd9c\uc2dc",
+                        "lt": "Pristatome Image 2.0",
+                        "mr": "Image 2.0 \u0938\u093e\u0926\u0930 \u0915\u0930\u0924 \u0906\u0939\u094b\u0924",
+                        "ms": "Memperkenalkan Image 2.0",
+                        "nb": "Introduserer Image 2.0",
+                        "nl": "Maak kennis met Image 2.0",
+                        "nn": "Introduserer Image 2.0",
+                        "no": "Introduserer Image 2.0",
+                        "pl": "Przedstawiamy Image 2.0",
+                        "pt": "Apresentamos o Image 2.0",
+                        "pt-BR": "Apresentando o Image 2.0",
+                        "ro": "V\u0103 prezent\u0103m Image 2.0",
+                        "ru": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c Image 2.0",
+                        "sk": "Predstavujeme Image 2.0",
+                        "sl": "Predstavljamo Image 2.0",
+                        "sv": "Vi presenterar Image 2.0",
+                        "ta": "Image 2.0 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+                        "te": "Image 2.0 \u0c2a\u0c30\u0c3f\u0c1a\u0c2f\u0c02",
+                        "th": "\u0e02\u0e2d\u0e41\u0e19\u0e30\u0e19\u0e33 Image 2.0",
+                        "tl": "Ipinakikilala ang Image 2.0",
+                        "tr": "Image 2.0 ile tan\u0131\u015f\u0131n",
+                        "uk": "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0454\u043c\u043e Image 2.0",
+                        "ur-IN": "Image 2.0 \u067e\u06cc\u0634 \u06c1\u06d2",
+                        "vi": "Gi\u1edbi thi\u1ec7u Image 2.0",
+                        "zh": "\u63a8\u51fa Image 2.0",
+                        "zh-HK": "\u63a8\u51fa Image 2.0",
+                        "zh-MO": "\u63a8\u51fa Image 2.0",
+                        "zh-TW": "\u63a8\u51fa Image 2.0"
+                    },
+                    "description": "Our most powerful image generation model. Better at detail, professional use, and everything else.",
+                    "description_translated": {
+                        "ar": "\u0646\u0645\u0648\u0630\u062c\u0646\u0627 \u0627\u0644\u0623\u0642\u0648\u0649 \u0644\u062a\u0648\u0644\u064a\u062f \u0627\u0644\u0635\u0648\u0631. \u0623\u0641\u0636\u0644 \u0641\u064a \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644 \u0648\u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0645\u0647\u0646\u064a \u0648\u0643\u0644 \u0634\u064a\u0621 \u0622\u062e\u0631.",
+                        "bg": "\u041d\u0430\u0448\u0438\u044f\u0442 \u043d\u0430\u0439-\u043c\u043e\u0449\u0435\u043d \u043c\u043e\u0434\u0435\u043b \u0437\u0430 \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0430\u043d\u0435 \u043d\u0430 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f. \u041f\u043e-\u0434\u043e\u0431\u044a\u0440 \u0432 \u0434\u0435\u0442\u0430\u0439\u043b\u0438\u0442\u0435, \u043f\u0440\u043e\u0444\u0435\u0441\u0438\u043e\u043d\u0430\u043b\u043d\u0430\u0442\u0430 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u0430 \u0438 \u0432\u0441\u0438\u0447\u043a\u043e \u043e\u0441\u0442\u0430\u043d\u0430\u043b\u043e.",
+                        "bn": "\u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09b8\u09ac\u099a\u09c7\u09af\u09bc\u09c7 \u09b6\u0995\u09cd\u09a4\u09bf\u09b6\u09be\u09b2\u09c0 \u0987\u09ae\u09c7\u099c \u099c\u09c7\u09a8\u09be\u09b0\u09c7\u09b6\u09a8 \u09ae\u09a1\u09c7\u09b2\u0964 \u09ac\u09bf\u09b8\u09cd\u09a4\u09be\u09b0\u09bf\u09a4, \u09aa\u09c7\u09b6\u09be\u09a6\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u098f\u09ac\u0982 \u0985\u09a8\u09cd\u09af\u09be\u09a8\u09cd\u09af \u09b8\u09ac\u0995\u09bf\u099b\u09c1\u09a4\u09c7 \u0986\u09b0\u0993 \u09ad\u09be\u09b2\u09cb\u0964",
+                        "cs": "N\u00e1\u0161 nejmocn\u011bj\u0161\u00ed model pro generov\u00e1n\u00ed obr\u00e1zk\u016f. Lep\u0161\u00ed v detailech, profesion\u00e1ln\u00edm pou\u017eit\u00ed a v\u0161em ostatn\u00edm.",
+                        "da": "Vores mest kraftfulde billedgenereringsmodel. Bedre til detaljer, professionel brug og alt andet.",
+                        "de": "Unser leistungsst\u00e4rkstes Bildgenerierungsmodell. Besser bei Details, professioneller Nutzung und allem anderen.",
+                        "el": "\u03a4\u03bf \u03c0\u03b9\u03bf \u03b9\u03c3\u03c7\u03c5\u03c1\u03cc \u03bc\u03bf\u03bd\u03c4\u03ad\u03bb\u03bf \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03c9\u03bd \u03bc\u03b1\u03c2. \u039a\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03c3\u03c4\u03b9\u03c2 \u03bb\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2, \u03c4\u03b7\u03bd \u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03c7\u03c1\u03ae\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03ac\u03bb\u03bb\u03b1.",
+                        "en": "Our most powerful image generation model. Better at detail, professional use, and everything else.",
+                        "es": "Nuestro modelo de generaci\u00f3n de im\u00e1genes m\u00e1s potente. Mejor en detalles, uso profesional y todo lo dem\u00e1s.",
+                        "es-US": "Nuestro modelo de generaci\u00f3n de im\u00e1genes m\u00e1s potente. Mejor en detalles, uso profesional y todo lo dem\u00e1s.",
+                        "fa": "\u0642\u062f\u0631\u062a\u0645\u0646\u062f\u062a\u0631\u06cc\u0646 \u0645\u062f\u0644 \u062a\u0648\u0644\u06cc\u062f \u062a\u0635\u0648\u06cc\u0631 \u0645\u0627. \u0628\u0647\u062a\u0631 \u062f\u0631 \u062c\u0632\u0626\u06cc\u0627\u062a\u060c \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u062d\u0631\u0641\u0647\u200c\u0627\u06cc \u0648 \u0647\u0645\u0647 \u0686\u06cc\u0632 \u062f\u06cc\u06af\u0631.",
+                        "fi": "Tehokkain kuvantuotantomallimme. Parempi yksityiskohdissa, ammattik\u00e4yt\u00f6ss\u00e4 ja kaikessa muussa.",
+                        "fil": "Ang aming pinakamakapangyarihang image generation model. Mas mahusay sa detalye, professional use, at lahat ng iba pa.",
+                        "fr": "Notre mod\u00e8le de g\u00e9n\u00e9ration d'images le plus puissant. Meilleur en d\u00e9tails, usage professionnel et tout le reste.",
+                        "fr-CA": "Notre mod\u00e8le de g\u00e9n\u00e9ration d'images le plus puissant. Meilleur en d\u00e9tails, usage professionnel et tout le reste.",
+                        "he": "\u05de\u05d5\u05d3\u05dc \u05d9\u05e6\u05d9\u05e8\u05ea \u05d4\u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05d4\u05d7\u05d6\u05e7 \u05d1\u05d9\u05d5\u05ea\u05e8 \u05e9\u05dc\u05e0\u05d5. \u05d8\u05d5\u05d1 \u05d9\u05d5\u05ea\u05e8 \u05d1\u05e4\u05e8\u05d8\u05d9\u05dd, \u05e9\u05d9\u05de\u05d5\u05e9 \u05de\u05e7\u05e6\u05d5\u05e2\u05d9 \u05d5\u05d1\u05db\u05dc \u05d3\u05d1\u05e8 \u05d0\u05d7\u05e8.",
+                        "hi": "\u0939\u092e\u093e\u0930\u093e \u0938\u092c\u0938\u0947 \u0936\u0915\u094d\u0924\u093f\u0936\u093e\u0932\u0940 \u0907\u092e\u0947\u091c \u091c\u0928\u0930\u0947\u0936\u0928 \u092e\u0949\u0921\u0932\u0964 \u0935\u093f\u0938\u094d\u0924\u093e\u0930, \u092a\u0947\u0936\u0947\u0935\u0930 \u0909\u092a\u092f\u094b\u0917 \u0914\u0930 \u092c\u093e\u0915\u0940 \u0938\u092c \u092e\u0947\u0902 \u092c\u0947\u0939\u0924\u0930\u0964",
+                        "hr": "Na\u0161 najmo\u0107niji model za generiranje slika. Bolji u detaljima, profesionalnoj upotrebi i svemu ostalom.",
+                        "hu": "A leger\u0151sebb k\u00e9pgener\u00e1l\u00f3 modell\u00fcnk. Jobb a r\u00e9szletekben, a professzion\u00e1lis haszn\u00e1latban \u00e9s minden m\u00e1sban.",
+                        "id": "Model generasi gambar kami yang paling kuat. Lebih baik dalam detail, penggunaan profesional, dan segalanya.",
+                        "in": "Model generasi gambar kami yang paling kuat. Lebih baik dalam detail, penggunaan profesional, dan segalanya.",
+                        "it": "Il nostro modello di generazione di immagini pi\u00f9 potente. Migliore nei dettagli, nell'uso professionale e in tutto il resto.",
+                        "iw": "\u05de\u05d5\u05d3\u05dc \u05d9\u05e6\u05d9\u05e8\u05ea \u05d4\u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05d4\u05d7\u05d6\u05e7 \u05d1\u05d9\u05d5\u05ea\u05e8 \u05e9\u05dc\u05e0\u05d5. \u05d8\u05d5\u05d1 \u05d9\u05d5\u05ea\u05e8 \u05d1\u05e4\u05e8\u05d8\u05d9\u05dd, \u05e9\u05d9\u05de\u05d5\u05e9 \u05de\u05e7\u05e6\u05d5\u05e2\u05d9 \u05d5\u05d1\u05db\u05dc \u05d3\u05d1\u05e8 \u05d0\u05d7\u05e8.",
+                        "ja": "\u5f53\u793e\u6700\u5f37\u306e\u753b\u50cf\u751f\u6210\u30e2\u30c7\u30eb\u3002\u30c7\u30a3\u30c6\u30fc\u30eb\u3001\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u7528\u9014\u3001\u305d\u306e\u4ed6\u3059\u3079\u3066\u306b\u304a\u3044\u3066\u512a\u308c\u3066\u3044\u307e\u3059\u3002",
+                        "ko": "\uc6b0\ub9ac\uc758 \uac00\uc7a5 \uac15\ub825\ud55c \uc774\ubbf8\uc9c0 \uc0dd\uc131 \ubaa8\ub378. \ub514\ud14c\uc77c, \uc804\ubb38\uac00\uc6a9, \uadf8\ub9ac\uace0 \uadf8 \ubc16\uc758 \ubaa8\ub4e0 \uba74\uc5d0\uc11c \ub354 \ub6f0\uc5b4\ub0a9\ub2c8\ub2e4.",
+                        "lt": "M\u016bs\u0173 galingiausias vaizd\u0173 generavimo modelis. Geriau detal\u0117se, profesionaliam naudojimui ir viskame kitame.",
+                        "mr": "\u0906\u092e\u091a\u0947 \u0938\u0930\u094d\u0935\u093e\u0924 \u0936\u0915\u094d\u0924\u093f\u0936\u093e\u0932\u0940 \u0907\u092e\u0947\u091c \u091c\u0928\u0930\u0947\u0936\u0928 \u092e\u0949\u0921\u0947\u0932. \u0924\u092a\u0936\u0940\u0932, \u0935\u094d\u092f\u093e\u0935\u0938\u093e\u092f\u093f\u0915 \u0935\u093e\u092a\u0930 \u0906\u0923\u093f \u0907\u0924\u0930 \u0938\u0930\u094d\u0935 \u0917\u094b\u0937\u094d\u091f\u0940\u0902\u092e\u0927\u094d\u092f\u0947 \u091a\u093e\u0902\u0917\u0932\u0947.",
+                        "ms": "Model penjanaan imej kami yang paling berkuasa. Lebih baik dalam perincian, penggunaan profesional, dan segala-galanya.",
+                        "nb": "V\u00e5r mest kraftfulle bildegenereringsmodell. Bedre p\u00e5 detaljer, profesjonell bruk og alt annet.",
+                        "nl": "Ons krachtigste afbeeldingsgeneratiemodel. Beter in detail, professioneel gebruik en al het andere.",
+                        "nn": "V\u00e5r mest kraftfulle bildegenereringsmodell. Bedre p\u00e5 detaljer, profesjonell bruk og alt anna.",
+                        "no": "V\u00e5r mest kraftfulle bildegenereringsmodell. Bedre p\u00e5 detaljer, profesjonell bruk og alt annet.",
+                        "pl": "Nasz najpot\u0119\u017cniejszy model generowania obraz\u00f3w. Lepszy w szczeg\u00f3\u0142ach, profesjonalnym u\u017cyciu i wszystkim innym.",
+                        "pt": "O nosso modelo de gera\u00e7\u00e3o de imagens mais poderoso. Melhor em detalhes, uso profissional e tudo o resto.",
+                        "pt-BR": "Nosso modelo de gera\u00e7\u00e3o de imagens mais poderoso. Melhor em detalhes, uso profissional e tudo o mais.",
+                        "ro": "Modelul nostru cel mai puternic de generare de imagini. Mai bun la detalii, utilizare profesional\u0103 \u0219i orice altceva.",
+                        "ru": "\u041d\u0430\u0448\u0430 \u0441\u0430\u043c\u0430\u044f \u043c\u043e\u0449\u043d\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439. \u041b\u0443\u0447\u0448\u0435 \u0432 \u0434\u0435\u0442\u0430\u043b\u044f\u0445, \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u0438 \u0432\u043e \u0432\u0441\u0451\u043c \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u043c.",
+                        "sk": "N\u00e1\u0161 najv\u00fdkonnej\u0161\u00ed model na generovanie obr\u00e1zkov. Lep\u0161\u00ed v detailoch, profesion\u00e1lnom pou\u017eit\u00ed a vo v\u0161etkom ostatnom.",
+                        "sl": "Na\u0161 najzmogljivej\u0161i model za generiranje slik. Bolj\u0161i v podrobnostih, profesionalni uporabi in vsem ostalem.",
+                        "sv": "V\u00e5r mest kraftfulla bildgenereringsmodell. B\u00e4ttre p\u00e5 detaljer, professionell anv\u00e4ndning och allt annat.",
+                        "ta": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0bb5\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4 \u0baa\u0b9f \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf. \u0bb5\u0bbf\u0bb5\u0bb0\u0bae\u0bcd, \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1.",
+                        "te": "\u0c2e\u0c3e \u0c05\u0c24\u0c4d\u0c2f\u0c02\u0c24 \u0c36\u0c15\u0c4d\u0c24\u0c3f\u0c35\u0c02\u0c24\u0c2e\u0c48\u0c28 \u0c07\u0c2e\u0c47\u0c1c\u0c4d \u0c1c\u0c28\u0c30\u0c47\u0c37\u0c28\u0c4d \u0c2e\u0c4b\u0c21\u0c32\u0c4d. \u0c35\u0c3f\u0c35\u0c30\u0c3e\u0c32\u0c41, \u0c2a\u0c4d\u0c30\u0c4a\u0c2b\u0c46\u0c37\u0c28\u0c32\u0c4d \u0c35\u0c3f\u0c28\u0c3f\u0c2f\u0c4b\u0c17\u0c02 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c05\u0c28\u0c4d\u0c28\u0c3f\u0c02\u0c1f\u0c3f\u0c32\u0c4b\u0c28\u0c42 \u0c2e\u0c46\u0c30\u0c41\u0c17\u0c48\u0c28\u0c26\u0c3f.",
+                        "th": "\u0e42\u0e21\u0e40\u0e14\u0e25\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e20\u0e32\u0e1e\u0e17\u0e35\u0e48\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32 \u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e43\u0e19\u0e23\u0e32\u0e22\u0e25\u0e30\u0e40\u0e2d\u0e35\u0e22\u0e14 \u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e2d\u0e32\u0e0a\u0e35\u0e1e \u0e41\u0e25\u0e30\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e2d\u0e37\u0e48\u0e19",
+                        "tl": "Ang aming pinakamakapangyarihang image generation model. Mas mahusay sa detalye, professional use, at lahat ng iba pa.",
+                        "tr": "En g\u00fc\u00e7l\u00fc g\u00f6r\u00fcnt\u00fc olu\u015fturma modelimiz. Detay, profesyonel kullan\u0131m ve di\u011fer her \u015feyde daha iyi.",
+                        "uk": "\u041d\u0430\u0448\u0430 \u043d\u0430\u0439\u043f\u043e\u0442\u0443\u0436\u043d\u0456\u0448\u0430 \u043c\u043e\u0434\u0435\u043b\u044c \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0456\u0457 \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u044c. \u041a\u0440\u0430\u0449\u0430 \u0432 \u0434\u0435\u0442\u0430\u043b\u044f\u0445, \u043f\u0440\u043e\u0444\u0435\u0441\u0456\u0439\u043d\u043e\u043c\u0443 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u0456 \u0442\u0430 \u0432\u0441\u044c\u043e\u043c\u0443 \u0456\u043d\u0448\u043e\u043c\u0443.",
+                        "ur-IN": "\u06c1\u0645\u0627\u0631\u0627 \u0633\u0628 \u0633\u06d2 \u0637\u0627\u0642\u062a\u0648\u0631 \u0627\u0645\u06cc\u062c \u062c\u0646\u0631\u06cc\u0634\u0646 \u0645\u0627\u0688\u0644\u06d4 \u062a\u0641\u0635\u06cc\u0644\u060c \u067e\u06cc\u0634\u06c1 \u0648\u0631\u0627\u0646\u06c1 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0648\u0631 \u0628\u0627\u0642\u06cc \u0633\u0628 \u0645\u06cc\u06ba \u0628\u06c1\u062a\u0631\u06d4",
+                        "vi": "M\u00f4 h\u00ecnh t\u1ea1o h\u00ecnh \u1ea3nh m\u1ea1nh m\u1ebd nh\u1ea5t c\u1ee7a ch\u00fang t\u00f4i. T\u1ed1t h\u01a1n v\u1ec1 chi ti\u1ebft, s\u1eed d\u1ee5ng chuy\u00ean nghi\u1ec7p v\u00e0 m\u1ecdi th\u1ee9 kh\u00e1c.",
+                        "zh": "\u6211\u4eec\u6700\u5f3a\u5927\u7684\u56fe\u50cf\u751f\u6210\u6a21\u578b\u3002\u5728\u7ec6\u8282\u3001\u4e13\u4e1a\u7528\u9014\u4ee5\u53ca\u6240\u6709\u5176\u4ed6\u65b9\u9762\u90fd\u66f4\u51fa\u8272\u3002",
+                        "zh-HK": "\u6211\u5011\u6700\u5f37\u5927\u7684\u5716\u50cf\u751f\u6210\u6a21\u578b\u3002\u5728\u7d30\u7bc0\u3001\u5c08\u696d\u7528\u9014\u4ee5\u53ca\u6240\u6709\u5176\u4ed6\u65b9\u9762\u90fd\u66f4\u51fa\u8272\u3002",
+                        "zh-MO": "\u6211\u5011\u6700\u5f37\u5927\u7684\u5716\u50cf\u751f\u6210\u6a21\u578b\u3002\u5728\u7d30\u7bc0\u3001\u5c08\u696d\u7528\u9014\u4ee5\u53ca\u6240\u6709\u5176\u4ed6\u65b9\u9762\u90fd\u66f4\u51fa\u8272\u3002",
+                        "zh-TW": "\u6211\u5011\u6700\u5f37\u5927\u7684\u5716\u50cf\u751f\u6210\u6a21\u578b\u3002\u5728\u7d30\u7bc0\u3001\u5c08\u696d\u7528\u9014\u4ee5\u53ca\u6240\u6709\u5176\u4ed6\u65b9\u9762\u90fd\u66f4\u51fa\u8272\u3002"
+                    },
+                    "video_url": "https://media.x.ai/v1/grok-mobile/image-2.0-launch_v2_mobile_800w_noaudio-611ba95d.mp4",
+                    "cta_text": "Try it out",
+                    "cta_text_translated": {
+                        "ar": "\u062c\u0631\u0651\u0628\u0647 \u0627\u0644\u0622\u0646",
+                        "bg": "\u0418\u0437\u043f\u0440\u043e\u0431\u0432\u0430\u0439 \u0433\u043e",
+                        "bn": "\u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c7 \u09a6\u09c7\u0996\u09c1\u09a8",
+                        "cs": "Vyzkou\u0161ejte",
+                        "da": "Pr\u00f8v den",
+                        "de": "Jetzt ausprobieren",
+                        "el": "\u0394\u03bf\u03ba\u03b9\u03bc\u03ac\u03c3\u03c4\u03b5 \u03c4\u03bf",
+                        "en": "Try it out",
+                        "es": "Pru\u00e9balo",
+                        "es-US": "Pru\u00e9balo",
+                        "fa": "\u0627\u0645\u062a\u062d\u0627\u0646\u0634 \u06a9\u0646\u06cc\u062f",
+                        "fi": "Kokeile",
+                        "fil": "Subukan ito",
+                        "fr": "Essayez-le",
+                        "fr-CA": "Essayez-le",
+                        "he": "\u05e0\u05e1\u05d5 \u05d0\u05d5\u05ea\u05d5",
+                        "hi": "\u0906\u091c\u093c\u092e\u093e\u090f\u0901",
+                        "hr": "Isprobajte",
+                        "hu": "Pr\u00f3b\u00e1ld ki",
+                        "id": "Coba sekarang",
+                        "in": "Coba sekarang",
+                        "it": "Provalo",
+                        "iw": "\u05e0\u05e1\u05d5 \u05d0\u05d5\u05ea\u05d5",
+                        "ja": "\u8a66\u3057\u3066\u307f\u308b",
+                        "ko": "\uc0ac\uc6a9\ud574 \ubcf4\uae30",
+                        "lt": "I\u0161bandykite",
+                        "mr": "\u0935\u093e\u092a\u0930\u0942\u0928 \u092a\u0939\u093e",
+                        "ms": "Cuba sekarang",
+                        "nb": "Pr\u00f8v den",
+                        "nl": "Probeer het",
+                        "nn": "Pr\u00f8v den",
+                        "no": "Pr\u00f8v den",
+                        "pl": "Wypr\u00f3buj",
+                        "pt": "Experimenta",
+                        "pt-BR": "Experimente",
+                        "ro": "\u00cencearc\u0103-l",
+                        "ru": "\u041f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c",
+                        "sk": "Vysk\u00fa\u0161ajte",
+                        "sl": "Preizkusite",
+                        "sv": "Prova den",
+                        "ta": "\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+                        "te": "\u0c2a\u0c4d\u0c30\u0c2f\u0c24\u0c4d\u0c28\u0c3f\u0c02\u0c1a\u0c02\u0c21\u0c3f",
+                        "th": "\u0e25\u0e2d\u0e07\u0e40\u0e25\u0e22",
+                        "tl": "Subukan ito",
+                        "tr": "Deneyin",
+                        "uk": "\u0421\u043f\u0440\u043e\u0431\u0443\u0432\u0430\u0442\u0438",
+                        "ur-IN": "\u0622\u0632\u0645\u0627\u0626\u06cc\u06ba",
+                        "vi": "D\u00f9ng th\u1eed ngay",
+                        "zh": "\u7acb\u5373\u4f53\u9a8c",
+                        "zh-HK": "\u7acb\u5373\u9ad4\u9a57",
+                        "zh-MO": "\u7acb\u5373\u9ad4\u9a57",
+                        "zh-TW": "\u7acb\u5373\u9ad4\u9a57"
+                    },
+                    "type": "IMAGINE_QUALITY",
+                    "is_available_on_app_launch": true
+                }
+            ]
+        },
+        "android_build_tab_enabled": true,
+        "android_build_mode_starters_enabled": true,
+        "android_imagine_usage_limit_unveil": {},
+        "subscriptions_gamma_backend_enabled": true,
+        "android_imagine_free_page_size_restricted": true,
+        "android_chat_message_queue_enabled": true,
+        "android_subscription_feature_lists": {
+            "paywall": {
+                "grok.lite": {
+                    "default": [
+                        "grok_build_access",
+                        "create_apps_single_prompt",
+                        "longer_chats_2x",
+                        "expert_mode",
+                        "imagine_trial",
+                        "increased_limits_regular_speed"
+                    ],
+                    "imagine": [
+                        "grok_build_access",
+                        "create_apps_single_prompt",
+                        "imagine_basic_creation",
+                        "imagine_few_creations_per_day",
+                        "imagine_480p",
+                        "imagine_6_second_video",
+                        "longer_grok_chats_2x"
+                    ]
+                },
+                "grok.pro": {
+                    "default": [
+                        "everything_in_lite_if_available",
+                        "longer_chats_5x",
+                        "create_apps_single_prompt",
+                        "expert_mode_smarter_answers_higher_limits",
+                        "imagine_stunning_creation_hd",
+                        "longer_voice_conversations_paywall",
+                        "faster_replies",
+                        "more_powerful_coding_tools"
+                    ],
+                    "chat": [
+                        "everything_in_lite_if_available",
+                        "longer_chats_5x",
+                        "create_apps_single_prompt",
+                        "more_usage_lightning_fast",
+                        "faster_replies_priority_access",
+                        "longer_voice_mode"
+                    ],
+                    "imagine": [
+                        "everything_in_lite_if_available",
+                        "imagine_stunning_creation",
+                        "create_apps_single_prompt",
+                        "imagine_20x_more_usage_fast",
+                        "imagine_720p",
+                        "imagine_30_second_video",
+                        "longer_grok_chats_5x"
+                    ]
+                },
+                "grok.plus": {
+                    "default": [
+                        "everything_in_super_grok",
+                        "create_1080p_videos",
+                        "significantly_higher_usage_across_products",
+                        "lightning_fast_replies",
+                        "priority_access_at_peak_times",
+                        "early_access_to_new_features"
+                    ]
+                },
+                "grok.ultra": {
+                    "default": [
+                        "everything_in_super_grok_or_plus",
+                        "highest_usage_fastest_speed",
+                        "solve_hard_problems",
+                        "most_powerful_intelligence",
+                        "x_premium_plus_included",
+                        "earliest_access_to_new_products"
+                    ]
+                }
+            },
+            "info": {
+                "grok.lite": [
+                    "longer_chats_with_grok_access",
+                    "grok_imagine_short_videos",
+                    "better_memory",
+                    "higher_limits_and_access",
+                    "voice_with_vision"
+                ],
+                "grok.pro": [
+                    "worlds_smartest_models",
+                    "expert_mode_smarter_answers_info",
+                    "grok_imagine_multi_scene_videos",
+                    "fastest_complex_responses",
+                    "enhanced_productivity",
+                    "early_access"
+                ],
+                "grok.ultra": [
+                    "most_powerful_models",
+                    "advanced_agent_teams",
+                    "maximum_speed",
+                    "premium_video_generation",
+                    "ultimate_productivity",
+                    "dedicated_support_direct_access",
+                    "earliest_access"
+                ]
+            },
+            "cancellation": {
+                "grok.lite": [
+                    "longer_chats_2x",
+                    "expert_mode_single_agent",
+                    "imagine_trial_cancellation",
+                    "increased_limits_regular_speed_cancellation"
+                ],
+                "grok.pro": [
+                    "worlds_smartest_ai_models",
+                    "fast_responses_at_peak",
+                    "longer_chats_deeper_memory",
+                    "more_media_generation",
+                    "longer_voice_conversations",
+                    "priority_access_at_peak"
+                ],
+                "grok.ultra": [
+                    "worlds_smartest_ai_model_heavy",
+                    "fastest_responses_at_peak",
+                    "highest_chat_limits",
+                    "highest_media_limits",
+                    "priority_access_at_peak",
+                    "dedicated_support"
+                ]
+            },
+            "churn_prevention": {
+                "grok.lite": [
+                    "faster_better_answers",
+                    "more_chat_usage",
+                    "keep_grok_imagine_access"
+                ],
+                "grok.pro": [
+                    "fastest_best_answers",
+                    "chat_usage_10x",
+                    "media_generation_50x"
+                ],
+                "grok.ultra": [
+                    "fastest_best_answers",
+                    "chat_usage_20x",
+                    "media_generation_100x"
+                ]
+            },
+            "downgrade": {
+                "grok.lite": [
+                    "longer_chats_2x",
+                    "keep_grok_imagine_access",
+                    "faster_responses",
+                    "higher_daily_limits"
+                ],
+                "grok.pro": [
+                    "longer_chats_5x",
+                    "expert_mode_smarter_answers",
+                    "imagine_stunning_creation_hd",
+                    "lightning_fast_replies"
+                ],
+                "grok.plus": [
+                    "significantly_higher_usage",
+                    "imagine_stunning_creation_full_hd",
+                    "lightning_fast_replies"
+                ]
+            },
+            "post_payment": {
+                "grok.lite": [
+                    "longer_chats_better_memory",
+                    "grok_imagine_creativity",
+                    "real_time_information"
+                ],
+                "grok.pro": [
+                    "unlimited_intelligence",
+                    "maximum_creativity",
+                    "real_time_information_extended"
+                ],
+                "grok.plus": [
+                    "significantly_higher_usage_extended",
+                    "lightning_fast_speed",
+                    "early_access_extended"
+                ],
+                "grok.ultra": [
+                    "best_intelligence",
+                    "highest_usage",
+                    "dedicated_support_priority"
+                ]
+            }
+        },
+        "android_build_apps_preset_enabled": true,
+        "android_voice_plain_notification_enabled": true,
+        "android_imagine_audio_samples_config": {
+            "baseUrl": "https://app-media.x.ai/voice-samples/imagine/",
+            "version": 2,
+            "voices": [
+                {
+                    "id": "ara",
+                    "assetId": "c75a0ba4-0e2f-4a0b-b1f3-acee2d2a1887"
+                },
+                {
+                    "id": "eve",
+                    "assetId": "4c671160-f2a1-45bc-bb26-15aa8eae2357"
+                },
+                {
+                    "id": "leo",
+                    "assetId": "2c516e97-b05d-44cd-b4ee-ecefedf8f2dc"
+                },
+                {
+                    "id": "rex",
+                    "assetId": "1ec1c4ec-0c17-415e-b979-e4e4d483f41f"
+                },
+                {
+                    "id": "sal",
+                    "assetId": "8c1f8c1e-6f5b-4a53-bffe-cae35ac07336"
+                },
+                {
+                    "id": "carina",
+                    "assetId": "134d17df-266e-4b60-b652-115b756d7283"
+                },
+                {
+                    "id": "zagan",
+                    "assetId": "4f0b09ae-59be-419b-ac7f-d26d6fc729d5"
+                },
+                {
+                    "id": "helix",
+                    "assetId": "67558331-1bbd-4ae0-beb2-a24f76777268"
+                },
+                {
+                    "id": "orion",
+                    "assetId": "7c16c286-ce34-4e1f-a75c-5ecdc52139e8"
+                },
+                {
+                    "id": "luna",
+                    "assetId": "7946ff67-5327-4105-83b8-4cce2166dff0"
+                },
+                {
+                    "id": "iris",
+                    "assetId": "46ae018f-3359-4abd-be21-d7c4a45ef591"
+                },
+                {
+                    "id": "altair",
+                    "assetId": "8e0f9cba-c6c4-40e3-92fd-c0e6be2b4f79"
+                },
+                {
+                    "id": "zenith",
+                    "assetId": "542568f4-5160-4073-bd3e-8bc1b77f6cfa"
+                },
+                {
+                    "id": "perseus",
+                    "assetId": "a009ea94-c2d7-48f5-b91c-26dec4e0c96c"
+                },
+                {
+                    "id": "helios",
+                    "assetId": "3b4a0c63-b162-4ba6-ad51-d86849eaaacc"
+                },
+                {
+                    "id": "lux",
+                    "assetId": "c9c419d7-2f8a-4358-9e97-7d5745ac278e"
+                },
+                {
+                    "id": "kepler",
+                    "assetId": "efe5b3f7-6a9a-420e-823a-adbe6db0a5a9"
+                },
+                {
+                    "id": "rigel",
+                    "assetId": "6ea6d3b7-5151-4764-ac3e-4ecf582f6ccd"
+                },
+                {
+                    "id": "cosmo",
+                    "assetId": "424b0b29-0536-406a-b94c-aab1fb7f0e1e"
+                },
+                {
+                    "id": "celeste",
+                    "assetId": "4b974f82-a69b-4b71-9d57-5e49f8682c1d"
+                },
+                {
+                    "id": "ursa",
+                    "assetId": "fa969a47-a949-45b0-973f-626c5594ae49"
+                },
+                {
+                    "id": "sirius",
+                    "assetId": "af624582-24ae-44c0-bb5b-3afd5f70be80"
+                },
+                {
+                    "id": "lumen",
+                    "assetId": "b9185b47-df03-4856-9070-f86defcb5028"
+                },
+                {
+                    "id": "castor",
+                    "assetId": "0f4b053b-2852-4c8e-9fde-cb3d07cdaab5"
+                },
+                {
+                    "id": "naksh",
+                    "assetId": "68388613-dcae-47a7-8573-111f198e27c1"
+                },
+                {
+                    "id": "atlas",
+                    "assetId": "55e0372b-4cee-4fbd-bbe5-30924f421309"
+                }
+            ]
+        },
+        "android_chat_background_tasks_enabled": true,
+        "consumer_marketing_consent_enabled_v2": false,
+        "android_imagine_custom_audio_enabled": false,
+        "android_imagine_audio_consent_config_2": {
+            "version": 2,
+            "sections": [
+                {
+                    "title": {
+                        "en": "The terms that apply",
+                        "ar": "\u0627\u0644\u0634\u0631\u0648\u0637 \u0627\u0644\u0633\u0627\u0631\u064a\u0629",
+                        "bg": "\u041f\u0440\u0438\u043b\u043e\u0436\u0438\u043c\u0438\u0442\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f",
+                        "bn": "\u09aa\u09cd\u09b0\u09af\u09cb\u099c\u09cd\u09af \u09b6\u09b0\u09cd\u09a4\u09be\u09ac\u09b2\u09c0",
+                        "cs": "Platn\u00e9 podm\u00ednky",
+                        "da": "De g\u00e6ldende vilk\u00e5r",
+                        "de": "Die geltenden Bedingungen",
+                        "el": "\u039f\u03b9 \u03b9\u03c3\u03c7\u03cd\u03bf\u03bd\u03c4\u03b5\u03c2 \u03cc\u03c1\u03bf\u03b9",
+                        "es": "Los t\u00e9rminos aplicables",
+                        "es-US": "Los t\u00e9rminos aplicables",
+                        "fa": "\u0634\u0631\u0627\u06cc\u0637 \u0627\u0639\u0645\u0627\u0644\u200c\u0634\u062f\u0647",
+                        "fi": "Sovellettavat ehdot",
+                        "fil": "Ang mga tuntuning naaangkop",
+                        "fr": "Les conditions applicables",
+                        "fr-CA": "Les conditions applicables",
+                        "he": "\u05d4\u05ea\u05e0\u05d0\u05d9\u05dd \u05d4\u05d7\u05dc\u05d9\u05dd",
+                        "hi": "\u0932\u093e\u0917\u0942 \u0936\u0930\u094d\u0924\u0947\u0902",
+                        "hr": "Mjerodavni uvjeti",
+                        "hu": "Az alkalmazand\u00f3 felt\u00e9telek",
+                        "id": "Ketentuan yang berlaku",
+                        "it": "I termini applicabili",
+                        "ja": "\u9069\u7528\u3055\u308c\u308b\u6761\u4ef6",
+                        "ko": "\uc801\uc6a9\ub418\ub294 \uc57d\uad00",
+                        "lt": "Taikomos s\u0105lygos",
+                        "mr": "\u0932\u093e\u0917\u0942 \u0939\u094b\u0923\u093e\u0931\u094d\u092f\u093e \u0905\u091f\u0940",
+                        "ms": "Terma yang terpakai",
+                        "nl": "De toepasselijke voorwaarden",
+                        "no": "De gjeldende vilk\u00e5rene",
+                        "pl": "Obowi\u0105zuj\u0105ce warunki",
+                        "pt": "Os termos aplic\u00e1veis",
+                        "pt-BR": "Os termos aplic\u00e1veis",
+                        "ro": "Termenii aplicabili",
+                        "ru": "\u041f\u0440\u0438\u043c\u0435\u043d\u0438\u043c\u044b\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f",
+                        "sk": "Platn\u00e9 podmienky",
+                        "sl": "Veljavni pogoji",
+                        "sv": "De till\u00e4mpliga villkoren",
+                        "ta": "\u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
+                        "te": "\u0c35\u0c30\u0c4d\u0c24\u0c3f\u0c02\u0c1a\u0c47 \u0c28\u0c3f\u0c2c\u0c02\u0c27\u0c28\u0c32\u0c41",
+                        "th": "\u0e02\u0e49\u0e2d\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e1a\u0e31\u0e07\u0e04\u0e31\u0e1a",
+                        "tr": "Ge\u00e7erli \u015fartlar",
+                        "uk": "\u0417\u0430\u0441\u0442\u043e\u0441\u043e\u0432\u043d\u0456 \u0443\u043c\u043e\u0432\u0438",
+                        "ur-IN": "\u0644\u0627\u06af\u0648 \u0634\u0631\u0627\u0626\u0637",
+                        "vi": "C\u00e1c \u0111i\u1ec1u kho\u1ea3n \u00e1p d\u1ee5ng",
+                        "zh-CN": "\u9002\u7528\u6761\u6b3e",
+                        "zh-TW": "\u9069\u7528\u689d\u6b3e"
+                    },
+                    "body": {
+                        "en": "By clicking \"I agree\", in addition to complying with the applicable [Terms of Service](https://x.ai/legal/terms-of-service) and [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), you further agree:",
+                        "ar": "\u0628\u0627\u0644\u0646\u0642\u0631 \u0639\u0644\u0649 \"\u0623\u0648\u0627\u0641\u0642\"\u060c \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u0627\u0645\u062a\u062b\u0627\u0644 \u0644\u0640[\u0634\u0631\u0648\u0637 \u0627\u0644\u062e\u062f\u0645\u0629](https://x.ai/legal/terms-of-service) \u0648[\u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0645\u0642\u0628\u0648\u0644](https://x.ai/legal/acceptable-use-policy) \u0627\u0644\u0633\u0627\u0631\u064a\u062a\u064e\u064a\u0646\u060c \u0641\u0625\u0646\u0643 \u062a\u0648\u0627\u0641\u0642 \u0643\u0630\u0644\u0643 \u0639\u0644\u0649 \u0645\u0627 \u064a\u0644\u064a:",
+                        "bg": "\u0421 \u043d\u0430\u0442\u0438\u0441\u043a\u0430\u043d\u0435\u0442\u043e \u043d\u0430 \u201e\u0421\u044a\u0433\u043b\u0430\u0441\u0435\u043d \u0441\u044a\u043c\u201c, \u0432 \u0434\u043e\u043f\u044a\u043b\u043d\u0435\u043d\u0438\u0435 \u043a\u044a\u043c \u0441\u043f\u0430\u0437\u0432\u0430\u043d\u0435\u0442\u043e \u043d\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0438\u043c\u0438\u0442\u0435 [\u0423\u0441\u043b\u043e\u0432\u0438\u044f \u0437\u0430 \u043f\u043e\u043b\u0437\u0432\u0430\u043d\u0435](https://x.ai/legal/terms-of-service) \u0438 [\u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u0437\u0430 \u043f\u0440\u0438\u0435\u043c\u043b\u0438\u0432\u0430 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u0430](https://x.ai/legal/acceptable-use-policy), \u0432\u0438\u0435 \u0441\u044a\u0449\u043e \u0441\u0435 \u0441\u044a\u0433\u043b\u0430\u0441\u044f\u0432\u0430\u0442\u0435, \u0447\u0435:",
+                        "bn": "\"\u0986\u09ae\u09bf \u09b8\u09ae\u09cd\u09ae\u09a4\" \u0995\u09cd\u09b2\u09bf\u0995 \u0995\u09b0\u09c7, \u09aa\u09cd\u09b0\u09af\u09cb\u099c\u09cd\u09af [\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be\u09b0 \u09b6\u09b0\u09cd\u09a4\u09be\u09ac\u09b2\u09c0](https://x.ai/legal/terms-of-service) \u098f\u09ac\u0982 [\u0997\u09cd\u09b0\u09b9\u09a3\u09af\u09cb\u0997\u09cd\u09af \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u09a8\u09c0\u09a4\u09bf](https://x.ai/legal/acceptable-use-policy) \u09ae\u09c7\u09a8\u09c7 \u099a\u09b2\u09be\u09b0 \u09aa\u09be\u09b6\u09be\u09aa\u09be\u09b6\u09bf \u0986\u09aa\u09a8\u09bf \u0986\u09b0\u0993 \u09b8\u09ae\u09cd\u09ae\u09a4 \u09b9\u09a8:",
+                        "cs": "Kliknut\u00edm na \u201eSouhlas\u00edm\u201c krom\u011b dodr\u017eov\u00e1n\u00ed p\u0159\u00edslu\u0161n\u00fdch dokument\u016f [Podm\u00ednky slu\u017eby](https://x.ai/legal/terms-of-service) a [Z\u00e1sady p\u0159ijateln\u00e9ho pou\u017e\u00edv\u00e1n\u00ed](https://x.ai/legal/acceptable-use-policy) d\u00e1le souhlas\u00edte s t\u00edm, \u017ee:",
+                        "da": "N\u00e5r du klikker p\u00e5 \"Jeg accepterer\", accepterer du, ud over at overholde de g\u00e6ldende [Betingelser for brug](https://x.ai/legal/terms-of-service) og [Acceptabel Anvendelsespolitik](https://x.ai/legal/acceptable-use-policy), desuden at:",
+                        "de": "Indem Sie auf \u201eIch stimme zu\u201c klicken, stimmen Sie zus\u00e4tzlich zur Einhaltung der geltenden [Nutzungsbedingungen](https://x.ai/legal/terms-of-service) und der [Akzeptable Nutzungsrichtlinien](https://x.ai/legal/acceptable-use-policy) au\u00dferdem zu:",
+                        "el": "\u039a\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03ba\u03bb\u03b9\u03ba \u03c3\u03c4\u03bf \"\u03a3\u03c5\u03bc\u03c6\u03c9\u03bd\u03ce\", \u03c0\u03ad\u03c1\u03b1\u03bd \u03c4\u03b7\u03c2 \u03c3\u03c5\u03bc\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7\u03c2 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b9\u03c3\u03c7\u03cd\u03bf\u03bd\u03c4\u03b5\u03c2 [\u038c\u03c1\u03bf\u03b9 \u03c0\u03b1\u03c1\u03bf\u03c7\u03ae\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd](https://x.ai/legal/terms-of-service) \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd [\u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae \u0391\u03c0\u03bf\u03b4\u03b5\u03ba\u03c4\u03ae\u03c2 \u03a7\u03c1\u03ae\u03c3\u03b7\u03c2](https://x.ai/legal/acceptable-use-policy), \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03b5\u03af\u03c4\u03b5 \u03b5\u03c0\u03b9\u03c0\u03bb\u03ad\u03bf\u03bd \u03cc\u03c4\u03b9:",
+                        "es": "Al hacer clic en \"Acepto\", adem\u00e1s de cumplir con los [T\u00e9rminos de Servicio](https://x.ai/legal/terms-of-service) y la [Pol\u00edtica de Uso Aceptable](https://x.ai/legal/acceptable-use-policy) aplicables, usted tambi\u00e9n acepta que:",
+                        "es-US": "Al hacer clic en \"Acepto\", adem\u00e1s de cumplir con los [T\u00e9rminos de servicio](https://x.ai/legal/terms-of-service) y la [Pol\u00edtica de Uso Aceptable](https://x.ai/legal/acceptable-use-policy) aplicables, usted tambi\u00e9n acepta que:",
+                        "fa": "\u0628\u0627 \u06a9\u0644\u06cc\u06a9 \u0631\u0648\u06cc \u00ab\u0645\u0648\u0627\u0641\u0642\u0645\u00bb\u060c \u0639\u0644\u0627\u0648\u0647 \u0628\u0631 \u0631\u0639\u0627\u06cc\u062a [\u0634\u0631\u0627\u06cc\u0637 \u062e\u062f\u0645\u0627\u062a](https://x.ai/legal/terms-of-service) \u0648 [\u0633\u06cc\u0627\u0633\u062a \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0642\u0627\u0628\u0644 \u0642\u0628\u0648\u0644](https://x.ai/legal/acceptable-use-policy) \u0645\u0631\u0628\u0648\u0637\u060c \u0647\u0645\u0686\u0646\u06cc\u0646 \u0645\u0648\u0627\u0641\u0642\u062a \u0645\u06cc\u200c\u06a9\u0646\u06cc\u062f \u06a9\u0647:",
+                        "fi": "Napsauttamalla \"Hyv\u00e4ksyn\" sitoudut sovellettavien ehtojen [Palvelun ehdot](https://x.ai/legal/terms-of-service) ja [Hyv\u00e4ksytt\u00e4v\u00e4 K\u00e4ytt\u00f6k\u00e4yt\u00e4nt\u00f6](https://x.ai/legal/acceptable-use-policy) noudattamisen lis\u00e4ksi my\u00f6s seuraavaan:",
+                        "fil": "Sa pag-click sa \"Sumasang-ayon ako\", bukod sa pagsunod sa naaangkop na [Mga Tuntunin ng Serbisyo](https://x.ai/legal/terms-of-service) at [Patakaran sa Katanggap-tanggap na Paggamit](https://x.ai/legal/acceptable-use-policy), sumasang-ayon ka pa na:",
+                        "fr": "En cliquant sur \u00ab\u00a0J'accepte\u00a0\u00bb, outre le respect des [Conditions d'utilisation](https://x.ai/legal/terms-of-service) et de la [Politique d'utilisation acceptable](https://x.ai/legal/acceptable-use-policy) applicables, vous acceptez en outre que\u00a0:",
+                        "fr-CA": "En cliquant sur \u00ab\u00a0J'accepte\u00a0\u00bb, outre le respect des [Conditions d'utilisation](https://x.ai/legal/terms-of-service) et de la [Politique d'utilisation acceptable](https://x.ai/legal/acceptable-use-policy) applicables, vous acceptez en outre que\u00a0:",
+                        "he": "\u05d1\u05dc\u05d7\u05d9\u05e6\u05d4 \u05e2\u05dc \"\u05d0\u05e0\u05d9 \u05de\u05e1\u05db\u05d9\u05dd\", \u05d1\u05e0\u05d5\u05e1\u05e3 \u05dc\u05e2\u05de\u05d9\u05d3\u05d4 \u05d1[\u05ea\u05e0\u05d0\u05d9 \u05d4\u05e9\u05d9\u05e8\u05d5\u05ea](https://x.ai/legal/terms-of-service) \u05d5\u05d1[\u05de\u05d3\u05d9\u05e0\u05d9\u05d5\u05ea \u05e9\u05d9\u05de\u05d5\u05e9 \u05de\u05e7\u05d5\u05d1\u05dc\u05ea](https://x.ai/legal/acceptable-use-policy) \u05d4\u05d7\u05dc\u05d9\u05dd, \u05d0\u05ea\u05d4 \u05de\u05e1\u05db\u05d9\u05dd \u05d2\u05dd \u05db\u05d9:",
+                        "hi": "\"\u092e\u0948\u0902 \u0938\u0939\u092e\u0924 \u0939\u0942\u0901\" \u092a\u0930 \u0915\u094d\u0932\u093f\u0915 \u0915\u0930\u0915\u0947, \u0932\u093e\u0917\u0942 [\u0938\u0947\u0935\u093e \u0915\u0940 \u0936\u0930\u094d\u0924\u0947\u0902](https://x.ai/legal/terms-of-service) \u0914\u0930 [\u0938\u094d\u0935\u0940\u0915\u093e\u0930\u094d\u092f \u0909\u092a\u092f\u094b\u0917 \u0928\u0940\u0924\u093f](https://x.ai/legal/acceptable-use-policy) \u0915\u093e \u092a\u093e\u0932\u0928 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0938\u093e\u0925-\u0938\u093e\u0925 \u0906\u092a \u092f\u0939 \u092d\u0940 \u0938\u0939\u092e\u0924 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902:",
+                        "hr": "Klikom na \u201eSla\u017eem se\u201d, uz po\u0161tivanje mjerodavnih dokumenata [Uvjeti kori\u0161tenja](https://x.ai/legal/terms-of-service) i [Politika prihvatljive upotrebe](https://x.ai/legal/acceptable-use-policy), dodatno pristajete na sljede\u0107e:",
+                        "hu": "Az \u201eElfogadom\u201d gombra kattintva, a vonatkoz\u00f3 [Felhaszn\u00e1l\u00e1si felt\u00e9telek](https://x.ai/legal/terms-of-service) \u00e9s az [Az elfogadhat\u00f3 haszn\u00e1lat ir\u00e1nyelvei](https://x.ai/legal/acceptable-use-policy) betart\u00e1s\u00e1n t\u00fal azt is elfogadja, hogy:",
+                        "id": "Dengan mengeklik \"Saya setuju\", selain mematuhi [Ketentuan Layanan](https://x.ai/legal/terms-of-service) dan [Kebijakan Penggunaan yang Dapat Diterima](https://x.ai/legal/acceptable-use-policy) yang berlaku, Anda juga menyetujui bahwa:",
+                        "it": "Facendo clic su \"Accetto\", oltre a rispettare i [Termini di servizio](https://x.ai/legal/terms-of-service) e la [Politica Di Utilizzo Accettabile](https://x.ai/legal/acceptable-use-policy) applicabili, accetti inoltre che:",
+                        "ja": "\u300c\u540c\u610f\u3059\u308b\u300d\u3092\u30af\u30ea\u30c3\u30af\u3059\u308b\u3053\u3068\u306b\u3088\u308a\u3001\u9069\u7528\u3055\u308c\u308b[\u5229\u7528\u898f\u7d04](https://x.ai/legal/terms-of-service)\u304a\u3088\u3073[\u8a31\u5bb9\u53ef\u80fd\u306a\u4f7f\u7528\u30dd\u30ea\u30b7\u30fc](https://x.ai/legal/acceptable-use-policy)\u306e\u9075\u5b88\u306b\u52a0\u3048\u3001\u4ee5\u4e0b\u306b\u3082\u540c\u610f\u3057\u305f\u3082\u306e\u3068\u3057\u307e\u3059\u3002",
+                        "ko": "\"\ub3d9\uc758\ud569\ub2c8\ub2e4\"\ub97c \ud074\ub9ad\ud558\uba74 \uc801\uc6a9\ub418\ub294 [\uc774\uc6a9 \uc57d\uad00](https://x.ai/legal/terms-of-service) \ubc0f [\ud5c8\uc6a9 \uac00\ub2a5\ud55c \uc0ac\uc6a9 \uc815\ucc45](https://x.ai/legal/acceptable-use-policy)\uc744(\ub97c) \uc900\uc218\ud558\ub294 \uac83\uc5d0 \ub354\ud558\uc5ec \ub2e4\uc74c\uc5d0 \ucd94\uac00\ub85c \ub3d9\uc758\ud558\uac8c \ub429\ub2c8\ub2e4.",
+                        "lt": "Spustel\u0117dami \u201eSutinku\u201c, be taikom\u0173 [Paslaug\u0173 teikimo s\u0105lygos](https://x.ai/legal/terms-of-service) ir [Priimtino naudojimo politika](https://x.ai/legal/acceptable-use-policy) laikymosi, taip pat sutinkate, kad:",
+                        "mr": "\"\u092e\u0940 \u0938\u0939\u092e\u0924 \u0906\u0939\u0947\" \u0935\u0930 \u0915\u094d\u0932\u093f\u0915 \u0915\u0930\u0942\u0928, \u0932\u093e\u0917\u0942 [\u0935\u093e\u092a\u0930\u0923\u094d\u092f\u093e\u091a\u094d\u092f\u093e \u0905\u091f\u0940](https://x.ai/legal/terms-of-service) \u0906\u0923\u093f [\u0938\u094d\u0935\u0940\u0915\u093e\u0930\u094d\u092f \u0909\u092a\u092f\u094b\u0917 \u0927\u094b\u0930\u0923](https://x.ai/legal/acceptable-use-policy) \u091a\u0947 \u092a\u093e\u0932\u0928 \u0915\u0930\u0923\u094d\u092f\u093e\u0935\u094d\u092f\u0924\u093f\u0930\u093f\u0915\u094d\u0924 \u0924\u0941\u092e\u094d\u0939\u0940 \u092a\u0941\u0922\u0940\u0932 \u0917\u094b\u0937\u094d\u091f\u0940\u0902\u0928\u093e\u0939\u0940 \u0938\u0939\u092e\u0924\u0940 \u0926\u0947\u0924\u093e:",
+                        "ms": "Dengan mengklik \"Saya setuju\", selain mematuhi [Terma Perkhidmatan](https://x.ai/legal/terms-of-service) dan [Dasar Penggunaan Boleh Diterima](https://x.ai/legal/acceptable-use-policy) yang terpakai, anda juga bersetuju bahawa:",
+                        "nl": "Door op \"Ik ga akkoord\" te klikken, stemt u er naast naleving van de toepasselijke [Algemene gebruiksvoorwaarden](https://x.ai/legal/terms-of-service) en [Acceptabele gebruiksvoorwaarden](https://x.ai/legal/acceptable-use-policy) ook mee in dat:",
+                        "no": "Ved \u00e5 klikke p\u00e5 \u00abJeg godtar\u00bb samtykker du, i tillegg til \u00e5 overholde gjeldende [Vilk\u00e5r for bruk](https://x.ai/legal/terms-of-service) og [Akseptabel bruk regler](https://x.ai/legal/acceptable-use-policy), ogs\u00e5 i at:",
+                        "pl": "Klikaj\u0105c \u201eZgadzam si\u0119\u201d, opr\u00f3cz przestrzegania obowi\u0105zuj\u0105cych dokument\u00f3w [Warunki korzystania z us\u0142ugi](https://x.ai/legal/terms-of-service) oraz [Akceptowalna polityka u\u017cytkowania](https://x.ai/legal/acceptable-use-policy), zgadzasz si\u0119 r\u00f3wnie\u017c, \u017ce:",
+                        "pt": "Ao clicar em \"Concordo\", para al\u00e9m de cumprir os [Termos de Servi\u00e7o](https://x.ai/legal/terms-of-service) e a [Pol\u00edtica de Uso Aceit\u00e1vel](https://x.ai/legal/acceptable-use-policy) aplic\u00e1veis, concorda ainda que:",
+                        "pt-BR": "Ao clicar em \"Concordo\", al\u00e9m de cumprir os [Termos de Servi\u00e7o](https://x.ai/legal/terms-of-service) e a [Pol\u00edtica de Uso Aceit\u00e1vel](https://x.ai/legal/acceptable-use-policy) aplic\u00e1veis, voc\u00ea tamb\u00e9m concorda que:",
+                        "ro": "F\u0103c\u00e2nd clic pe \u201eSunt de acord\", pe l\u00e2ng\u0103 respectarea [Condi\u021bii de utilizare](https://x.ai/legal/terms-of-service) \u0219i a [Politica de utilizare acceptabil\u0103](https://x.ai/legal/acceptable-use-policy) aplicabile, sunte\u021bi de acord \u0219i c\u0103:",
+                        "ru": "\u041d\u0430\u0436\u0438\u043c\u0430\u044f \u00ab\u042f \u0441\u043e\u0433\u043b\u0430\u0441\u0435\u043d\u00bb, \u043f\u043e\u043c\u0438\u043c\u043e \u0441\u043e\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u043c\u044b\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 [\u0423\u0441\u043b\u043e\u0432\u0438\u044f \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0443\u0441\u043b\u0443\u0433](https://x.ai/legal/terms-of-service) \u0438 [\u041f\u0440\u0438\u0435\u043c\u043b\u0435\u043c\u043e\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438](https://x.ai/legal/acceptable-use-policy), \u0432\u044b \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u0433\u043b\u0430\u0448\u0430\u0435\u0442\u0435\u0441\u044c \u0441 \u0442\u0435\u043c, \u0447\u0442\u043e:",
+                        "sk": "Kliknut\u00edm na \u201eS\u00fahlas\u00edm\u201c okrem dodr\u017eiavania pr\u00edslu\u0161n\u00fdch dokumentov [Podmienky pou\u017e\u00edvania](https://x.ai/legal/terms-of-service) a [Z\u00e1sady prijate\u013en\u00e9ho pou\u017e\u00edvania](https://x.ai/legal/acceptable-use-policy) \u010falej s\u00fahlas\u00edte, \u017ee:",
+                        "sl": "S klikom na \u00bbStrinjam se\u00ab se poleg spo\u0161tovanja veljavnih dokumentov [Pogoji storitve](https://x.ai/legal/terms-of-service) in [Politika sprejemljive uporabe](https://x.ai/legal/acceptable-use-policy) dodatno strinjate, da:",
+                        "sv": "Genom att klicka p\u00e5 \"Jag godk\u00e4nner\" godk\u00e4nner du, ut\u00f6ver att f\u00f6lja till\u00e4mpliga [Villkor f\u00f6r tj\u00e4nsten](https://x.ai/legal/terms-of-service) och [Acceptabel anv\u00e4ndningspolicy](https://x.ai/legal/acceptable-use-policy), \u00e4ven att:",
+                        "ta": "\"\u0ba8\u0bbe\u0ba9\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd\" \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bbf\u0bb3\u0bbf\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0ba9\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd, \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd [\u0b9a\u0bc7\u0bb5\u0bc8 \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd](https://x.ai/legal/terms-of-service) \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd [\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8](https://x.ai/legal/acceptable-use-policy) \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bb1\u0bcd\u0bb1\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bcb\u0b9f\u0bc1, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd:",
+                        "te": "\"\u0c28\u0c47\u0c28\u0c41 \u0c05\u0c02\u0c17\u0c40\u0c15\u0c30\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41\"\u0c28\u0c3f \u0c15\u0c4d\u0c32\u0c3f\u0c15\u0c4d \u0c1a\u0c47\u0c2f\u0c21\u0c02 \u0c26\u0c4d\u0c35\u0c3e\u0c30\u0c3e, \u0c35\u0c30\u0c4d\u0c24\u0c3f\u0c02\u0c1a\u0c47 [\u0c38\u0c47\u0c35\u0c3e \u0c28\u0c3f\u0c2c\u0c02\u0c27\u0c28\u0c32\u0c41](https://x.ai/legal/terms-of-service) \u0c2e\u0c30\u0c3f\u0c2f\u0c41 [\u0c06\u0c2e\u0c4b\u0c26\u0c2f\u0c4b\u0c17\u0c4d\u0c2f \u0c35\u0c3f\u0c28\u0c3f\u0c2f\u0c4b\u0c17 \u0c35\u0c3f\u0c27\u0c3e\u0c28\u0c02](https://x.ai/legal/acceptable-use-policy) \u0c2a\u0c3e\u0c1f\u0c3f\u0c02\u0c1a\u0c21\u0c02\u0c24\u0c4b \u0c2a\u0c3e\u0c1f\u0c41 \u0c2e\u0c40\u0c30\u0c41 \u0c07\u0c02\u0c15\u0c3e \u0c07\u0c32\u0c3e \u0c05\u0c02\u0c17\u0c40\u0c15\u0c30\u0c3f\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c41:",
+                        "th": "\u0e01\u0e32\u0e23\u0e04\u0e25\u0e34\u0e01 \"\u0e09\u0e31\u0e19\u0e22\u0e2d\u0e21\u0e23\u0e31\u0e1a\" \u0e19\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e15\u0e32\u0e21 [\u0e02\u0e49\u0e2d\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e49\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23](https://x.ai/legal/terms-of-service) \u0e41\u0e25\u0e30 [\u0e19\u0e42\u0e22\u0e1a\u0e32\u0e22\u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e22\u0e2d\u0e21\u0e23\u0e31\u0e1a\u0e44\u0e14\u0e49](https://x.ai/legal/acceptable-use-policy) \u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e1a\u0e31\u0e07\u0e04\u0e31\u0e1a\u0e41\u0e25\u0e49\u0e27 \u0e04\u0e38\u0e13\u0e22\u0e31\u0e07\u0e15\u0e01\u0e25\u0e07\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e27\u0e48\u0e32:",
+                        "tr": "\"Kabul ediyorum\" \u00f6\u011fesine t\u0131klayarak, ge\u00e7erli [Kullan\u0131m Ko\u015fullar\u0131](https://x.ai/legal/terms-of-service) ve [Kabul Edilebilir Kullan\u0131m Politikas\u0131](https://x.ai/legal/acceptable-use-policy) belgelerine uyman\u0131n yan\u0131 s\u0131ra ayr\u0131ca \u015funlar\u0131 da kabul etmi\u015f olursunuz:",
+                        "uk": "\u041d\u0430\u0442\u0438\u0441\u043a\u0430\u044e\u0447\u0438 \u00ab\u042f \u043f\u043e\u0433\u043e\u0434\u0436\u0443\u044e\u0441\u044c\u00bb, \u043d\u0430 \u0434\u043e\u0434\u0430\u0442\u043e\u043a \u0434\u043e \u0434\u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0437\u0430\u0441\u0442\u043e\u0441\u043e\u0432\u043d\u0438\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 [\u0423\u043c\u043e\u0432\u0438 \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f](https://x.ai/legal/terms-of-service) \u0456 [\u041f\u0440\u0438\u0439\u043d\u044f\u0442\u043d\u0435 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u043f\u043e\u043b\u0456\u0442\u0438\u043a\u0438](https://x.ai/legal/acceptable-use-policy) \u0432\u0438 \u0442\u0430\u043a\u043e\u0436 \u043f\u043e\u0433\u043e\u0434\u0436\u0443\u0454\u0442\u0435\u0441\u044f \u0437 \u0442\u0438\u043c, \u0449\u043e:",
+                        "ur-IN": "\"\u0645\u06cc\u06ba \u0645\u062a\u0641\u0642 \u06c1\u0648\u06ba\" \u067e\u0631 \u06a9\u0644\u06a9 \u06a9\u0631 \u06a9\u06d2\u060c \u0644\u0627\u06af\u0648 [\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u06cc \u0634\u0631\u0627\u0626\u0637](https://x.ai/legal/terms-of-service) \u0627\u0648\u0631 [\u0642\u0627\u0628\u0644 \u0642\u0628\u0648\u0644 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u06cc \u067e\u0627\u0644\u06cc\u0633\u06cc](https://x.ai/legal/acceptable-use-policy) \u06a9\u06cc \u062a\u0639\u0645\u06cc\u0644 \u06a9\u06d2 \u0639\u0644\u0627\u0648\u06c1 \u0622\u067e \u0645\u0632\u06cc\u062f \u0627\u0633 \u0628\u0627\u062a \u0633\u06d2 \u0628\u06be\u06cc \u0645\u062a\u0641\u0642 \u06c1\u06cc\u06ba:",
+                        "vi": "B\u1eb1ng c\u00e1ch nh\u1ea5n \"T\u00f4i \u0111\u1ed3ng \u00fd\", ngo\u00e0i vi\u1ec7c tu\u00e2n th\u1ee7 [\u0110i\u1ec1u kho\u1ea3n d\u1ecbch v\u1ee5](https://x.ai/legal/terms-of-service) v\u00e0 [Ch\u00ednh s\u00e1ch s\u1eed d\u1ee5ng c\u00f3 th\u1ec3 ch\u1ea5p nh\u1eadn](https://x.ai/legal/acceptable-use-policy) \u00e1p d\u1ee5ng, b\u1ea1n c\u00f2n \u0111\u1ed3ng \u00fd r\u1eb1ng:",
+                        "zh-CN": "\u70b9\u51fb\u201c\u6211\u540c\u610f\u201d\u5373\u8868\u793a\uff0c\u9664\u9075\u5b88\u9002\u7528\u7684[\u670d\u52a1\u6761\u6b3e](https://x.ai/legal/terms-of-service)\u548c[\u53ef\u63a5\u53d7\u7684\u4f7f\u7528\u7b56\u7565](https://x.ai/legal/acceptable-use-policy)\u5916\uff0c\u60a8\u8fd8\u8fdb\u4e00\u6b65\u540c\u610f\uff1a",
+                        "zh-TW": "\u9ede\u64ca\u300c\u6211\u540c\u610f\u300d\u5373\u8868\u793a\uff0c\u9664\u9075\u5b88\u9069\u7528\u7684[\u670d\u52d9\u689d\u6b3e](https://x.ai/legal/terms-of-service)\u548c[\u53ef\u63a5\u53d7\u4f7f\u7528\u653f\u7b56](https://x.ai/legal/acceptable-use-policy)\u5916\uff0c\u60a8\u9084\u9032\u4e00\u6b65\u540c\u610f\uff1a"
+                    }
+                },
+                {
+                    "title": {
+                        "en": "You are responsible for your content",
+                        "ar": "\u0623\u0646\u062a \u0645\u0633\u0624\u0648\u0644 \u0639\u0646 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u062e\u0627\u0635 \u0628\u0643",
+                        "bg": "\u0412\u0438\u0435 \u043d\u043e\u0441\u0438\u0442\u0435 \u043e\u0442\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0441\u0442 \u0437\u0430 \u0441\u0432\u043e\u0435\u0442\u043e \u0441\u044a\u0434\u044a\u0440\u0436\u0430\u043d\u0438\u0435",
+                        "bn": "\u0986\u09aa\u09a8\u09bf \u0986\u09aa\u09a8\u09be\u09b0 \u0995\u09a8\u099f\u09c7\u09a8\u09cd\u099f\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09a6\u09be\u09af\u09bc\u09c0",
+                        "cs": "Za sv\u016fj obsah nesete odpov\u011bdnost vy",
+                        "da": "Du er ansvarlig for dit indhold",
+                        "de": "Sie sind f\u00fcr Ihre Inhalte verantwortlich",
+                        "el": "\u0395\u03af\u03c3\u03c4\u03b5 \u03c5\u03c0\u03b5\u03cd\u03b8\u03c5\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03cc \u03c3\u03b1\u03c2",
+                        "es": "Usted es responsable de su contenido",
+                        "es-US": "Usted es responsable de su contenido",
+                        "fa": "\u0634\u0645\u0627 \u0645\u0633\u0626\u0648\u0644 \u0645\u062d\u062a\u0648\u0627\u06cc \u062e\u0648\u062f \u0647\u0633\u062a\u06cc\u062f",
+                        "fi": "Olet vastuussa sis\u00e4ll\u00f6st\u00e4si",
+                        "fil": "Ikaw ang responsable sa iyong content",
+                        "fr": "Vous \u00eates responsable de votre contenu",
+                        "fr-CA": "Vous \u00eates responsable de votre contenu",
+                        "he": "\u05d0\u05ea\u05d4 \u05d0\u05d7\u05e8\u05d0\u05d9 \u05dc\u05ea\u05d5\u05db\u05df \u05e9\u05dc\u05da",
+                        "hi": "\u0906\u092a \u0905\u092a\u0928\u0940 \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u0915\u0947 \u0932\u093f\u090f \u091c\u093c\u093f\u092e\u094d\u092e\u0947\u0926\u093e\u0930 \u0939\u0948\u0902",
+                        "hr": "Vi ste odgovorni za svoj sadr\u017eaj",
+                        "hu": "\u00d6n felel a tartalm\u00e1\u00e9rt",
+                        "id": "Anda bertanggung jawab atas konten Anda",
+                        "it": "Sei responsabile dei tuoi contenuti",
+                        "ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u306b\u95a2\u3059\u308b\u8cac\u4efb\u306f\u304a\u5ba2\u69d8\u306b\u3042\u308a\u307e\u3059",
+                        "ko": "\ucf58\ud150\uce20\uc5d0 \ub300\ud55c \ucc45\uc784\uc740 \ubcf8\uc778\uc5d0\uac8c \uc788\uc2b5\ub2c8\ub2e4",
+                        "lt": "J\u016bs esate atsakingi u\u017e savo turin\u012f",
+                        "mr": "\u0924\u0941\u092e\u091a\u094d\u092f\u093e \u0938\u093e\u092e\u0917\u094d\u0930\u0940\u0938\u093e\u0920\u0940 \u0924\u0941\u092e\u094d\u0939\u0940 \u091c\u092c\u093e\u092c\u0926\u093e\u0930 \u0906\u0939\u093e\u0924",
+                        "ms": "Anda bertanggungjawab atas kandungan anda",
+                        "nl": "U bent verantwoordelijk voor uw content",
+                        "no": "Du er ansvarlig for innholdet ditt",
+                        "pl": "Ponosisz odpowiedzialno\u015b\u0107 za swoje tre\u015bci",
+                        "pt": "\u00c9 respons\u00e1vel pelo seu conte\u00fado",
+                        "pt-BR": "Voc\u00ea \u00e9 respons\u00e1vel pelo seu conte\u00fado",
+                        "ro": "Sunte\u021bi responsabil pentru con\u021binutul dvs.",
+                        "ru": "\u0412\u044b \u043d\u0435\u0441\u0451\u0442\u0435 \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0437\u0430 \u0441\u0432\u043e\u0439 \u043a\u043e\u043d\u0442\u0435\u043d\u0442",
+                        "sk": "Za svoj obsah nesiete zodpovednos\u0165 vy",
+                        "sl": "Sami ste odgovorni za svojo vsebino",
+                        "sv": "Du ansvarar f\u00f6r ditt inneh\u00e5ll",
+                        "ta": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+                        "te": "\u0c2e\u0c40 \u0c15\u0c02\u0c1f\u0c46\u0c02\u0c1f\u0c4d\u200c\u0c15\u0c41 \u0c2e\u0c40\u0c30\u0c47 \u0c2c\u0c3e\u0c27\u0c4d\u0c2f\u0c41\u0c32\u0c41",
+                        "th": "\u0e04\u0e38\u0e13\u0e23\u0e31\u0e1a\u0e1c\u0e34\u0e14\u0e0a\u0e2d\u0e1a\u0e15\u0e48\u0e2d\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e2b\u0e32\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13",
+                        "tr": "\u0130\u00e7eri\u011finizden siz sorumlusunuz",
+                        "uk": "\u0412\u0438 \u043d\u0435\u0441\u0435\u0442\u0435 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u0456\u0441\u0442\u044c \u0437\u0430 \u0441\u0432\u0456\u0439 \u0432\u043c\u0456\u0441\u0442",
+                        "ur-IN": "\u0622\u067e \u0627\u067e\u0646\u06d2 \u0645\u0648\u0627\u062f \u06a9\u06d2 \u0630\u0645\u06c1 \u062f\u0627\u0631 \u06c1\u06cc\u06ba",
+                        "vi": "B\u1ea1n ch\u1ecbu tr\u00e1ch nhi\u1ec7m v\u1ec1 n\u1ed9i dung c\u1ee7a m\u00ecnh",
+                        "zh-CN": "\u60a8\u987b\u5bf9\u81ea\u5df1\u7684\u5185\u5bb9\u8d1f\u8d23",
+                        "zh-TW": "\u60a8\u9808\u5c0d\u81ea\u5df1\u7684\u5167\u5bb9\u8ca0\u8cac"
+                    },
+                    "body": {
+                        "en": "You are solely responsible for creation, publication, and following all applicable laws in connection with your inputs, outputs, and any other content, including, for example:\\\n\u2022 Obtaining all required consent from any person whose image you upload\\\n\u2022 Applying all appropriate disclosures and labels to any outputs\\\n\u2022 Not infringing the Intellectual Property of others\\\n\u2022 Complying with all applicable laws, rules, and regulations, including those about deepfakes, commercial use, and deceptive practices",
+                        "ar": "\u0623\u0646\u062a \u0648\u062d\u062f\u0643 \u0627\u0644\u0645\u0633\u0624\u0648\u0644 \u0639\u0646 \u0627\u0644\u0625\u0646\u0634\u0627\u0621 \u0648\u0627\u0644\u0646\u0634\u0631 \u0648\u0627\u062a\u0628\u0627\u0639 \u062c\u0645\u064a\u0639 \u0627\u0644\u0642\u0648\u0627\u0646\u064a\u0646 \u0627\u0644\u0633\u0627\u0631\u064a\u0629 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0645\u062f\u062e\u0644\u0627\u062a\u0643 \u0648\u0645\u062e\u0631\u062c\u0627\u062a\u0643 \u0648\u0623\u064a \u0645\u062d\u062a\u0648\u0649 \u0622\u062e\u0631\u060c \u0628\u0645\u0627 \u0641\u064a \u0630\u0644\u0643 \u0639\u0644\u0649 \u0633\u0628\u064a\u0644 \u0627\u0644\u0645\u062b\u0627\u0644:\\\n\u2022 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u062c\u0645\u064a\u0639 \u0627\u0644\u0645\u0648\u0627\u0641\u0642\u0627\u062a \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0629 \u0645\u0646 \u0623\u064a \u0634\u062e\u0635 \u062a\u0642\u0648\u0645 \u0628\u062a\u062d\u0645\u064a\u0644 \u0635\u0648\u0631\u062a\u0647\\\n\u2022 \u062a\u0637\u0628\u064a\u0642 \u062c\u0645\u064a\u0639 \u0627\u0644\u0625\u0641\u0635\u0627\u062d\u0627\u062a \u0648\u0627\u0644\u062a\u0635\u0646\u064a\u0641\u0627\u062a \u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629 \u0639\u0644\u0649 \u0623\u064a \u0645\u062e\u0631\u062c\u0627\u062a\\\n\u2022 \u0639\u062f\u0645 \u0627\u0646\u062a\u0647\u0627\u0643 \u0627\u0644\u0645\u0644\u0643\u064a\u0629 \u0627\u0644\u0641\u0643\u0631\u064a\u0629 \u0644\u0644\u063a\u064a\u0631\\\n\u2022 \u0627\u0644\u0627\u0645\u062a\u062b\u0627\u0644 \u0644\u062c\u0645\u064a\u0639 \u0627\u0644\u0642\u0648\u0627\u0646\u064a\u0646 \u0648\u0627\u0644\u0642\u0648\u0627\u0639\u062f \u0648\u0627\u0644\u0644\u0648\u0627\u0626\u062d \u0627\u0644\u0633\u0627\u0631\u064a\u0629\u060c \u0628\u0645\u0627 \u0641\u064a \u0630\u0644\u0643 \u062a\u0644\u0643 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u062a\u0632\u064a\u064a\u0641 \u0627\u0644\u0639\u0645\u064a\u0642 \u0648\u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u062a\u062c\u0627\u0631\u064a \u0648\u0627\u0644\u0645\u0645\u0627\u0631\u0633\u0627\u062a \u0627\u0644\u0645\u0636\u0644\u0644\u0629",
+                        "bg": "\u0412\u0438\u0435 \u043d\u043e\u0441\u0438\u0442\u0435 \u0438\u0437\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u043d\u0430 \u043e\u0442\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0441\u0442 \u0437\u0430 \u0441\u044a\u0437\u0434\u0430\u0432\u0430\u043d\u0435\u0442\u043e, \u043f\u0443\u0431\u043b\u0438\u043a\u0443\u0432\u0430\u043d\u0435\u0442\u043e \u0438 \u0441\u043f\u0430\u0437\u0432\u0430\u043d\u0435\u0442\u043e \u043d\u0430 \u0432\u0441\u0438\u0447\u043a\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0438\u043c\u0438 \u0437\u0430\u043a\u043e\u043d\u0438 \u0432\u044a\u0432 \u0432\u0440\u044a\u0437\u043a\u0430 \u0441 \u0432\u0430\u0448\u0438\u0442\u0435 \u0432\u0445\u043e\u0434\u043d\u0438 \u0434\u0430\u043d\u043d\u0438, \u0438\u0437\u0445\u043e\u0434\u043d\u0438 \u0440\u0435\u0437\u0443\u043b\u0442\u0430\u0442\u0438 \u0438 \u0432\u0441\u044f\u043a\u043e \u0434\u0440\u0443\u0433\u043e \u0441\u044a\u0434\u044a\u0440\u0436\u0430\u043d\u0438\u0435, \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u043d\u043e \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440:\\\n\u2022 \u043f\u043e\u043b\u0443\u0447\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0432\u0441\u0438\u0447\u043a\u0438 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u0438 \u0441\u044a\u0433\u043b\u0430\u0441\u0438\u044f \u043e\u0442 \u0432\u0441\u044f\u043a\u043e \u043b\u0438\u0446\u0435, \u0447\u0438\u0435\u0442\u043e \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043a\u0430\u0447\u0432\u0430\u0442\u0435\\\n\u2022 \u043f\u0440\u0438\u043b\u0430\u0433\u0430\u043d\u0435 \u043d\u0430 \u0432\u0441\u0438\u0447\u043a\u0438 \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438 \u0440\u0430\u0437\u043a\u0440\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u043a\u044a\u043c \u0432\u0441\u044f\u043a\u0430\u043a\u0432\u0438 \u0440\u0435\u0437\u0443\u043b\u0442\u0430\u0442\u0438\\\n\u2022 \u043d\u0435\u043d\u0430\u0440\u0443\u0448\u0430\u0432\u0430\u043d\u0435 \u043d\u0430 \u0438\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u043d\u0430\u0442\u0430 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043e\u0441\u0442 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438 \u043b\u0438\u0446\u0430\\\n\u2022 \u0441\u043f\u0430\u0437\u0432\u0430\u043d\u0435 \u043d\u0430 \u0432\u0441\u0438\u0447\u043a\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0438\u043c\u0438 \u0437\u0430\u043a\u043e\u043d\u0438, \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438 \u0440\u0430\u0437\u043f\u043e\u0440\u0435\u0434\u0431\u0438, \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u043d\u043e \u043e\u0442\u043d\u043e\u0441\u043d\u043e \u0434\u0438\u0439\u043f\u0444\u0435\u0439\u043a\u043e\u0432\u0435, \u0442\u044a\u0440\u0433\u043e\u0432\u0441\u043a\u0430 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u0430 \u0438 \u0437\u0430\u0431\u043b\u0443\u0436\u0434\u0430\u0432\u0430\u0449\u0438 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0438",
+                        "bn": "\u0986\u09aa\u09a8\u09be\u09b0 \u0987\u09a8\u09aa\u09c1\u099f, \u0986\u0989\u099f\u09aa\u09c1\u099f \u098f\u09ac\u0982 \u0985\u09a8\u09cd\u09af \u09af\u09c7\u0995\u09cb\u09a8\u09cb \u0995\u09a8\u099f\u09c7\u09a8\u09cd\u099f\u09c7\u09b0 \u09b8\u09c3\u09b7\u09cd\u099f\u09bf, \u09aa\u09cd\u09b0\u0995\u09be\u09b6 \u098f\u09ac\u0982 \u09aa\u09cd\u09b0\u09af\u09cb\u099c\u09cd\u09af \u09b8\u09ac \u0986\u0987\u09a8 \u09ae\u09c7\u09a8\u09c7 \u099a\u09b2\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u098f\u0995\u09ae\u09be\u09a4\u09cd\u09b0 \u0986\u09aa\u09a8\u09bf\u0987 \u09a6\u09be\u09af\u09bc\u09c0, \u0989\u09a6\u09be\u09b9\u09b0\u09a3\u09b8\u09cd\u09ac\u09b0\u09c2\u09aa:\\\n\u2022 \u0986\u09aa\u09a8\u09bf \u09af\u09c7 \u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u09b0 \u099b\u09ac\u09bf \u0986\u09aa\u09b2\u09cb\u09a1 \u0995\u09b0\u09c7\u09a8 \u09a4\u09be\u09b0 \u0995\u09be\u099b \u09a5\u09c7\u0995\u09c7 \u09aa\u09cd\u09b0\u09af\u09bc\u09cb\u099c\u09a8\u09c0\u09af\u09bc \u09b8\u09ae\u09b8\u09cd\u09a4 \u09b8\u09ae\u09cd\u09ae\u09a4\u09bf \u09a8\u09c7\u0993\u09af\u09bc\u09be\\\n\u2022 \u09af\u09c7\u0995\u09cb\u09a8\u09cb \u0986\u0989\u099f\u09aa\u09c1\u099f\u09c7 \u09af\u09a5\u09be\u09af\u09a5 \u09a1\u09bf\u09b8\u0995\u09cd\u09b2\u09cb\u099c\u09be\u09b0 \u0993 \u09b2\u09c7\u09ac\u09c7\u09b2 \u09aa\u09cd\u09b0\u09af\u09bc\u09cb\u0997 \u0995\u09b0\u09be\\\n\u2022 \u0985\u09a8\u09cd\u09af\u09c7\u09b0 \u09ae\u09c7\u09a7\u09be\u09b8\u09cd\u09ac\u09a4\u09cd\u09ac \u09b2\u0999\u09cd\u0998\u09a8 \u09a8\u09be \u0995\u09b0\u09be\\\n\u2022 \u09a1\u09bf\u09aa\u09ab\u09c7\u0995, \u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af\u09bf\u0995 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u098f\u09ac\u0982 \u09aa\u09cd\u09b0\u09a4\u09be\u09b0\u09a3\u09be\u09ae\u09c2\u09b2\u0995 \u0985\u09a8\u09c1\u09b6\u09c0\u09b2\u09a8\u09b8\u09b9 \u09aa\u09cd\u09b0\u09af\u09cb\u099c\u09cd\u09af \u09b8\u09ac \u0986\u0987\u09a8, \u09a8\u09bf\u09af\u09bc\u09ae \u0993 \u09ac\u09bf\u09a7\u09bf \u09ae\u09c7\u09a8\u09c7 \u099a\u09b2\u09be",
+                        "cs": "Nesete v\u00fdhradn\u00ed odpov\u011bdnost za vytvo\u0159en\u00ed, zve\u0159ejn\u011bn\u00ed a dodr\u017eov\u00e1n\u00ed v\u0161ech p\u0159\u00edslu\u0161n\u00fdch pr\u00e1vn\u00edch p\u0159edpis\u016f v souvislosti se sv\u00fdmi vstupy, v\u00fdstupy a jak\u00fdmkoli jin\u00fdm obsahem, v\u010detn\u011b nap\u0159\u00edklad:\\\n\u2022 z\u00edsk\u00e1n\u00ed v\u0161ech po\u017eadovan\u00fdch souhlas\u016f od ka\u017ed\u00e9 osoby, jej\u00ed\u017e sn\u00edmek nahrajete\\\n\u2022 uveden\u00ed v\u0161ech p\u0159\u00edslu\u0161n\u00fdch upozorn\u011bn\u00ed a ozna\u010den\u00ed u jak\u00fdchkoli v\u00fdstup\u016f\\\n\u2022 neporu\u0161ov\u00e1n\u00ed du\u0161evn\u00edho vlastnictv\u00ed jin\u00fdch osob\\\n\u2022 dodr\u017eov\u00e1n\u00ed v\u0161ech p\u0159\u00edslu\u0161n\u00fdch z\u00e1kon\u016f, pravidel a p\u0159edpis\u016f, v\u010detn\u011b t\u011bch o deepfakes, komer\u010dn\u00edm pou\u017eit\u00ed a klamav\u00fdch praktik\u00e1ch",
+                        "da": "Du er eneansvarlig for oprettelse, offentligg\u00f8relse og overholdelse af al g\u00e6ldende lovgivning i forbindelse med dine input, output og andet indhold, herunder f.eks.:\\\n\u2022 at indhente al p\u00e5kr\u00e6vet samtykke fra enhver person, hvis billede du uploader\\\n\u2022 at anvende alle relevante oplysninger og m\u00e6rkater p\u00e5 eventuelle output\\\n\u2022 ikke at kr\u00e6nke andres intellektuelle ejendomsrettigheder\\\n\u2022 at overholde alle g\u00e6ldende love, regler og forskrifter, herunder om deepfakes, kommerciel brug og vildledende praksis",
+                        "de": "Sie sind allein verantwortlich f\u00fcr die Erstellung, Ver\u00f6ffentlichung und die Einhaltung aller geltenden Gesetze im Zusammenhang mit Ihren Eingaben, Ausgaben und sonstigen Inhalten, einschlie\u00dflich beispielsweise:\\\n\u2022 Einholung aller erforderlichen Einwilligungen jeder Person, deren Bild Sie hochladen\\\n\u2022 Anbringung aller angemessenen Hinweise und Kennzeichnungen bei Ausgaben\\\n\u2022 keine Verletzung der Rechte des geistigen Eigentums Dritter\\\n\u2022 Einhaltung aller geltenden Gesetze, Regeln und Vorschriften, einschlie\u00dflich zu Deepfakes, kommerzieller Nutzung und irref\u00fchrenden Praktiken",
+                        "el": "\u0395\u03af\u03c3\u03c4\u03b5 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03c5\u03c0\u03b5\u03cd\u03b8\u03c5\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1, \u03c4\u03b7 \u03b4\u03b7\u03bc\u03bf\u03c3\u03af\u03b5\u03c5\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03c4\u03ae\u03c1\u03b7\u03c3\u03b7 \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03b9\u03c3\u03c7\u03c5\u03cc\u03bd\u03c4\u03c9\u03bd \u03bd\u03cc\u03bc\u03c9\u03bd \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b5\u03b9\u03c3\u03cc\u03b4\u03bf\u03c5, \u03c4\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03bf\u03c0\u03bf\u03b9\u03bf\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03ac\u03bb\u03bb\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03cc \u03c3\u03b1\u03c2, \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03b5\u03bd\u03b4\u03b5\u03b9\u03ba\u03c4\u03b9\u03ba\u03ac:\\\n\u2022 \u03c4\u03b7\u03c2 \u03bb\u03ae\u03c8\u03b7\u03c2 \u03ba\u03ac\u03b8\u03b5 \u03b1\u03c0\u03b1\u03b9\u03c4\u03bf\u03cd\u03bc\u03b5\u03bd\u03b7\u03c2 \u03c3\u03c5\u03b3\u03ba\u03b1\u03c4\u03ac\u03b8\u03b5\u03c3\u03b7\u03c2 \u03b1\u03c0\u03cc \u03bf\u03c0\u03bf\u03b9\u03bf\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf \u03c4\u03bf\u03c5 \u03bf\u03c0\u03bf\u03af\u03bf\u03c5 \u03c4\u03b7\u03bd \u03b5\u03b9\u03ba\u03cc\u03bd\u03b1 \u03bc\u03b5\u03c4\u03b1\u03c6\u03bf\u03c1\u03c4\u03ce\u03bd\u03b5\u03c4\u03b5\\\n\u2022 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03ba\u03b1\u03c4\u03ac\u03bb\u03bb\u03b7\u03bb\u03c9\u03bd \u03b3\u03bd\u03c9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c9\u03bd \u03ba\u03b1\u03b9 \u03b5\u03c0\u03b9\u03c3\u03b7\u03bc\u03ac\u03bd\u03c3\u03b5\u03c9\u03bd \u03c3\u03b5 \u03bf\u03c0\u03bf\u03b9\u03b1\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03bc\u03b1\u03c4\u03b1\\\n\u2022 \u03c4\u03b7\u03c2 \u03bc\u03b7 \u03c0\u03c1\u03bf\u03c3\u03b2\u03bf\u03bb\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03bd\u03bf\u03b7\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b9\u03b4\u03b9\u03bf\u03ba\u03c4\u03b7\u03c3\u03af\u03b1\u03c2 \u03c4\u03c1\u03af\u03c4\u03c9\u03bd\\\n\u2022 \u03c4\u03b7\u03c2 \u03c3\u03c5\u03bc\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7\u03c2 \u03bc\u03b5 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b9\u03c3\u03c7\u03cd\u03bf\u03bd\u03c4\u03b5\u03c2 \u03bd\u03cc\u03bc\u03bf\u03c5\u03c2, \u03ba\u03b1\u03bd\u03cc\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd\u03c2, \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03cc\u03c3\u03c9\u03bd \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd deepfakes, \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ae \u03c7\u03c1\u03ae\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c0\u03b1\u03c1\u03b1\u03c0\u03bb\u03b1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ad\u03c2",
+                        "es": "Usted es el \u00fanico responsable de la creaci\u00f3n, publicaci\u00f3n y del cumplimiento de todas las leyes aplicables en relaci\u00f3n con sus entradas, salidas y cualquier otro contenido, incluyendo, por ejemplo:\\\n\u2022 obtener todos los consentimientos necesarios de cualquier persona cuya imagen cargue\\\n\u2022 aplicar todas las divulgaciones y etiquetas correspondientes a cualquier resultado\\\n\u2022 no infringir la propiedad intelectual de terceros\\\n\u2022 cumplir todas las leyes, normas y reglamentos aplicables, incluidas las relativas a deepfakes, uso comercial y pr\u00e1cticas enga\u00f1osas",
+                        "es-US": "Usted es el \u00fanico responsable de la creaci\u00f3n, publicaci\u00f3n y del cumplimiento de todas las leyes aplicables en relaci\u00f3n con sus entradas, salidas y cualquier otro contenido, incluyendo, por ejemplo:\\\n\u2022 obtener todos los consentimientos necesarios de cualquier persona cuya imagen cargue\\\n\u2022 aplicar todas las divulgaciones y etiquetas correspondientes a cualquier resultado\\\n\u2022 no infringir la propiedad intelectual de terceros\\\n\u2022 cumplir todas las leyes, normas y reglamentos aplicables, incluidas las relativas a deepfakes, uso comercial y pr\u00e1cticas enga\u00f1osas",
+                        "fa": "\u0634\u0645\u0627 \u0628\u0647\u200c\u062a\u0646\u0647\u0627\u06cc\u06cc \u0645\u0633\u0626\u0648\u0644 \u0627\u06cc\u062c\u0627\u062f\u060c \u0627\u0646\u062a\u0634\u0627\u0631 \u0648 \u0631\u0639\u0627\u06cc\u062a \u0647\u0645\u0647 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0645\u0631\u0628\u0648\u0637 \u062f\u0631 \u0627\u0631\u062a\u0628\u0627\u0637 \u0628\u0627 \u0648\u0631\u0648\u062f\u06cc\u200c\u0647\u0627\u060c \u062e\u0631\u0648\u062c\u06cc\u200c\u0647\u0627 \u0648 \u0647\u0631 \u0645\u062d\u062a\u0648\u0627\u06cc \u062f\u06cc\u06af\u0631\u06cc \u0647\u0633\u062a\u06cc\u062f\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u0628\u0631\u0627\u06cc \u0645\u062b\u0627\u0644:\\\n\u2022 \u062f\u0631\u06cc\u0627\u0641\u062a \u0647\u0645\u0647 \u0631\u0636\u0627\u06cc\u062a\u200c\u0647\u0627\u06cc \u0644\u0627\u0632\u0645 \u0627\u0632 \u0647\u0631 \u0634\u062e\u0635\u06cc \u06a9\u0647 \u062a\u0635\u0648\u06cc\u0631\u0634 \u0631\u0627 \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u0645\u06cc\u200c\u06a9\u0646\u06cc\u062f\\\n\u2022 \u0627\u0639\u0645\u0627\u0644 \u0647\u0645\u0647 \u0627\u0641\u0634\u0627\u06af\u0631\u06cc\u200c\u0647\u0627 \u0648 \u0628\u0631\u0686\u0633\u0628\u200c\u0647\u0627\u06cc \u0645\u0646\u0627\u0633\u0628 \u0631\u0648\u06cc \u0647\u0631 \u062e\u0631\u0648\u062c\u06cc\\\n\u2022 \u0646\u0642\u0636 \u0646\u06a9\u0631\u062f\u0646 \u0645\u0627\u0644\u06a9\u06cc\u062a \u0641\u06a9\u0631\u06cc \u062f\u06cc\u06af\u0631\u0627\u0646\\\n\u2022 \u0631\u0639\u0627\u06cc\u062a \u0647\u0645\u0647 \u0642\u0648\u0627\u0646\u06cc\u0646\u060c \u0645\u0642\u0631\u0631\u0627\u062a \u0648 \u0622\u06cc\u06cc\u0646\u200c\u0646\u0627\u0645\u0647\u200c\u0647\u0627\u06cc \u0645\u0631\u0628\u0648\u0637\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u062f\u0631\u0628\u0627\u0631\u0647 \u062f\u06cc\u067e\u200c\u0641\u06cc\u06a9\u060c \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u062a\u062c\u0627\u0631\u06cc \u0648 \u0631\u0648\u06cc\u0647\u200c\u0647\u0627\u06cc \u0641\u0631\u06cc\u0628\u0646\u062f\u0647",
+                        "fi": "Olet yksin vastuussa luomisesta, julkaisemisesta ja kaikkien sovellettavien lakien noudattamisesta sy\u00f6tteidesi, tulostesi ja kaiken muun sis\u00e4lt\u00f6si osalta, mukaan lukien esimerkiksi:\\\n\u2022 kaikkien tarvittavien suostumusten hankkiminen jokaiselta henkil\u00f6lt\u00e4, jonka kuvan lataat\\\n\u2022 kaikkien asianmukaisten ilmoitusten ja merkint\u00f6jen lis\u00e4\u00e4minen tuloksiin\\\n\u2022 muiden immateriaalioikeuksien loukkaamatta j\u00e4tt\u00e4minen\\\n\u2022 kaikkien sovellettavien lakien, s\u00e4\u00e4nt\u00f6jen ja m\u00e4\u00e4r\u00e4ysten noudattaminen, mukaan lukien deepfakeja, kaupallista k\u00e4ytt\u00f6\u00e4 ja harhaanjohtavia k\u00e4yt\u00e4nt\u00f6j\u00e4 koskevat",
+                        "fil": "Ikaw lang ang responsable sa paggawa, paglalathala, at pagsunod sa lahat ng naaangkop na batas kaugnay ng iyong mga input, output, at anumang iba pang content, kasama halimbawa ang:\\\n\u2022 pagkuha ng lahat ng kinakailangang consent mula sa sinumang tao na ang larawan ay iyong ini-upload\\\n\u2022 paglalagay ng lahat ng naaangkop na disclosure at label sa anumang output\\\n\u2022 hindi paglabag sa Intellectual Property ng iba\\\n\u2022 pagsunod sa lahat ng naaangkop na batas, tuntunin, at regulasyon, kabilang ang tungkol sa deepfake, komersyal na paggamit, at mapanlinlang na gawain",
+                        "fr": "Vous \u00eates seul responsable de la cr\u00e9ation, de la publication et du respect de toutes les lois applicables concernant vos entr\u00e9es, sorties et tout autre contenu, y compris par exemple\u00a0:\\\n\u2022 l\u2019obtention de tous les consentements requis de toute personne dont vous t\u00e9l\u00e9versez l\u2019image\\\n\u2022 l\u2019application de toutes les divulgations et \u00e9tiquettes appropri\u00e9es \u00e0 toute sortie\\\n\u2022 la non-violation de la propri\u00e9t\u00e9 intellectuelle d\u2019autrui\\\n\u2022 le respect de toutes les lois, r\u00e8gles et r\u00e9glementations applicables, y compris celles relatives aux deepfakes, \u00e0 l\u2019usage commercial et aux pratiques trompeuses",
+                        "fr-CA": "Vous \u00eates seul responsable de la cr\u00e9ation, de la publication et du respect de toutes les lois applicables concernant vos entr\u00e9es, sorties et tout autre contenu, y compris par exemple\u00a0:\\\n\u2022 l\u2019obtention de tous les consentements requis de toute personne dont vous t\u00e9l\u00e9versez l\u2019image\\\n\u2022 l\u2019application de toutes les divulgations et \u00e9tiquettes appropri\u00e9es \u00e0 toute sortie\\\n\u2022 la non-violation de la propri\u00e9t\u00e9 intellectuelle d\u2019autrui\\\n\u2022 le respect de toutes les lois, r\u00e8gles et r\u00e9glementations applicables, y compris celles relatives aux deepfakes, \u00e0 l\u2019usage commercial et aux pratiques trompeuses",
+                        "he": "\u05d0\u05ea\u05d4 \u05d4\u05d0\u05d7\u05e8\u05d0\u05d9 \u05d4\u05d1\u05dc\u05e2\u05d3\u05d9 \u05dc\u05d9\u05e6\u05d9\u05e8\u05d4, \u05dc\u05e4\u05e8\u05e1\u05d5\u05dd \u05d5\u05dc\u05e2\u05de\u05d9\u05d3\u05d4 \u05d1\u05db\u05dc \u05d4\u05d7\u05d5\u05e7\u05d9\u05dd \u05d4\u05d7\u05dc\u05d9\u05dd \u05d1\u05e7\u05e9\u05e8 \u05dc\u05e7\u05dc\u05d8\u05d9\u05dd, \u05dc\u05e4\u05dc\u05d8\u05d9\u05dd \u05d5\u05dc\u05db\u05dc \u05ea\u05d5\u05db\u05df \u05d0\u05d7\u05e8 \u05e9\u05dc\u05da, \u05dc\u05e8\u05d1\u05d5\u05ea \u05dc\u05d3\u05d5\u05d2\u05de\u05d4:\\\n\u2022 \u05e7\u05d1\u05dc\u05ea \u05db\u05dc \u05d4\u05d4\u05e1\u05db\u05de\u05d5\u05ea \u05d4\u05e0\u05d3\u05e8\u05e9\u05d5\u05ea \u05de\u05db\u05dc \u05d0\u05d3\u05dd \u05e9\u05d0\u05ea\u05d4 \u05de\u05e2\u05dc\u05d4 \u05d0\u05ea \u05ea\u05de\u05d5\u05e0\u05ea\u05d5\\\n\u2022 \u05d4\u05d7\u05dc\u05ea \u05db\u05dc \u05d4\u05d2\u05d9\u05dc\u05d5\u05d9\u05d9\u05dd \u05d5\u05d4\u05ea\u05d5\u05d5\u05d9\u05d5\u05ea \u05d4\u05de\u05ea\u05d0\u05d9\u05de\u05d9\u05dd \u05e2\u05dc \u05db\u05dc \u05e4\u05dc\u05d8\\\n\u2022 \u05d0\u05d9 \u05d4\u05e4\u05e8\u05ea \u05d4\u05e7\u05e0\u05d9\u05d9\u05df \u05d4\u05e8\u05d5\u05d7\u05e0\u05d9 \u05e9\u05dc \u05d0\u05d7\u05e8\u05d9\u05dd\\\n\u2022 \u05e2\u05de\u05d9\u05d3\u05d4 \u05d1\u05db\u05dc \u05d4\u05d7\u05d5\u05e7\u05d9\u05dd, \u05d4\u05db\u05dc\u05dc\u05d9\u05dd \u05d5\u05d4\u05ea\u05e7\u05e0\u05d5\u05ea \u05d4\u05d7\u05dc\u05d9\u05dd, \u05dc\u05e8\u05d1\u05d5\u05ea \u05d1\u05e0\u05d5\u05d2\u05e2 \u05dc\u05d3\u05d9\u05e4\u05e4\u05d9\u05d9\u05e7, \u05e9\u05d9\u05de\u05d5\u05e9 \u05de\u05e1\u05d7\u05e8\u05d9 \u05d5\u05e4\u05e8\u05e7\u05d8\u05d9\u05e7\u05d5\u05ea \u05de\u05d8\u05e2\u05d5\u05ea",
+                        "hi": "\u0905\u092a\u0928\u0947 \u0907\u0928\u092a\u0941\u091f, \u0906\u0909\u091f\u092a\u0941\u091f \u0914\u0930 \u0915\u093f\u0938\u0940 \u092d\u0940 \u0905\u0928\u094d\u092f \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u0915\u0947 \u0928\u093f\u0930\u094d\u092e\u093e\u0923, \u092a\u094d\u0930\u0915\u093e\u0936\u0928 \u0914\u0930 \u0938\u092d\u0940 \u0932\u093e\u0917\u0942 \u0915\u093e\u0928\u0942\u0928\u094b\u0902 \u0915\u093e \u092a\u093e\u0932\u0928 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u0947\u0935\u0932 \u0906\u092a \u0939\u0940 \u091c\u093f\u092e\u094d\u092e\u0947\u0926\u093e\u0930 \u0939\u0948\u0902, \u091c\u093f\u0938\u092e\u0947\u0902 \u0909\u0926\u093e\u0939\u0930\u0923 \u0915\u0947 \u0932\u093f\u090f \u0936\u093e\u092e\u093f\u0932 \u0939\u0948:\\\n\u2022 \u091c\u093f\u0938 \u0915\u093f\u0938\u0940 \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0940 \u091b\u0935\u093f \u0906\u092a \u0905\u092a\u0932\u094b\u0921 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u0909\u0938\u0938\u0947 \u0938\u092d\u0940 \u0906\u0935\u0936\u094d\u092f\u0915 \u0938\u0939\u092e\u0924\u093f \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u093e\\\n\u2022 \u0915\u093f\u0938\u0940 \u092d\u0940 \u0906\u0909\u091f\u092a\u0941\u091f \u092a\u0930 \u0938\u092d\u0940 \u0909\u092a\u092f\u0941\u0915\u094d\u0924 \u092a\u094d\u0930\u0915\u091f\u0940\u0915\u0930\u0923 \u0914\u0930 \u0932\u0947\u092c\u0932 \u0932\u0917\u093e\u0928\u093e\\\n\u2022 \u0926\u0942\u0938\u0930\u094b\u0902 \u0915\u0940 \u092c\u094c\u0926\u094d\u0927\u093f\u0915 \u0938\u0902\u092a\u0926\u093e \u0915\u093e \u0909\u0932\u094d\u0932\u0902\u0918\u0928 \u0928 \u0915\u0930\u0928\u093e\\\n\u2022 \u0921\u0940\u092a\u092b\u0947\u0915, \u0935\u094d\u092f\u093e\u0935\u0938\u093e\u092f\u093f\u0915 \u0909\u092a\u092f\u094b\u0917 \u0914\u0930 \u092d\u094d\u0930\u093e\u092e\u0915 \u092a\u094d\u0930\u0925\u093e\u0913\u0902 \u0938\u0939\u093f\u0924 \u0938\u092d\u0940 \u0932\u093e\u0917\u0942 \u0915\u093e\u0928\u0942\u0928\u094b\u0902, \u0928\u093f\u092f\u092e\u094b\u0902 \u0914\u0930 \u0935\u093f\u0928\u093f\u092f\u092e\u094b\u0902 \u0915\u093e \u092a\u093e\u0932\u0928 \u0915\u0930\u0928\u093e",
+                        "hr": "Isklju\u010divo ste odgovorni za izradu, objavu i po\u0161tivanje svih mjerodavnih zakona u vezi sa svojim unosima, izlazima i bilo kojim drugim sadr\u017eajem, uklju\u010duju\u0107i na primjer:\\\n\u2022 pribavljanje svih potrebnih privola od svake osobe \u010diju sliku prenosite\\\n\u2022 primjenu svih odgovaraju\u0107ih objava i oznaka na sve izlaze\\\n\u2022 nekr\u0161enje intelektualnog vlasni\u0161tva drugih\\\n\u2022 po\u0161tivanje svih mjerodavnih zakona, pravila i propisa, uklju\u010duju\u0107i one o deepfakeovima, komercijalnoj uporabi i obmanjuju\u0107im praksama",
+                        "hu": "Kiz\u00e1r\u00f3lag \u00d6n felel a l\u00e9trehoz\u00e1s\u00e9rt, a k\u00f6zz\u00e9t\u00e9tel\u00e9rt \u00e9s az \u00f6sszes vonatkoz\u00f3 jogszab\u00e1ly betart\u00e1s\u00e1\u00e9rt a bemeneteivel, kimeneteivel \u00e9s b\u00e1rmely m\u00e1s tartalm\u00e1val kapcsolatban, ide\u00e9rtve p\u00e9ld\u00e1ul:\\\n\u2022 minden sz\u00fcks\u00e9ges hozz\u00e1j\u00e1rul\u00e1s beszerz\u00e9s\u00e9t minden olyan szem\u00e9lyt\u0151l, akinek a k\u00e9p\u00e9t felt\u00f6lti\\\n\u2022 minden megfelel\u0151 k\u00f6zl\u00e9s \u00e9s c\u00edmke alkalmaz\u00e1s\u00e1t b\u00e1rmely kimeneten\\\n\u2022 m\u00e1sok szellemi tulajdon\u00e1nak megs\u00e9rt\u00e9s\u00e9nek mell\u0151z\u00e9s\u00e9t\\\n\u2022 az \u00f6sszes vonatkoz\u00f3 t\u00f6rv\u00e9ny, szab\u00e1ly \u00e9s rendelet betart\u00e1s\u00e1t, ide\u00e9rtve a deepfake-ekre, a kereskedelmi felhaszn\u00e1l\u00e1sra \u00e9s a megt\u00e9veszt\u0151 gyakorlatokra vonatkoz\u00f3kat",
+                        "id": "Anda semata-mata bertanggung jawab atas pembuatan, publikasi, dan kepatuhan terhadap semua hukum yang berlaku terkait input, output, dan konten lain Anda, termasuk misalnya:\\\n\u2022 memperoleh semua persetujuan yang diperlukan dari setiap orang yang gambarnya Anda unggah\\\n\u2022 menerapkan semua pengungkapan dan label yang sesuai pada setiap output\\\n\u2022 tidak melanggar Kekayaan Intelektual pihak lain\\\n\u2022 mematuhi semua undang-undang, aturan, dan peraturan yang berlaku, termasuk tentang deepfake, penggunaan komersial, dan praktik yang menyesatkan",
+                        "it": "Sei l\u2019unico responsabile della creazione, della pubblicazione e del rispetto di tutte le leggi applicabili in relazione ai tuoi input, output e a qualsiasi altro contenuto, inclusi ad esempio:\\\n\u2022 l\u2019ottenimento di tutti i consensi necessari da qualsiasi persona di cui carichi l\u2019immagine\\\n\u2022 l\u2019applicazione di tutte le informative e le etichette appropriate a qualsiasi output\\\n\u2022 la non violazione della propriet\u00e0 intellettuale altrui\\\n\u2022 il rispetto di tutte le leggi, le norme e i regolamenti applicabili, comprese quelle su deepfake, uso commerciale e pratiche ingannevoli",
+                        "ja": "\u5165\u529b\u3001\u51fa\u529b\u304a\u3088\u3073\u305d\u306e\u4ed6\u4e00\u5207\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u306e\u4f5c\u6210\u3001\u516c\u958b\u3001\u306a\u3089\u3073\u306b\u3053\u308c\u3089\u306b\u95a2\u9023\u3059\u308b\u9069\u7528\u6cd5\u4ee4\u306e\u9075\u5b88\u306b\u3064\u3044\u3066\u3001\u304a\u5ba2\u69d8\u304c\u5358\u72ec\u3067\u8cac\u4efb\u3092\u8ca0\u3044\u307e\u3059\u3002\u3053\u308c\u306b\u306f\u4f8b\u3048\u3070\u6b21\u304c\u542b\u307e\u308c\u307e\u3059\u3002\\\n\u2022 \u753b\u50cf\u3092\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3059\u308b\u3059\u3079\u3066\u306e\u4eba\u7269\u304b\u3089\u5fc5\u8981\u306a\u540c\u610f\u3092\u53d6\u5f97\u3059\u308b\u3053\u3068\\\n\u2022 \u51fa\u529b\u306b\u9069\u5207\u306a\u958b\u793a\u304a\u3088\u3073\u8868\u793a\u3092\u4ed8\u3059\u3053\u3068\\\n\u2022 \u4ed6\u8005\u306e\u77e5\u7684\u8ca1\u7523\u3092\u4fb5\u5bb3\u3057\u306a\u3044\u3053\u3068\\\n\u2022 \u30c7\u30a3\u30fc\u30d7\u30d5\u30a7\u30a4\u30af\u3001\u5546\u7528\u5229\u7528\u304a\u3088\u3073\u6b3a\u779e\u7684\u6163\u884c\u306b\u95a2\u3059\u308b\u3082\u306e\u3092\u542b\u3080\u3001\u3059\u3079\u3066\u306e\u9069\u7528\u6cd5\u4ee4\u30fb\u898f\u5247\u30fb\u898f\u5236\u3092\u9075\u5b88\u3059\u308b\u3053\u3068",
+                        "ko": "\uc785\ub825, \ucd9c\ub825 \ubc0f \uae30\ud0c0 \ubaa8\ub4e0 \ucf58\ud150\uce20\uc758 \uc0dd\uc131, \uac8c\uc2dc \ubc0f \uc774\uc640 \uad00\ub828\ub41c \ubaa8\ub4e0 \uc801\uc6a9 \ubc95\ub839 \uc900\uc218\uc5d0 \ub300\ud55c \ucc45\uc784\uc740 \uc804\uc801\uc73c\ub85c \ubcf8\uc778\uc5d0\uac8c \uc788\uc73c\uba70, \uc5ec\uae30\uc5d0\ub294 \uc608\ub97c \ub4e4\uc5b4 \ub2e4\uc74c\uc774 \ud3ec\ud568\ub429\ub2c8\ub2e4.\\\n\u2022 \uc774\ubbf8\uc9c0\ub97c \uc5c5\ub85c\ub4dc\ud558\ub294 \ubaa8\ub4e0 \uc0ac\ub78c\uc73c\ub85c\ubd80\ud130 \ud544\uc694\ud55c \ubaa8\ub4e0 \ub3d9\uc758\ub97c \ubc1b\ub294 \uac83\\\n\u2022 \ubaa8\ub4e0 \ucd9c\ub825\ubb3c\uc5d0 \uc801\uc808\ud55c \uace0\uc9c0 \ubc0f \ud45c\uc2dc\ub97c \uc801\uc6a9\ud558\ub294 \uac83\\\n\u2022 \ud0c0\uc778\uc758 \uc9c0\uc2dd\uc7ac\uc0b0\uad8c\uc744 \uce68\ud574\ud558\uc9c0 \uc54a\ub294 \uac83\\\n\u2022 \ub525\ud398\uc774\ud06c, \uc0c1\uc5c5\uc801 \uc774\uc6a9 \ubc0f \uae30\ub9cc\uc801 \uad00\ud589\uc5d0 \uad00\ud55c \uac83\uc744 \ud3ec\ud568\ud574 \uc801\uc6a9\ub418\ub294 \ubaa8\ub4e0 \ubc95\ub960, \uaddc\uce59 \ubc0f \uaddc\uc815\uc744 \uc900\uc218\ud558\ub294 \uac83",
+                        "lt": "J\u016bs esate i\u0161imtinai atsakingi u\u017e k\u016brim\u0105, paskelbim\u0105 ir vis\u0173 taikom\u0173 \u012fstatym\u0173 laikym\u0105si, susijus\u012f su j\u016bs\u0173 \u012fvestimis, i\u0161vestimis ir bet kokiu kitu turiniu, \u012fskaitant pavyzd\u017eiui:\\\n\u2022 vis\u0173 reikaling\u0173 sutikim\u0173 gavim\u0105 i\u0161 kiekvieno asmens, kurio atvaizd\u0105 \u012fkeliate\\\n\u2022 vis\u0173 tinkam\u0173 atskleidim\u0173 ir \u017eym\u0117jim\u0173 taikym\u0105 bet kokioms i\u0161vestims\\\n\u2022 kit\u0173 asmen\u0173 intelektin\u0117s nuosavyb\u0117s nepa\u017eeidim\u0105\\\n\u2022 vis\u0173 taikom\u0173 \u012fstatym\u0173, taisykli\u0173 ir reglament\u0173 laikym\u0105si, \u012fskaitant susijusius su deepfake, komerciniu naudojimu ir klaidinan\u010dia praktika",
+                        "mr": "\u0924\u0941\u092e\u091a\u094d\u092f\u093e \u0907\u0928\u092a\u0941\u091f, \u0906\u0909\u091f\u092a\u0941\u091f \u0906\u0923\u093f \u0907\u0924\u0930 \u0915\u094b\u0923\u0924\u094d\u092f\u093e\u0939\u0940 \u0938\u093e\u092e\u0917\u094d\u0930\u0940\u091a\u094d\u092f\u093e \u0928\u093f\u0930\u094d\u092e\u093f\u0924\u0940, \u092a\u094d\u0930\u0915\u093e\u0936\u0928 \u0906\u0923\u093f \u0938\u0930\u094d\u0935 \u0932\u093e\u0917\u0942 \u0915\u093e\u092f\u0926\u094d\u092f\u093e\u0902\u091a\u0947 \u092a\u093e\u0932\u0928 \u092f\u093e\u0938\u093e\u0920\u0940 \u092b\u0915\u094d\u0924 \u0924\u0941\u092e\u094d\u0939\u0940\u091a \u091c\u092c\u093e\u092c\u0926\u093e\u0930 \u0906\u0939\u093e\u0924, \u0909\u0926\u093e\u0939\u0930\u0923\u093e\u0930\u094d\u0925:\\\n\u2022 \u091c\u094d\u092f\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u0940\u091a\u0940 \u092a\u094d\u0930\u0924\u093f\u092e\u093e \u0924\u0941\u092e\u094d\u0939\u0940 \u0905\u092a\u0932\u094b\u0921 \u0915\u0930\u0924\u093e \u0924\u094d\u092f\u093e\u0902\u091a\u094d\u092f\u093e\u0915\u0921\u0942\u0928 \u0938\u0930\u094d\u0935 \u0906\u0935\u0936\u094d\u092f\u0915 \u0938\u0902\u092e\u0924\u0940 \u0918\u0947\u0923\u0947\\\n\u2022 \u0915\u094b\u0923\u0924\u094d\u092f\u093e\u0939\u0940 \u0906\u0909\u091f\u092a\u0941\u091f\u0935\u0930 \u0938\u0930\u094d\u0935 \u092f\u094b\u0917\u094d\u092f \u0916\u0941\u0932\u093e\u0938\u0947 \u0906\u0923\u093f \u0932\u0947\u092c\u0932\u0947 \u0932\u093e\u0935\u0923\u0947\\\n\u2022 \u0907\u0924\u0930\u093e\u0902\u091a\u094d\u092f\u093e \u092c\u094c\u0926\u094d\u0927\u093f\u0915 \u0938\u0902\u092a\u0926\u0947\u091a\u0947 \u0909\u0932\u094d\u0932\u0902\u0918\u0928 \u0928 \u0915\u0930\u0923\u0947\\\n\u2022 \u0921\u0940\u092a\u092b\u0947\u0915, \u0935\u094d\u092f\u093e\u0935\u0938\u093e\u092f\u093f\u0915 \u0935\u093e\u092a\u0930 \u0906\u0923\u093f \u0926\u093f\u0936\u093e\u092d\u0942\u0932 \u0915\u0930\u0923\u093e\u0931\u094d\u092f\u093e \u092a\u0926\u094d\u0927\u0924\u0940\u0902\u0938\u0939 \u0938\u0930\u094d\u0935 \u0932\u093e\u0917\u0942 \u0915\u093e\u092f\u0926\u0947, \u0928\u093f\u092f\u092e \u0906\u0923\u093f \u0935\u093f\u0928\u093f\u092f\u092e \u092a\u093e\u0933\u0923\u0947",
+                        "ms": "Anda semata-mata bertanggungjawab ke atas penciptaan, penerbitan dan pematuhan semua undang-undang yang terpakai berkaitan input, output dan sebarang kandungan lain anda, termasuk contohnya:\\\n\u2022 mendapatkan semua keizinan yang diperlukan daripada mana-mana orang yang imejnya anda muat naik\\\n\u2022 menggunakan semua pendedahan dan label yang sesuai pada sebarang output\\\n\u2022 tidak melanggar Harta Intelek orang lain\\\n\u2022 mematuhi semua undang-undang, peraturan dan kaedah yang terpakai, termasuk tentang deepfake, penggunaan komersial dan amalan mengelirukan",
+                        "nl": "U bent als enige verantwoordelijk voor het maken, publiceren en naleven van alle toepasselijke wetten in verband met uw invoer, uitvoer en alle andere content, waaronder bijvoorbeeld:\\\n\u2022 het verkrijgen van alle vereiste toestemming van iedere persoon van wie u een afbeelding uploadt\\\n\u2022 het toepassen van alle passende vermeldingen en labels op alle uitvoer\\\n\u2022 het niet schenden van intellectuele-eigendomsrechten van anderen\\\n\u2022 het naleven van alle toepasselijke wetten, regels en voorschriften, inclusief die over deepfakes, commercieel gebruik en misleidende praktijken",
+                        "no": "Du er alene ansvarlig for opprettelse, publisering og overholdelse av alle gjeldende lover i tilknytning til inndataene, utdataene og alt annet innhold ditt, inkludert for eksempel:\\\n\u2022 \u00e5 innhente alt n\u00f8dvendig samtykke fra enhver person hvis bilde du laster opp\\\n\u2022 \u00e5 bruke alle relevante opplysninger og merknader p\u00e5 eventuelle utdata\\\n\u2022 \u00e5 ikke krenke andres immaterielle rettigheter\\\n\u2022 \u00e5 overholde alle gjeldende lover, regler og forskrifter, inkludert om deepfakes, kommersiell bruk og villedende praksis",
+                        "pl": "Ponosisz wy\u0142\u0105czn\u0105 odpowiedzialno\u015b\u0107 za tworzenie, publikacj\u0119 oraz przestrzeganie wszystkich obowi\u0105zuj\u0105cych przepis\u00f3w w zwi\u0105zku ze swoimi danymi wej\u015bciowymi, wynikami i wszelkimi innymi tre\u015bciami, w tym na przyk\u0142ad za:\\\n\u2022 uzyskanie wszystkich wymaganych zg\u00f3d od ka\u017cdej osoby, kt\u00f3rej wizerunek przesy\u0142asz\\\n\u2022 stosowanie wszystkich odpowiednich ujawnie\u0144 i oznacze\u0144 do wszelkich wynik\u00f3w\\\n\u2022 nie naruszanie w\u0142asno\u015bci intelektualnej innych os\u00f3b\\\n\u2022 przestrzeganie wszystkich obowi\u0105zuj\u0105cych ustaw, zasad i regulacji, w tym dotycz\u0105cych deepfake\u2019\u00f3w, u\u017cytku komercyjnego i praktyk wprowadzaj\u0105cych w b\u0142\u0105d",
+                        "pt": "\u00c9 o \u00fanico respons\u00e1vel pela cria\u00e7\u00e3o, publica\u00e7\u00e3o e pelo cumprimento de todas as leis aplic\u00e1veis relativamente \u00e0s suas entradas, sa\u00eddas e qualquer outro conte\u00fado, incluindo, por exemplo:\\\n\u2022 obter todos os consentimentos necess\u00e1rios de qualquer pessoa cuja imagem carregue\\\n\u2022 aplicar todas as divulga\u00e7\u00f5es e etiquetas adequadas a quaisquer resultados\\\n\u2022 n\u00e3o infringir a propriedade intelectual de terceiros\\\n\u2022 cumprir todas as leis, regras e regulamentos aplic\u00e1veis, incluindo os relativos a deepfakes, utiliza\u00e7\u00e3o comercial e pr\u00e1ticas enganosas",
+                        "pt-BR": "Voc\u00ea \u00e9 o \u00fanico respons\u00e1vel pela cria\u00e7\u00e3o, publica\u00e7\u00e3o e pelo cumprimento de todas as leis aplic\u00e1veis em rela\u00e7\u00e3o \u00e0s suas entradas, sa\u00eddas e qualquer outro conte\u00fado, incluindo, por exemplo:\\\n\u2022 obter todos os consentimentos necess\u00e1rios de qualquer pessoa cuja imagem voc\u00ea envie\\\n\u2022 aplicar todas as divulga\u00e7\u00f5es e r\u00f3tulos apropriados a quaisquer sa\u00eddas\\\n\u2022 n\u00e3o infringir a propriedade intelectual de terceiros\\\n\u2022 cumprir todas as leis, regras e regulamentos aplic\u00e1veis, inclusive sobre deepfakes, uso comercial e pr\u00e1ticas enganosas",
+                        "ro": "Sunte\u021bi singurul responsabil pentru crearea, publicarea \u0219i respectarea tuturor legilor aplicabile \u00een leg\u0103tur\u0103 cu datele de intrare, rezultatele \u0219i orice alt con\u021binut al dvs., inclusiv, de exemplu:\\\n\u2022 ob\u021binerea tuturor consim\u021b\u0103mintelor necesare de la orice persoan\u0103 a c\u0103rei imagine o \u00eenc\u0103rca\u021bi\\\n\u2022 aplicarea tuturor divulg\u0103rilor \u0219i etichetelor corespunz\u0103toare pe orice rezultate\\\n\u2022 ne\u00eenc\u0103lcarea drepturilor de proprietate intelectual\u0103 ale altora\\\n\u2022 respectarea tuturor legilor, regulilor \u0219i reglement\u0103rilor aplicabile, inclusiv celor privind deepfake-urile, utilizarea comercial\u0103 \u0219i practicile \u00een\u0219el\u0103toare",
+                        "ru": "\u0412\u044b \u043d\u0435\u0441\u0451\u0442\u0435 \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0437\u0430 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435, \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044e \u0438 \u0441\u043e\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u043c\u044b\u0445 \u0437\u0430\u043a\u043e\u043d\u043e\u0432 \u0432 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0438 \u0441\u0432\u043e\u0438\u0445 \u0432\u0445\u043e\u0434\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445, \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u0445 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u0432 \u0438 \u043b\u044e\u0431\u043e\u0433\u043e \u0434\u0440\u0443\u0433\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u0430, \u0432\u043a\u043b\u044e\u0447\u0430\u044f, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440:\\\n\u2022 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u0445 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u0445 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0439 \u043e\u0442 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u043b\u0438\u0446\u0430, \u0447\u044c\u0451 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432\u044b \u0437\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u0442\u0435\\\n\u2022 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u0445 \u043d\u0430\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u0445 \u0440\u0430\u0441\u043a\u0440\u044b\u0442\u0438\u0439 \u0438 \u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u043e\u043a \u043a \u043b\u044e\u0431\u044b\u043c \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430\u043c\\\n\u2022 \u043d\u0435\u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u0435 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043b\u0438\u0446\\\n\u2022 \u0441\u043e\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u043c\u044b\u0445 \u0437\u0430\u043a\u043e\u043d\u043e\u0432, \u043f\u0440\u0430\u0432\u0438\u043b \u0438 \u043d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0430\u043a\u0442\u043e\u0432, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0442\u0435, \u0447\u0442\u043e \u043a\u0430\u0441\u0430\u044e\u0442\u0441\u044f \u0434\u0438\u043f\u0444\u0435\u0439\u043a\u043e\u0432, \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u0432\u0432\u043e\u0434\u044f\u0449\u0438\u0445 \u0432 \u0437\u0430\u0431\u043b\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u043f\u0440\u0430\u043a\u0442\u0438\u043a",
+                        "sk": "Nesiete v\u00fdhradn\u00fa zodpovednos\u0165 za vytvorenie, zverejnenie a dodr\u017eiavanie v\u0161etk\u00fdch pr\u00edslu\u0161n\u00fdch pr\u00e1vnych predpisov v s\u00favislosti so svojimi vstupmi, v\u00fdstupmi a ak\u00fdmko\u013evek in\u00fdm obsahom, vr\u00e1tane napr\u00edklad:\\\n\u2022 z\u00edskania v\u0161etk\u00fdch po\u017eadovan\u00fdch s\u00fahlasov od ka\u017edej osoby, ktorej sn\u00edmku nahr\u00e1te\\\n\u2022 uplatnenia v\u0161etk\u00fdch primeran\u00fdch ozn\u00e1men\u00ed a ozna\u010den\u00ed na ak\u00e9ko\u013evek v\u00fdstupy\\\n\u2022 neporu\u0161ovania du\u0161evn\u00e9ho vlastn\u00edctva in\u00fdch os\u00f4b\\\n\u2022 dodr\u017eiavania v\u0161etk\u00fdch pr\u00edslu\u0161n\u00fdch z\u00e1konov, pravidiel a predpisov vr\u00e1tane t\u00fdch o deepfakes, komer\u010dnom pou\u017eit\u00ed a klamliv\u00fdch praktik\u00e1ch",
+                        "sl": "Izklju\u010dno ste odgovorni za ustvarjanje, objavo in spo\u0161tovanje vseh veljavnih zakonov v zvezi s svojimi vnosi, izhodi in vso drugo vsebino, vklju\u010dno na primer z:\\\n\u2022 pridobitvijo vseh zahtevanih soglasij vsake osebe, katere podobo nalo\u017eite\\\n\u2022 uporabo vseh ustreznih razkritij in oznak pri vseh izhodih\\\n\u2022 nekr\u0161enjem intelektualne lastnine drugih\\\n\u2022 spo\u0161tovanjem vseh veljavnih zakonov, pravil in predpisov, vklju\u010dno tistih o deepfakeih, komercialni uporabi in zavajajo\u010dih praksah",
+                        "sv": "Du \u00e4r ensam ansvarig f\u00f6r skapande, publicering och efterlevnad av alla till\u00e4mpliga lagar i samband med dina indata, utdata och allt annat inneh\u00e5ll, inklusive till exempel:\\\n\u2022 att inh\u00e4mta allt erforderligt samtycke fr\u00e5n varje person vars bild du laddar upp\\\n\u2022 att till\u00e4mpa alla l\u00e4mpliga upplysningar och m\u00e4rkningar p\u00e5 eventuella utdata\\\n\u2022 att inte g\u00f6ra intr\u00e5ng i andras immateriella r\u00e4ttigheter\\\n\u2022 att f\u00f6lja alla till\u00e4mpliga lagar, regler och f\u00f6rordningar, inklusive om deepfakes, kommersiell anv\u00e4ndning och vilseledande metoder",
+                        "ta": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd, \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb1 \u0b8e\u0ba8\u0bcd\u0ba4 \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1\u0b9f\u0bc8\u0baf \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1, \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0b95:\\\n\u2022 \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0ba8\u0baa\u0bb0\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd\\\n\u2022 \u0b8e\u0ba8\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb2\u0bc7\u0baa\u0bbf\u0bb3\u0bcd\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd\\\n\u2022 \u0bae\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0b9a\u0bbe\u0bb0\u0bcd \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc0\u0bb1\u0bbe\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd\\\n\u2022 \u0b9f\u0bc0\u0baa\u0bcd\u0b83\u0baa\u0bc7\u0b95\u0bcd, \u0bb5\u0ba3\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bc8\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0bb5\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd",
+                        "te": "\u0c2e\u0c40 \u0c07\u0c28\u0c4d\u200c\u0c2a\u0c41\u0c1f\u0c4d\u200c\u0c32\u0c41, \u0c05\u0c35\u0c41\u0c1f\u0c4d\u200c\u0c2a\u0c41\u0c1f\u0c4d\u200c\u0c32\u0c41 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c07\u0c24\u0c30 \u0c0f \u0c15\u0c02\u0c1f\u0c46\u0c02\u0c1f\u0c4d\u200c\u0c15\u0c48\u0c28\u0c3e \u0c38\u0c43\u0c37\u0c4d\u0c1f\u0c3f, \u0c2a\u0c4d\u0c30\u0c1a\u0c41\u0c30\u0c23 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c35\u0c30\u0c4d\u0c24\u0c3f\u0c02\u0c1a\u0c47 \u0c05\u0c28\u0c4d\u0c28\u0c3f \u0c1a\u0c1f\u0c4d\u0c1f\u0c3e\u0c32\u0c28\u0c41 \u0c2a\u0c3e\u0c1f\u0c3f\u0c02\u0c1a\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c2e\u0c40\u0c30\u0c41 \u0c2e\u0c3e\u0c24\u0c4d\u0c30\u0c2e\u0c47 \u0c2c\u0c3e\u0c27\u0c4d\u0c2f\u0c41\u0c32\u0c41, \u0c09\u0c26\u0c3e\u0c39\u0c30\u0c23\u0c15\u0c41:\\\n\u2022 \u0c2e\u0c40\u0c30\u0c41 \u0c05\u0c2a\u0c4d\u200c\u0c32\u0c4b\u0c21\u0c4d \u0c1a\u0c47\u0c38\u0c47 \u0c1a\u0c3f\u0c24\u0c4d\u0c30\u0c02 \u0c09\u0c28\u0c4d\u0c28 \u0c2a\u0c4d\u0c30\u0c24\u0c3f \u0c35\u0c4d\u0c2f\u0c15\u0c4d\u0c24\u0c3f \u0c28\u0c41\u0c02\u0c21\u0c3f \u0c05\u0c35\u0c38\u0c30\u0c2e\u0c48\u0c28 \u0c05\u0c28\u0c4d\u0c28\u0c3f \u0c38\u0c2e\u0c4d\u0c2e\u0c24\u0c41\u0c32\u0c28\u0c41 \u0c2a\u0c4a\u0c02\u0c26\u0c21\u0c02\\\n\u2022 \u0c0f \u0c05\u0c35\u0c41\u0c1f\u0c4d\u200c\u0c2a\u0c41\u0c1f\u0c4d\u200c\u0c32\u0c15\u0c48\u0c28\u0c3e \u0c24\u0c17\u0c3f\u0c28 \u0c05\u0c28\u0c4d\u0c28\u0c3f \u0c35\u0c46\u0c32\u0c4d\u0c32\u0c21\u0c3f\u0c02\u0c2a\u0c41\u0c32\u0c41 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c32\u0c47\u0c2c\u0c41\u0c32\u0c4d\u200c\u0c32\u0c28\u0c41 \u0c35\u0c30\u0c4d\u0c24\u0c3f\u0c02\u0c2a\u0c1c\u0c47\u0c2f\u0c21\u0c02\\\n\u2022 \u0c07\u0c24\u0c30\u0c41\u0c32 \u0c2e\u0c47\u0c27\u0c4b\u0c38\u0c02\u0c2a\u0c24\u0c4d\u0c24\u0c3f\u0c28\u0c3f \u0c09\u0c32\u0c4d\u0c32\u0c02\u0c18\u0c3f\u0c02\u0c1a\u0c15\u0c2a\u0c4b\u0c35\u0c21\u0c02\\\n\u2022 \u0c21\u0c40\u0c2a\u0c4d\u200c\u0c2b\u0c47\u0c15\u0c4d\u0c38\u0c4d, \u0c35\u0c3e\u0c23\u0c3f\u0c1c\u0c4d\u0c2f \u0c35\u0c3f\u0c28\u0c3f\u0c2f\u0c4b\u0c17\u0c02 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2e\u0c4b\u0c38\u0c2a\u0c42\u0c30\u0c3f\u0c24 \u0c2a\u0c26\u0c4d\u0c27\u0c24\u0c41\u0c32\u0c2a\u0c48 \u0c09\u0c28\u0c4d\u0c28\u0c35\u0c3e\u0c1f\u0c3f\u0c24\u0c4b \u0c38\u0c39\u0c3e \u0c35\u0c30\u0c4d\u0c24\u0c3f\u0c02\u0c1a\u0c47 \u0c05\u0c28\u0c4d\u0c28\u0c3f \u0c1a\u0c1f\u0c4d\u0c1f\u0c3e\u0c32\u0c41, \u0c28\u0c3f\u0c2f\u0c2e\u0c3e\u0c32\u0c41 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c28\u0c3f\u0c2c\u0c02\u0c27\u0c28\u0c32\u0c28\u0c41 \u0c2a\u0c3e\u0c1f\u0c3f\u0c02\u0c1a\u0c21\u0c02",
+                        "th": "\u0e04\u0e38\u0e13\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e39\u0e49\u0e23\u0e31\u0e1a\u0e1c\u0e34\u0e14\u0e0a\u0e2d\u0e1a\u0e41\u0e15\u0e48\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27\u0e15\u0e48\u0e2d\u0e01\u0e32\u0e23\u0e2a\u0e23\u0e49\u0e32\u0e07 \u0e01\u0e32\u0e23\u0e40\u0e1c\u0e22\u0e41\u0e1e\u0e23\u0e48 \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e15\u0e32\u0e21\u0e01\u0e0e\u0e2b\u0e21\u0e32\u0e22\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e1a\u0e31\u0e07\u0e04\u0e31\u0e1a\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e17\u0e35\u0e48\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e02\u0e49\u0e2d\u0e07\u0e01\u0e31\u0e1a\u0e2d\u0e34\u0e19\u0e1e\u0e38\u0e15 \u0e40\u0e2d\u0e32\u0e15\u0e4c\u0e1e\u0e38\u0e15 \u0e41\u0e25\u0e30\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e2b\u0e32\u0e2d\u0e37\u0e48\u0e19\u0e43\u0e14\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e15\u0e31\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e0a\u0e48\u0e19:\\\n\u2022 \u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e22\u0e34\u0e19\u0e22\u0e2d\u0e21\u0e17\u0e35\u0e48\u0e08\u0e33\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e08\u0e32\u0e01\u0e1a\u0e38\u0e04\u0e04\u0e25\u0e43\u0e14\u0e01\u0e47\u0e15\u0e32\u0e21\u0e17\u0e35\u0e48\u0e04\u0e38\u0e13\u0e2d\u0e31\u0e1b\u0e42\u0e2b\u0e25\u0e14\u0e20\u0e32\u0e1e\\\n\u2022 \u0e01\u0e32\u0e23\u0e15\u0e34\u0e14\u0e04\u0e33\u0e40\u0e1b\u0e34\u0e14\u0e40\u0e1c\u0e22\u0e41\u0e25\u0e30\u0e1b\u0e49\u0e32\u0e22\u0e01\u0e33\u0e01\u0e31\u0e1a\u0e17\u0e35\u0e48\u0e40\u0e2b\u0e21\u0e32\u0e30\u0e2a\u0e21\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e01\u0e31\u0e1a\u0e40\u0e2d\u0e32\u0e15\u0e4c\u0e1e\u0e38\u0e15\u0e43\u0e14 \u0e46\\\n\u2022 \u0e01\u0e32\u0e23\u0e44\u0e21\u0e48\u0e25\u0e30\u0e40\u0e21\u0e34\u0e14\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\u0e2a\u0e34\u0e19\u0e17\u0e32\u0e07\u0e1b\u0e31\u0e0d\u0e0d\u0e32\u0e02\u0e2d\u0e07\u0e1c\u0e39\u0e49\u0e2d\u0e37\u0e48\u0e19\\\n\u2022 \u0e01\u0e32\u0e23\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e15\u0e32\u0e21\u0e01\u0e0e\u0e2b\u0e21\u0e32\u0e22 \u0e01\u0e0e \u0e41\u0e25\u0e30\u0e23\u0e30\u0e40\u0e1a\u0e35\u0e22\u0e1a\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e1a\u0e31\u0e07\u0e04\u0e31\u0e1a\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e14\u0e35\u0e1b\u0e40\u0e1f\u0e01 \u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e40\u0e0a\u0e34\u0e07\u0e1e\u0e32\u0e13\u0e34\u0e0a\u0e22\u0e4c \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e17\u0e35\u0e48\u0e2b\u0e25\u0e2d\u0e01\u0e25\u0e27\u0e07",
+                        "tr": "Girdileriniz, \u00e7\u0131kt\u0131lar\u0131n\u0131z ve di\u011fer t\u00fcm i\u00e7eriklerinizle ba\u011flant\u0131l\u0131 olarak olu\u015fturma, yay\u0131mlama ve y\u00fcr\u00fcrl\u00fckteki t\u00fcm yasalara uyma konusunda yaln\u0131zca siz sorumlusunuz; \u00f6rne\u011fin bunlar dahildir:\\\n\u2022 g\u00f6r\u00fcnt\u00fcs\u00fcn\u00fc y\u00fckledi\u011finiz her ki\u015fiden gerekli t\u00fcm onaylar\u0131 almak\\\n\u2022 t\u00fcm \u00e7\u0131kt\u0131lara uygun t\u00fcm a\u00e7\u0131klama ve etiketleri uygulamak\\\n\u2022 ba\u015fkalar\u0131n\u0131n Fikri M\u00fclkiyetini ihlal etmemek\\\n\u2022 deepfake\u2019ler, ticari kullan\u0131m ve aldat\u0131c\u0131 uygulamalar dahil olmak \u00fczere y\u00fcr\u00fcrl\u00fckteki t\u00fcm yasa, kural ve d\u00fczenlemelere uymak",
+                        "uk": "\u0412\u0438 \u043d\u0435\u0441\u0435\u0442\u0435 \u0432\u0438\u043a\u043b\u044e\u0447\u043d\u0443 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u0456\u0441\u0442\u044c \u0437\u0430 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f, \u043f\u0443\u0431\u043b\u0456\u043a\u0430\u0446\u0456\u044e \u0442\u0430 \u0434\u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0432\u0441\u0456\u0445 \u0437\u0430\u0441\u0442\u043e\u0441\u043e\u0432\u043d\u0438\u0445 \u0437\u0430\u043a\u043e\u043d\u0456\u0432 \u0443 \u0437\u0432\u2019\u044f\u0437\u043a\u0443 \u0437\u0456 \u0441\u0432\u043e\u0457\u043c\u0438 \u0432\u0445\u0456\u0434\u043d\u0438\u043c\u0438 \u0434\u0430\u043d\u0438\u043c\u0438, \u0432\u0438\u0445\u0456\u0434\u043d\u0438\u043c\u0438 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430\u043c\u0438 \u0442\u0430 \u0431\u0443\u0434\u044c-\u044f\u043a\u0438\u043c \u0456\u043d\u0448\u0438\u043c \u0432\u043c\u0456\u0441\u0442\u043e\u043c, \u0437\u043e\u043a\u0440\u0435\u043c\u0430 \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434:\\\n\u2022 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0432\u0441\u0456\u0445 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0438\u0445 \u0437\u0433\u043e\u0434 \u0432\u0456\u0434 \u043a\u043e\u0436\u043d\u043e\u0457 \u043e\u0441\u043e\u0431\u0438, \u0447\u0438\u0454 \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u043d\u044f \u0432\u0438 \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0443\u0454\u0442\u0435\\\n\u2022 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u0432\u0430\u043d\u043d\u044f \u0432\u0441\u0456\u0445 \u043d\u0430\u043b\u0435\u0436\u043d\u0438\u0445 \u0440\u043e\u0437\u043a\u0440\u0438\u0442\u0442\u0456\u0432 \u0456 \u043f\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u044c \u0434\u043e \u0431\u0443\u0434\u044c-\u044f\u043a\u0438\u0445 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456\u0432\\\n\u2022 \u043d\u0435\u043f\u043e\u0440\u0443\u0448\u0435\u043d\u043d\u044f \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0457 \u0432\u043b\u0430\u0441\u043d\u043e\u0441\u0442\u0456 \u0456\u043d\u0448\u0438\u0445 \u043e\u0441\u0456\u0431\\\n\u2022 \u0434\u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0432\u0441\u0456\u0445 \u0437\u0430\u0441\u0442\u043e\u0441\u043e\u0432\u043d\u0438\u0445 \u0437\u0430\u043a\u043e\u043d\u0456\u0432, \u043f\u0440\u0430\u0432\u0438\u043b \u0456 \u043d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u0438\u0445 \u0430\u043a\u0442\u0456\u0432, \u0437\u043e\u043a\u0440\u0435\u043c\u0430 \u0449\u043e\u0434\u043e \u0434\u0456\u043f\u0444\u0435\u0439\u043a\u0456\u0432, \u043a\u043e\u043c\u0435\u0440\u0446\u0456\u0439\u043d\u043e\u0433\u043e \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0442\u0430 \u043e\u043c\u0430\u043d\u043b\u0438\u0432\u0438\u0445 \u043f\u0440\u0430\u043a\u0442\u0438\u043a",
+                        "ur-IN": "\u0622\u067e \u0627\u067e\u0646\u06d2 \u0627\u0646 \u067e\u0679\u060c \u0622\u0624\u0679 \u067e\u0679 \u0627\u0648\u0631 \u06a9\u0633\u06cc \u0628\u06be\u06cc \u062f\u06cc\u06af\u0631 \u0645\u0648\u0627\u062f \u06a9\u06cc \u062a\u062e\u0644\u06cc\u0642\u060c \u0627\u0634\u0627\u0639\u062a \u0627\u0648\u0631 \u062a\u0645\u0627\u0645 \u0644\u0627\u06af\u0648 \u0642\u0648\u0627\u0646\u06cc\u0646 \u06a9\u06cc \u067e\u06cc\u0631\u0648\u06cc \u06a9\u06d2 \u0648\u0627\u062d\u062f \u0630\u0645\u06c1 \u062f\u0627\u0631 \u06c1\u06cc\u06ba\u060c \u0628\u0634\u0645\u0648\u0644 \u0645\u062b\u0627\u0644 \u06a9\u06d2 \u0637\u0648\u0631 \u067e\u0631:\\\n\u2022 \u062c\u0633 \u0634\u062e\u0635 \u06a9\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0622\u067e \u0627\u067e \u0644\u0648\u0688 \u06a9\u0631\u062a\u06d2 \u06c1\u06cc\u06ba \u0627\u0633 \u0633\u06d2 \u062a\u0645\u0627\u0645 \u0645\u0637\u0644\u0648\u0628\u06c1 \u0631\u0636\u0627\u0645\u0646\u062f\u06cc \u062d\u0627\u0635\u0644 \u06a9\u0631\u0646\u0627\\\n\u2022 \u06a9\u0633\u06cc \u0628\u06be\u06cc \u0622\u0624\u0679 \u067e\u0679 \u067e\u0631 \u062a\u0645\u0627\u0645 \u0645\u0646\u0627\u0633\u0628 \u0627\u0646\u06a9\u0634\u0627\u0641\u0627\u062a \u0627\u0648\u0631 \u0644\u06cc\u0628\u0644\u0632 \u0644\u06af\u0627\u0646\u0627\\\n\u2022 \u062f\u0648\u0633\u0631\u0648\u06ba \u06a9\u06cc \u062f\u0627\u0646\u0634\u0648\u0631\u0627\u0646\u06c1 \u0645\u0644\u06a9\u06cc\u062a \u06a9\u06cc \u062e\u0644\u0627\u0641 \u0648\u0631\u0632\u06cc \u0646\u06c1 \u06a9\u0631\u0646\u0627\\\n\u2022 \u0688\u06cc\u067e \u0641\u06cc\u06a9\u0633\u060c \u062a\u062c\u0627\u0631\u062a\u06cc \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0648\u0631 \u06af\u0645\u0631\u0627\u06c1 \u06a9\u0646 \u0637\u0631\u06cc\u0642\u0648\u06ba \u0633\u0645\u06cc\u062a \u062a\u0645\u0627\u0645 \u0644\u0627\u06af\u0648 \u0642\u0648\u0627\u0646\u06cc\u0646\u060c \u0642\u0648\u0627\u0639\u062f \u0627\u0648\u0631 \u0636\u0648\u0627\u0628\u0637 \u06a9\u06cc \u062a\u0639\u0645\u06cc\u0644 \u06a9\u0631\u0646\u0627",
+                        "vi": "B\u1ea1n ch\u1ecbu tr\u00e1ch nhi\u1ec7m duy nh\u1ea5t \u0111\u1ed1i v\u1edbi vi\u1ec7c t\u1ea1o, c\u00f4ng b\u1ed1 v\u00e0 tu\u00e2n th\u1ee7 m\u1ecdi lu\u1eadt \u00e1p d\u1ee5ng li\u00ean quan \u0111\u1ebfn \u0111\u1ea7u v\u00e0o, \u0111\u1ea7u ra v\u00e0 m\u1ecdi n\u1ed9i dung kh\u00e1c c\u1ee7a b\u1ea1n, bao g\u1ed3m v\u00ed d\u1ee5:\\\n\u2022 xin m\u1ecdi s\u1ef1 \u0111\u1ed3ng \u00fd c\u1ea7n thi\u1ebft t\u1eeb b\u1ea5t k\u1ef3 ng\u01b0\u1eddi n\u00e0o m\u00e0 b\u1ea1n t\u1ea3i l\u00ean h\u00ecnh \u1ea3nh\\\n\u2022 \u00e1p d\u1ee5ng m\u1ecdi ti\u1ebft l\u1ed9 v\u00e0 nh\u00e3n ph\u00f9 h\u1ee3p cho m\u1ecdi \u0111\u1ea7u ra\\\n\u2022 kh\u00f4ng x\u00e2m ph\u1ea1m S\u1edf h\u1eefu tr\u00ed tu\u1ec7 c\u1ee7a ng\u01b0\u1eddi kh\u00e1c\\\n\u2022 tu\u00e2n th\u1ee7 m\u1ecdi lu\u1eadt, quy t\u1eafc v\u00e0 quy \u0111\u1ecbnh \u00e1p d\u1ee5ng, bao g\u1ed3m v\u1ec1 deepfake, s\u1eed d\u1ee5ng th\u01b0\u01a1ng m\u1ea1i v\u00e0 h\u00e0nh vi g\u00e2y hi\u1ec3u nh\u1ea7m",
+                        "zh-CN": "\u60a8\u987b\u5bf9\u4e0e\u60a8\u7684\u8f93\u5165\u3001\u8f93\u51fa\u53ca\u4efb\u4f55\u5176\u4ed6\u5185\u5bb9\u76f8\u5173\u7684\u521b\u5efa\u3001\u53d1\u5e03\u4ee5\u53ca\u9075\u5b88\u6240\u6709\u9002\u7528\u6cd5\u5f8b\u72ec\u81ea\u627f\u62c5\u8d23\u4efb\uff0c\u5305\u62ec\u4f8b\u5982\uff1a\\\n\u2022 \u5c31\u60a8\u4e0a\u4f20\u5176\u56fe\u50cf\u7684\u4efb\u4f55\u4eba\u53d6\u5f97\u6240\u6709\u5fc5\u8981\u540c\u610f\\\n\u2022 \u5bf9\u4efb\u4f55\u8f93\u51fa\u65bd\u52a0\u6240\u6709\u9002\u5f53\u7684\u62ab\u9732\u548c\u6807\u8bc6\\\n\u2022 \u4e0d\u4fb5\u72af\u4ed6\u4eba\u7684\u77e5\u8bc6\u4ea7\u6743\\\n\u2022 \u9075\u5b88\u6240\u6709\u9002\u7528\u7684\u6cd5\u5f8b\u3001\u89c4\u5219\u548c\u6cd5\u89c4\uff0c\u5305\u62ec\u6709\u5173\u6df1\u5ea6\u4f2a\u9020\u3001\u5546\u4e1a\u4f7f\u7528\u548c\u6b3a\u9a97\u6027\u505a\u6cd5\u7684\u89c4\u5b9a",
+                        "zh-TW": "\u60a8\u9808\u5c0d\u8207\u60a8\u7684\u8f38\u5165\u3001\u8f38\u51fa\u53ca\u4efb\u4f55\u5176\u4ed6\u5167\u5bb9\u76f8\u95dc\u7684\u5efa\u7acb\u3001\u767c\u5e03\u4ee5\u53ca\u9075\u5b88\u6240\u6709\u9069\u7528\u6cd5\u5f8b\u7368\u81ea\u627f\u64d4\u8cac\u4efb\uff0c\u5305\u62ec\u4f8b\u5982\uff1a\\\n\u2022 \u5c31\u60a8\u4e0a\u50b3\u5176\u5f71\u50cf\u7684\u4efb\u4f55\u4eba\u53d6\u5f97\u6240\u6709\u5fc5\u8981\u540c\u610f\\\n\u2022 \u5c0d\u4efb\u4f55\u8f38\u51fa\u65bd\u52a0\u6240\u6709\u9069\u7576\u7684\u63ed\u9732\u548c\u6a19\u793a\\\n\u2022 \u4e0d\u4fb5\u5bb3\u4ed6\u4eba\u7684\u667a\u6167\u8ca1\u7522\u6b0a\\\n\u2022 \u9075\u5b88\u6240\u6709\u9069\u7528\u7684\u6cd5\u5f8b\u3001\u898f\u5247\u548c\u6cd5\u898f\uff0c\u5305\u62ec\u6709\u95dc\u6df1\u507d\u3001\u5546\u696d\u4f7f\u7528\u548c\u6b3a\u7f54\u884c\u70ba\u7684\u898f\u5b9a"
+                    }
+                },
+                {
+                    "title": {
+                        "en": "xAI provides the technology",
+                        "ar": "\u062a\u0642\u062f\u0645 xAI \u0627\u0644\u062a\u0642\u0646\u064a\u0629",
+                        "bg": "xAI \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u0442\u0430",
+                        "bn": "xAI \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf \u09b8\u09b0\u09ac\u09b0\u09be\u09b9 \u0995\u09b0\u09c7",
+                        "cs": "xAI poskytuje technologii",
+                        "da": "xAI stiller teknologien til r\u00e5dighed",
+                        "de": "xAI stellt die Technologie bereit",
+                        "el": "\u0397 xAI \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03c4\u03b7\u03bd \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1",
+                        "es": "xAI proporciona la tecnolog\u00eda",
+                        "es-US": "xAI proporciona la tecnolog\u00eda",
+                        "fa": "xAI \u0641\u0646\u0627\u0648\u0631\u06cc \u0631\u0627 \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f",
+                        "fi": "xAI tarjoaa teknologian",
+                        "fil": "Ang xAI ang nagbibigay ng teknolohiya",
+                        "fr": "xAI fournit la technologie",
+                        "fr-CA": "xAI fournit la technologie",
+                        "he": "xAI \u05de\u05e1\u05e4\u05e7\u05ea \u05d0\u05ea \u05d4\u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d4",
+                        "hi": "xAI \u0924\u0915\u0928\u0940\u0915 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u0940 \u0939\u0948",
+                        "hr": "xAI pru\u017ea tehnologiju",
+                        "hu": "Az xAI biztos\u00edtja a technol\u00f3gi\u00e1t",
+                        "id": "xAI menyediakan teknologinya",
+                        "it": "xAI fornisce la tecnologia",
+                        "ja": "xAI\u306f\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3092\u63d0\u4f9b\u3057\u307e\u3059",
+                        "ko": "xAI\uac00 \uae30\uc220\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4",
+                        "lt": "xAI teikia technologij\u0105",
+                        "mr": "xAI \u0924\u0902\u0924\u094d\u0930\u091c\u094d\u091e\u093e\u0928 \u092a\u0941\u0930\u0935\u0924\u0947",
+                        "ms": "xAI menyediakan teknologi",
+                        "nl": "xAI levert de technologie",
+                        "no": "xAI stiller teknologien til r\u00e5dighet",
+                        "pl": "xAI dostarcza technologi\u0119",
+                        "pt": "A xAI disponibiliza a tecnologia",
+                        "pt-BR": "A xAI disponibiliza a tecnologia",
+                        "ro": "xAI furnizeaz\u0103 tehnologia",
+                        "ru": "xAI \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044e",
+                        "sk": "xAI poskytuje technol\u00f3giu",
+                        "sl": "xAI zagotavlja tehnologijo",
+                        "sv": "xAI tillhandah\u00e5ller tekniken",
+                        "ta": "xAI \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+                        "te": "xAI \u0c38\u0c3e\u0c02\u0c15\u0c47\u0c24\u0c3f\u0c15\u0c24\u0c28\u0c41 \u0c05\u0c02\u0c26\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f",
+                        "th": "xAI \u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e39\u0e49\u0e43\u0e2b\u0e49\u0e40\u0e17\u0e04\u0e42\u0e19\u0e42\u0e25\u0e22\u0e35",
+                        "tr": "xAI teknolojiyi sa\u011flar",
+                        "uk": "xAI \u043d\u0430\u0434\u0430\u0454 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u044e",
+                        "ur-IN": "xAI \u0679\u06cc\u06a9\u0646\u0627\u0644\u0648\u062c\u06cc \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u06cc \u06c1\u06d2",
+                        "vi": "xAI cung c\u1ea5p c\u00f4ng ngh\u1ec7",
+                        "zh-CN": "xAI \u63d0\u4f9b\u6280\u672f",
+                        "zh-TW": "xAI \u63d0\u4f9b\u6280\u8853"
+                    },
+                    "body": {
+                        "en": "xAI provides technology for you to use. It does not provide any representations or warranties, and is not responsible for your content, e.g., inputs, outputs, and uploads.",
+                        "ar": "\u062a\u0648\u0641\u0631 xAI \u062a\u0642\u0646\u064a\u0629 \u0644\u062a\u0633\u062a\u062e\u062f\u0645\u0647\u0627. \u0648\u0647\u064a \u0644\u0627 \u062a\u0642\u062f\u0645 \u0623\u064a \u0625\u0642\u0631\u0627\u0631\u0627\u062a \u0623\u0648 \u0636\u0645\u0627\u0646\u0627\u062a\u060c \u0648\u0644\u064a\u0633\u062a \u0645\u0633\u0624\u0648\u0644\u0629 \u0639\u0646 \u0645\u062d\u062a\u0648\u0627\u0643\u060c \u0645\u062b\u0644 \u0627\u0644\u0645\u062f\u062e\u0644\u0627\u062a \u0648\u0627\u0644\u0645\u062e\u0631\u062c\u0627\u062a \u0648\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062a\u062d\u0645\u064a\u0644.",
+                        "bg": "xAI \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f \u0437\u0430 \u0432\u0430\u0448\u0435 \u043f\u043e\u043b\u0437\u0432\u0430\u043d\u0435. \u041d\u0435 \u0434\u0430\u0432\u0430 \u043d\u0438\u043a\u0430\u043a\u0432\u0438 \u0438\u0437\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u0433\u0430\u0440\u0430\u043d\u0446\u0438\u0438 \u0438 \u043d\u0435 \u043d\u043e\u0441\u0438 \u043e\u0442\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0441\u0442 \u0437\u0430 \u0432\u0430\u0448\u0435\u0442\u043e \u0441\u044a\u0434\u044a\u0440\u0436\u0430\u043d\u0438\u0435, \u043d\u0430\u043f\u0440. \u0432\u0445\u043e\u0434\u043d\u0438 \u0434\u0430\u043d\u043d\u0438, \u0438\u0437\u0445\u043e\u0434\u043d\u0438 \u0440\u0435\u0437\u0443\u043b\u0442\u0430\u0442\u0438 \u0438 \u043a\u0430\u0447\u0435\u043d\u0438 \u0444\u0430\u0439\u043b\u043e\u0432\u0435.",
+                        "bn": "xAI \u0986\u09aa\u09a8\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf \u09b8\u09b0\u09ac\u09b0\u09be\u09b9 \u0995\u09b0\u09c7\u0964 \u098f\u099f\u09bf \u0995\u09cb\u09a8\u09cb \u09aa\u09cd\u09b0\u09a4\u09bf\u09b6\u09cd\u09b0\u09c1\u09a4\u09bf \u09ac\u09be \u0993\u09af\u09bc\u09be\u09b0\u09c7\u09a8\u09cd\u099f\u09bf \u09a6\u09c7\u09af\u09bc \u09a8\u09be \u098f\u09ac\u0982 \u0986\u09aa\u09a8\u09be\u09b0 \u0995\u09a8\u099f\u09c7\u09a8\u09cd\u099f\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09a6\u09be\u09af\u09bc\u09c0 \u09a8\u09af\u09bc, \u09af\u09c7\u09ae\u09a8 \u0987\u09a8\u09aa\u09c1\u099f, \u0986\u0989\u099f\u09aa\u09c1\u099f \u098f\u09ac\u0982 \u0986\u09aa\u09b2\u09cb\u09a1\u0964",
+                        "cs": "xAI poskytuje technologii k va\u0161emu pou\u017eit\u00ed. Neposkytuje \u017e\u00e1dn\u00e1 prohl\u00e1\u0161en\u00ed ani z\u00e1ruky a nenes\u00e9 odpov\u011bdnost za v\u00e1\u0161 obsah, nap\u0159. vstupy, v\u00fdstupy a nahran\u00e1 data.",
+                        "da": "xAI stiller teknologi til r\u00e5dighed, som du kan bruge. Der gives ingen erkl\u00e6ringer eller garantier, og xAI er ikke ansvarlig for dit indhold, f.eks. input, output og uploads.",
+                        "de": "xAI stellt Technologie zur Nutzung bereit. Es werden keine Zusicherungen oder Gew\u00e4hrleistungen gegeben, und xAI ist nicht verantwortlich f\u00fcr Ihre Inhalte, z. B. Eingaben, Ausgaben und Uploads.",
+                        "el": "\u0397 xAI \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c3\u03b1\u03c2. \u0394\u03b5\u03bd \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03ae \u03b5\u03b3\u03b3\u03c5\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03b5\u03bd \u03b5\u03c5\u03b8\u03cd\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03cc \u03c3\u03b1\u03c2, \u03c0.\u03c7. \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b5\u03b9\u03c3\u03cc\u03b4\u03bf\u03c5, \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03c6\u03bf\u03c1\u03c4\u03ce\u03c3\u03b5\u03b9\u03c2.",
+                        "es": "xAI proporciona tecnolog\u00eda para que usted la use. No ofrece ninguna declaraci\u00f3n ni garant\u00eda, y no es responsable de su contenido, p. ej., entradas, salidas y cargas.",
+                        "es-US": "xAI proporciona tecnolog\u00eda para que usted la use. No ofrece ninguna declaraci\u00f3n ni garant\u00eda y no es responsable de su contenido, p. ej., entradas, salidas y cargas.",
+                        "fa": "xAI \u0641\u0646\u0627\u0648\u0631\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0634\u0645\u0627 \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0647\u06cc\u0686 \u0627\u0638\u0647\u0627\u0631 \u06cc\u0627 \u0636\u0645\u0627\u0646\u062a\u06cc \u0627\u0631\u0627\u0626\u0647 \u0646\u0645\u06cc\u200c\u062f\u0647\u062f \u0648 \u0645\u0633\u0626\u0648\u0644 \u0645\u062d\u062a\u0648\u0627\u06cc \u0634\u0645\u0627\u060c \u0627\u0632 \u062c\u0645\u0644\u0647 \u0648\u0631\u0648\u062f\u06cc\u200c\u0647\u0627\u060c \u062e\u0631\u0648\u062c\u06cc\u200c\u0647\u0627 \u0648 \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc\u200c\u0647\u0627 \u0646\u06cc\u0633\u062a.",
+                        "fi": "xAI tarjoaa teknologiaa k\u00e4ytt\u00f6\u00f6si. Se ei anna mit\u00e4\u00e4n vakuutuksia tai takuita eik\u00e4 ole vastuussa sis\u00e4ll\u00f6st\u00e4si, kuten sy\u00f6tteist\u00e4, tulosteista ja latauksista.",
+                        "fil": "Nagbibigay ang xAI ng teknolohiya para gamitin mo. Walang anumang representasyon o warranty, at hindi ito responsable sa iyong content, hal. mga input, output, at upload.",
+                        "fr": "xAI fournit une technologie \u00e0 votre usage. Elle n\u2019offre aucune d\u00e9claration ni garantie et n\u2019est pas responsable de votre contenu, p.\u00a0ex. les entr\u00e9es, sorties et t\u00e9l\u00e9versements.",
+                        "fr-CA": "xAI fournit une technologie \u00e0 votre usage. Elle n\u2019offre aucune d\u00e9claration ni garantie et n\u2019est pas responsable de votre contenu, p.\u00a0ex. les entr\u00e9es, sorties et t\u00e9l\u00e9versements.",
+                        "he": "xAI \u05de\u05e1\u05e4\u05e7\u05ea \u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d4 \u05dc\u05e9\u05d9\u05de\u05d5\u05e9\u05da. \u05d4\u05d9\u05d0 \u05d0\u05d9\u05e0\u05d4 \u05de\u05e1\u05e4\u05e7\u05ea \u05de\u05e6\u05d2\u05d9\u05dd \u05d0\u05d5 \u05d0\u05d7\u05e8\u05d9\u05d5\u05ea, \u05d5\u05d0\u05d9\u05e0\u05d4 \u05d0\u05d7\u05e8\u05d0\u05d9\u05ea \u05dc\u05ea\u05d5\u05db\u05df \u05e9\u05dc\u05da, \u05dc\u05de\u05e9\u05dc \u05e7\u05dc\u05d8\u05d9\u05dd, \u05e4\u05dc\u05d8\u05d9\u05dd \u05d5\u05d4\u05e2\u05dc\u05d0\u05d5\u05ea.",
+                        "hi": "xAI \u0906\u092a\u0915\u0947 \u0909\u092a\u092f\u094b\u0917 \u0915\u0947 \u0932\u093f\u090f \u0924\u0915\u0928\u0940\u0915 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u0940 \u0939\u0948\u0964 \u092f\u0939 \u0915\u094b\u0908 \u0905\u092d\u094d\u092f\u093e\u0935\u0947\u0926\u0928 \u092f\u093e \u0935\u093e\u0930\u0902\u091f\u0940 \u0928\u0939\u0940\u0902 \u0926\u0947\u0924\u0940 \u0914\u0930 \u0906\u092a\u0915\u0940 \u0938\u093e\u092e\u0917\u094d\u0930\u0940, \u091c\u0948\u0938\u0947 \u0907\u0928\u092a\u0941\u091f, \u0906\u0909\u091f\u092a\u0941\u091f \u0914\u0930 \u0905\u092a\u0932\u094b\u0921, \u0915\u0947 \u0932\u093f\u090f \u091c\u093c\u093f\u092e\u094d\u092e\u0947\u0926\u093e\u0930 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964",
+                        "hr": "xAI pru\u017ea tehnologiju za va\u0161u upotrebu. Ne daje nikakve izjave ni jamstva i nije odgovoran za va\u0161 sadr\u017eaj, npr. unose, izlaze i prijenose.",
+                        "hu": "Az xAI technol\u00f3gi\u00e1t biztos\u00edt az \u00d6n haszn\u00e1lat\u00e1ra. Nem tesz nyilatkozatokat vagy szavatoss\u00e1gv\u00e1llal\u00e1sokat, \u00e9s nem felel az \u00d6n tartalm\u00e1\u00e9rt, pl. a bemenetek\u00e9rt, kimenetek\u00e9rt \u00e9s felt\u00f6lt\u00e9sek\u00e9rt.",
+                        "id": "xAI menyediakan teknologi untuk Anda gunakan. xAI tidak memberikan pernyataan atau jaminan apa pun, dan tidak bertanggung jawab atas konten Anda, misalnya input, output, dan unggahan.",
+                        "it": "xAI fornisce tecnologia affinch\u00e9 tu la utilizzi. Non fornisce dichiarazioni o garanzie e non \u00e8 responsabile dei tuoi contenuti, ad es. input, output e caricamenti.",
+                        "ja": "xAI\u306f\u304a\u5ba2\u69d8\u304c\u5229\u7528\u3059\u308b\u305f\u3081\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002\u8868\u660e\u307e\u305f\u306f\u4fdd\u8a3c\u306f\u4e00\u5207\u884c\u308f\u305a\u3001\u5165\u529b\u3001\u51fa\u529b\u3001\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u7b49\u306e\u304a\u5ba2\u69d8\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u306b\u3064\u3044\u3066\u8cac\u4efb\u3092\u8ca0\u3044\u307e\u305b\u3093\u3002",
+                        "ko": "xAI\ub294 \uadc0\ud558\uac00 \uc0ac\uc6a9\ud560 \uae30\uc220\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4. \uc5b4\ub5a0\ud55c \uc9c4\uc220\uc774\ub098 \ubcf4\uc99d\ub3c4 \uc81c\uacf5\ud558\uc9c0 \uc54a\uc73c\uba70, \uc785\ub825, \ucd9c\ub825, \uc5c5\ub85c\ub4dc \ub4f1 \uadc0\ud558\uc758 \ucf58\ud150\uce20\uc5d0 \ub300\ud574 \ucc45\uc784\uc9c0\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+                        "lt": "xAI teikia technologij\u0105 j\u016bs\u0173 naudojimui. Ji neteikia joki\u0173 parei\u0161kim\u0173 ar garantij\u0173 ir neatsako u\u017e j\u016bs\u0173 turin\u012f, pvz., \u012fvestis, i\u0161vestis ir \u012fk\u0117limus.",
+                        "mr": "xAI \u0924\u0941\u092e\u091a\u094d\u092f\u093e \u0935\u093e\u092a\u0930\u093e\u0938\u093e\u0920\u0940 \u0924\u0902\u0924\u094d\u0930\u091c\u094d\u091e\u093e\u0928 \u092a\u0941\u0930\u0935\u0924\u0947. \u0924\u0940 \u0915\u094b\u0923\u0924\u0940\u0939\u0940 \u0928\u093f\u0935\u0947\u0926\u0928\u0947 \u0915\u093f\u0902\u0935\u093e \u0939\u092e\u0940 \u0926\u0947\u0924 \u0928\u093e\u0939\u0940 \u0906\u0923\u093f \u0924\u0941\u092e\u091a\u094d\u092f\u093e \u0938\u093e\u092e\u0917\u094d\u0930\u0940\u0938\u093e\u0920\u0940, \u0909\u0926\u093e. \u0907\u0928\u092a\u0941\u091f, \u0906\u0909\u091f\u092a\u0941\u091f \u0906\u0923\u093f \u0905\u092a\u0932\u094b\u0921, \u091c\u092c\u093e\u092c\u0926\u093e\u0930 \u0928\u093e\u0939\u0940.",
+                        "ms": "xAI menyediakan teknologi untuk anda guna. Ia tidak memberikan sebarang representasi atau waranti, dan tidak bertanggungjawab atas kandungan anda, cth. input, output dan muat naik.",
+                        "nl": "xAI levert technologie voor uw gebruik. Er worden geen verklaringen of garanties gegeven, en xAI is niet verantwoordelijk voor uw content, zoals invoer, uitvoer en uploads.",
+                        "no": "xAI stiller teknologi til r\u00e5dighet for deg. Det gis ingen erkl\u00e6ringer eller garantier, og xAI er ikke ansvarlig for innholdet ditt, f.eks. inndata, utdata og opplastinger.",
+                        "pl": "xAI dostarcza technologi\u0119 do Twojego u\u017cytku. Nie sk\u0142ada \u017cadnych o\u015bwiadcze\u0144 ani gwarancji i nie ponosi odpowiedzialno\u015bci za Twoje tre\u015bci, np. dane wej\u015bciowe, wyniki i przes\u0142ane pliki.",
+                        "pt": "A xAI disponibiliza tecnologia para a sua utiliza\u00e7\u00e3o. N\u00e3o presta quaisquer declara\u00e7\u00f5es ou garantias e n\u00e3o \u00e9 respons\u00e1vel pelo seu conte\u00fado, p. ex., entradas, sa\u00eddas e carregamentos.",
+                        "pt-BR": "A xAI disponibiliza tecnologia para voc\u00ea usar. N\u00e3o faz quaisquer declara\u00e7\u00f5es ou garantias e n\u00e3o \u00e9 respons\u00e1vel pelo seu conte\u00fado, por exemplo entradas, sa\u00eddas e envios.",
+                        "ro": "xAI furnizeaz\u0103 tehnologie pentru a fi folosit\u0103 de dvs. Nu ofer\u0103 nicio declara\u021bie sau garan\u021bie \u0219i nu este responsabil\u0103 pentru con\u021binutul dvs., de ex. date de intrare, rezultate \u0219i \u00eenc\u0103rc\u0103ri.",
+                        "ru": "xAI \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044e \u0434\u043b\u044f \u0432\u0430\u0448\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f. \u041d\u0435 \u0434\u0430\u0451\u0442 \u043d\u0438\u043a\u0430\u043a\u0438\u0445 \u0437\u0430\u0432\u0435\u0440\u0435\u043d\u0438\u0439 \u0438\u043b\u0438 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0439 \u0438 \u043d\u0435 \u043d\u0435\u0441\u0451\u0442 \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0437\u0430 \u0432\u0430\u0448 \u043a\u043e\u043d\u0442\u0435\u043d\u0442, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u0432\u0445\u043e\u0434\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0438 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438.",
+                        "sk": "xAI poskytuje technol\u00f3giu na va\u0161e pou\u017eitie. Neposkytuje \u017eiadne vyhl\u00e1senia ani z\u00e1ruky a nenesie zodpovednos\u0165 za v\u00e1\u0161 obsah, napr. vstupy, v\u00fdstupy a nahran\u00e9 s\u00fabory.",
+                        "sl": "xAI zagotavlja tehnologijo za va\u0161o uporabo. Ne daje nobenih izjav ali jamstev in ni odgovorna za va\u0161o vsebino, npr. vnose, izhode in prenose.",
+                        "sv": "xAI tillhandah\u00e5ller teknik som du kan anv\u00e4nda. Inga utf\u00e4stelser eller garantier l\u00e4mnas, och xAI ansvarar inte f\u00f6r ditt inneh\u00e5ll, t.ex. indata, utdata och uppladdningar.",
+                        "ta": "xAI \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b8e\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbe\u0ba4\u0bc1, \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd, \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0b89\u0bb3\u0bcd\u0bb3\u0b9f\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0bb2.",
+                        "te": "xAI \u0c2e\u0c40\u0c30\u0c41 \u0c09\u0c2a\u0c2f\u0c4b\u0c17\u0c3f\u0c02\u0c1a\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c38\u0c3e\u0c02\u0c15\u0c47\u0c24\u0c3f\u0c15\u0c24\u0c28\u0c41 \u0c05\u0c02\u0c26\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f. \u0c0e\u0c32\u0c3e\u0c02\u0c1f\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c24\u0c3f\u0c28\u0c3f\u0c27\u0c4d\u0c2f\u0c3e\u0c32\u0c41 \u0c32\u0c47\u0c26\u0c3e \u0c35\u0c3e\u0c30\u0c02\u0c1f\u0c40\u0c32\u0c41 \u0c07\u0c35\u0c4d\u0c35\u0c26\u0c41 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2e\u0c40 \u0c07\u0c28\u0c4d\u200c\u0c2a\u0c41\u0c1f\u0c4d\u200c\u0c32\u0c41, \u0c05\u0c35\u0c41\u0c1f\u0c4d\u200c\u0c2a\u0c41\u0c1f\u0c4d\u200c\u0c32\u0c41 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c05\u0c2a\u0c4d\u200c\u0c32\u0c4b\u0c21\u0c4d\u200c\u0c32\u0c24\u0c4b \u0c38\u0c39\u0c3e \u0c2e\u0c40 \u0c15\u0c02\u0c1f\u0c46\u0c02\u0c1f\u0c4d\u200c\u0c15\u0c41 \u0c2c\u0c3e\u0c27\u0c4d\u0c2f\u0c24 \u0c35\u0c39\u0c3f\u0c02\u0c1a\u0c26\u0c41.",
+                        "th": "xAI \u0e43\u0e2b\u0e49\u0e40\u0e17\u0e04\u0e42\u0e19\u0e42\u0e25\u0e22\u0e35\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e38\u0e13\u0e43\u0e0a\u0e49 \u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49\u0e04\u0e33\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e2b\u0e23\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e1b\u0e23\u0e30\u0e01\u0e31\u0e19\u0e43\u0e14 \u0e46 \u0e41\u0e25\u0e30\u0e44\u0e21\u0e48\u0e23\u0e31\u0e1a\u0e1c\u0e34\u0e14\u0e0a\u0e2d\u0e1a\u0e15\u0e48\u0e2d\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e2b\u0e32\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13 \u0e40\u0e0a\u0e48\u0e19 \u0e2d\u0e34\u0e19\u0e1e\u0e38\u0e15 \u0e40\u0e2d\u0e32\u0e15\u0e4c\u0e1e\u0e38\u0e15 \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e1b\u0e42\u0e2b\u0e25\u0e14",
+                        "tr": "xAI, kullanman\u0131z i\u00e7in teknoloji sa\u011flar. Herhangi bir beyan veya garanti vermez ve girdiler, \u00e7\u0131kt\u0131lar ve y\u00fcklemeler d\u00e2hil i\u00e7eri\u011finizden sorumlu de\u011fildir.",
+                        "uk": "xAI \u043d\u0430\u0434\u0430\u0454 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u044e \u0434\u043b\u044f \u0432\u0430\u0448\u043e\u0433\u043e \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f. \u041d\u0435 \u043d\u0430\u0434\u0430\u0454 \u0436\u043e\u0434\u043d\u0438\u0445 \u0437\u0430\u043f\u0435\u0432\u043d\u0435\u043d\u044c \u0447\u0438 \u0433\u0430\u0440\u0430\u043d\u0442\u0456\u0439 \u0456 \u043d\u0435 \u043d\u0435\u0441\u0435 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456 \u0437\u0430 \u0432\u0430\u0448 \u0432\u043c\u0456\u0441\u0442, \u043d\u0430\u043f\u0440. \u0432\u0445\u0456\u0434\u043d\u0456 \u0434\u0430\u043d\u0456, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0438 \u0442\u0430 \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043d\u044f.",
+                        "ur-IN": "xAI \u0622\u067e \u06a9\u06d2 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0679\u06cc\u06a9\u0646\u0627\u0644\u0648\u062c\u06cc \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u06cc \u06c1\u06d2\u06d4 \u06cc\u06c1 \u06a9\u0648\u0626\u06cc \u0646\u0645\u0627\u0626\u0646\u062f\u06af\u06cc \u06cc\u0627 \u0648\u0627\u0631\u0646\u0679\u06cc \u0646\u06c1\u06cc\u06ba \u062f\u06cc\u062a\u06cc \u0627\u0648\u0631 \u0622\u067e \u06a9\u06d2 \u0645\u0648\u0627\u062f\u060c \u0645\u062b\u0644\u0627\u064b \u0627\u0646 \u067e\u0679\u060c \u0622\u0624\u0679 \u067e\u0679 \u0627\u0648\u0631 \u0627\u067e \u0644\u0648\u0688\u0632\u060c \u06a9\u06cc \u0630\u0645\u06c1 \u062f\u0627\u0631 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
+                        "vi": "xAI cung c\u1ea5p c\u00f4ng ngh\u1ec7 \u0111\u1ec3 b\u1ea1n s\u1eed d\u1ee5ng. xAI kh\u00f4ng \u0111\u01b0a ra b\u1ea5t k\u1ef3 tuy\u00ean b\u1ed1 hay b\u1ea3o \u0111\u1ea3m n\u00e0o v\u00e0 kh\u00f4ng ch\u1ecbu tr\u00e1ch nhi\u1ec7m v\u1ec1 n\u1ed9i dung c\u1ee7a b\u1ea1n, v\u00ed d\u1ee5 \u0111\u1ea7u v\u00e0o, \u0111\u1ea7u ra v\u00e0 t\u1ec7p t\u1ea3i l\u00ean.",
+                        "zh-CN": "xAI \u63d0\u4f9b\u4f9b\u60a8\u4f7f\u7528\u7684\u6280\u672f\u3002\u5176\u4e0d\u4f5c\u51fa\u4efb\u4f55\u9648\u8ff0\u6216\u4fdd\u8bc1\uff0c\u4ea6\u4e0d\u5bf9\u60a8\u7684\u5185\u5bb9\u8d1f\u8d23\uff0c\u4f8b\u5982\u8f93\u5165\u3001\u8f93\u51fa\u548c\u4e0a\u4f20\u3002",
+                        "zh-TW": "xAI \u63d0\u4f9b\u4f9b\u60a8\u4f7f\u7528\u7684\u6280\u8853\u3002\u5176\u4e0d\u4f5c\u4efb\u4f55\u9673\u8ff0\u6216\u4fdd\u8b49\uff0c\u4ea6\u4e0d\u5c0d\u60a8\u7684\u5167\u5bb9\u8ca0\u8cac\uff0c\u4f8b\u5982\u8f38\u5165\u3001\u8f38\u51fa\u548c\u4e0a\u50b3\u3002"
+                    }
+                }
+            ]
+        },
+        "consumer_marketing_pre_checked_enabled": true,
+        "android_subscription_play_in_app_messaging_enabled": true,
+        "android_super_grok_plus_for_heavy_config": {
+            "allowed_actions": [
+                "cancel"
+            ]
+        },
+        "android_grok_automation_custom_schedules": true,
+        "android_imagine_media_reference_config": {
+            "max_assets": 3,
+            "max_audio": 1,
+            "max_name_length": 64,
+            "max_description_length": 1024
+        },
+        "android_feedback_attach_logs_enabled": false,
+        "android_new_voice_selector_enabled": true,
+        "android_app_builder_remix_enabled": true,
+        "android_imagine_watermark_setting_enabled": true,
+        "android_grok_app_builder_full_publish_button_enabled": true,
+        "android_grok_app_builder_publish_upgrade_required": true,
+        "android_imagine_recent_images_picker_enabled": false,
+        "android_imagine_i2v_reference_mode_enabled": true,
+        "android_imagine_region_edit_enabled": true,
+        "consumer_marketing_consent_modal_skip_button_enabled": false,
+        "android_tts_opus_enabled": true,
+        "android_projects_enabled": true,
+        "android_imagine_v2_collections": true,
+        "android_imagine_image_gen_speed_version": "",
+        "android_imagine_image_gen_quality_version": "",
+        "android_enable_castle_chat_minting": true,
+        "android_tasks_github_triggers_enabled": true,
+        "android_imagine_resume_image_gen": true,
+        "android_deeplink_stack_reuse_enabled": true,
+        "android_conversation_menu_enabled": false,
+        "android_voice_free_form_feedback_config": {
+            "enabled": true
+        },
+        "android_usage_reset_min_usage_percent": 10,
+        "android_gateway_config": {
+            "backend_detection": true,
+            "client_reporting": true,
+            "foreground_restore": true
+        },
+        "android_imagine_prompt_mention_names": true,
+        "android_grok_snackbar_enabled": true,
+        "android_app_builder_xai_api_key_enabled": true,
+        "android_chat_action_row_tap_toggle_enabled": true,
+        "android_build_tab_my_apps_enabled": true,
+        "android_imagine_lightbox_focused_input": true,
+        "android_post_login_paywall_config": {
+            "enabled": true,
+            "show_on_every_login": true,
+            "show_only_promo_tiers": true,
+            "type": {
+                "fixed_list": {
+                    "tiers": [
+                        "grok.lite",
+                        "grok.pro"
+                    ]
+                }
+            }
+        },
+        "android_imagine_image_tools": {},
+        "android_custom_mcp_connectors_enabled": true,
+        "android_finance_connector_enabled": true,
+        "android_chat_slash_commands_enabled": true,
+        "android_streaming_dictation_config": {
+            "enabled": false,
+            "opus_enabled": true,
+            "reconnect_enabled": true,
+            "background_grace_seconds": 10,
+            "query_params": {
+                "vad_threshold": 0.1
+            }
+        },
+        "android_imagine_x_reply_enabled": true,
+        "android_imagine_x_reply_in_share_sheet": true,
+        "android_chat_connector_auth_tool_enabled": true,
+        "android_imagine_skip_audio_strip_on_share": true,
+        "android_app_builder_share_on_x_enabled": true,
+        "android_chat_thinking_tool_grouping_enabled": true,
+        "android_tasks_webhook_triggers_enabled": true,
+        "android_app_builder_download_enabled": true,
+        "android_tasks_linear_triggers_enabled": true,
+        "android_app_builder_secrets_enabled": true,
+        "android_app_builder_access_enabled": true,
+        "android_app_builder_domains_enabled": true,
+        "android_subscription_paywall_redesign_enabled": true,
+        "complat": false,
+        "android_imagine_video_enhance_prompt": {},
+        "android_build_apps_preset_position": 1,
+        "android_imagine_share_audience_enabled": false,
+        "android_persisted_item_id_enabled": false,
+        "customer_support_enabled": false,
+        "enable_memory_toggle": true,
+        "short_id_to_model_id_map": {
+            "7": "grok-4-mini-thinking-tahoe",
+            "grok-4-1-non-thinking-w-tool": "grok-4-1-non-thinking-w-tool",
+            "grok-4-1-non-thinking-no-tool-1111b": "grok-4-1-non-thinking-no-tool-1111b"
+        },
+        "android_chat_survey_enabled": true,
+        "android_chat_customize_grok_enabled": true,
+        "android_chat_imagine_enabled": false,
+        "android_imagine_gallery_in_feed_enabled": true,
+        "android_report_an_issue_enabled": true,
+        "android_pinned_chats_enabled": true,
+        "android_home_prompt_suggestions_enabled": true,
+        "android_supergrok_ratelimit_enabled": true,
+        "android_chartjs_enabled": true,
+        "android_supergrok_modelselector_enabled": true,
+        "android_supergrok_settings_enabled": true,
+        "android_login_required": true,
+        "android_scroll_to_bottom_by_default": true,
+        "anon_attachment_menu_enabled": true,
+        "android_image_processing_enabled": true,
+        "android_feedback_ui_with_star_rating": true,
+        "android_feedback_ui_to_intercom_chat": false,
+        "android_data_control_enabled_by_default": true,
+        "android_voice_camera_config": {
+            "frameUploadIntervalMs": 1000,
+            "frameCompressionQuality": 100
+        },
+        "android_voice_mode_config": {
+            "livekitTokenApiUrl": "https://grok-v2.x.ai/rest/livekit/tokens",
+            "livekitServerUrl": "wss://livekit.grok.com",
+            "pingLoggingTimeoutMs": 20000,
+            "disconnectLoggingTimeoutMs": 3000,
+            "defaultModelConfig": "{\"voice\": \"Ara\", \"enable_search\": true, \"turn_detection\": { \"type\": \"server_vad\" }, \"instructions\": \"You are Grok, you have a female voice and go by Ara. You do not need to introduce yourself unless the user asks for your name. You are capable of understanding and responding in multiple languages. By default, you communicate in English. However, when a user communicates in a different language, respond directly in that language with natural fluency and a clear, helpful tone, without providing an English translation, unless the user explicitly requests a translation into another language. You have access to real-time information.\"}"
+        },
+        "traffic_banner_config": {
+            "enabled": false
+        },
+        "android_supergrok_offer": {},
+        "android_media_gen_video_config": {
+            "media_gen_video_prompt_available_modes": [
+                {
+                    "display_name": "Spicy",
+                    "mode_name": "extremely-spicy-or-crazy",
+                    "is_mature": true
+                },
+                {
+                    "display_name": "Normal",
+                    "mode_name": "normal"
+                }
+            ]
+        },
+        "satisfaction_score": 2,
+        "android_file_upload": {
+            "max_size": 1500,
+            "quality": 75,
+            "max_size_mb": 40,
+            "v2_enabled": true,
+            "v2_max_size_mb": 200,
+            "v2_poll_interval_ms": 500,
+            "v2_quic_enabled": true,
+            "v2_direct_upload_max_size_mb": 16,
+            "v2_multipart_enabled": true,
+            "v2_max_concurrent_parts": 6
+        },
+        "mixpanel_server_url": "https://grok.com/_data/v1/analytics",
+        "android_grok_customization_config": {
+            "presets": [
+                {
+                    "id": "concise",
+                    "title": "Concise",
+                    "prompt": "Respond briefly and directly, using as few words as possible. Focus on the core point without elaboration or follow-up questions.",
+                    "description": "Responds briefly and directly."
+                },
+                {
+                    "id": "formal",
+                    "title": "Formal",
+                    "prompt": "Use a formal tone, providing clear, well-structured sentences and precise language. Maintain professionalism and avoid colloquialisms or casual expressions. Provide thorough explanations while remaining concise and respectful, as if addressing a professional colleague.",
+                    "description": "Responds using a formal tone."
+                },
+                {
+                    "id": "socratic",
+                    "title": "Socratic",
+                    "prompt": "Respond as a Socratic teacher, guiding the user through questions and reasoning to foster deep understanding. Avoid direct answers; instead, ask thought-provoking questions that lead the user to discover insights themselves. Prioritize clarity, curiosity, and learning, while remaining patient and encouraging.",
+                    "description": "Responds in a way to help you learn."
+                }
+            ]
+        },
+        "android_chat_temporary_mode_enabled": true,
+        "android_imagine_error_banner": {
+            "enabled": false
+        },
+        "android_chat_search_suggestions_config": {
+            "search": {
+                "min_characters": 1,
+                "max_characters": 50,
+                "debounce_timeout_millis": 150,
+                "memory_cache_expiration_timeout_seconds": 120,
+                "max_suggestions": 1
+            },
+            "stream_suggestions": {
+                "min_characters": 1,
+                "max_characters": 50,
+                "debounce_timeout_millis": 150,
+                "memory_cache_expiration_timeout_seconds": 120,
+                "max_suggestions": 5
+            }
+        },
+        "android_chat_places_card_enabled": true,
+        "android_chat_sports_card_enabled": true,
+        "android_chat_bing_cloudfare_suggestions_enabled": false,
+        "android_chat_streaming_suggestions_enabled": false,
+        "android_chat_image_generation_card_enabled": true,
+        "android_chat_weather_card_enabled": true,
+        "android_chat_finance_card_enabled": true,
+        "android_imagine_image_upload": {
+            "max_size": 4080,
+            "quality": 90,
+            "max_size_mb": 200,
+            "v2_enabled": true,
+            "v2_max_size_mb": 200,
+            "v2_poll_interval_ms": 500,
+            "v2_quic_enabled": true,
+            "v2_direct_upload_max_size_mb": 16,
+            "v2_multipart_enabled": true,
+            "v2_max_concurrent_parts": 6
+        },
+        "android_chat_image_to_video_enabled": true,
+        "android_tutorial_system_schedule": {},
+        "android_startup_notification_permission_enabled": true,
+        "android_show_debug_menu": false,
+        "android_chat_reconnect_on_timeout_enabled": true,
+        "android_chat_memory_card_enabled": false,
+        "android_voice_call_feedback_config": {
+            "chanceToShow": 1,
+            "minCallDurationSeconds": 5
+        },
+        "android_imagine_media_gen_config": {
+            "v": 2,
+            "video_duration_t2v": {
+                "options": [
+                    6,
+                    10,
+                    15
+                ],
+                "tiers": [
+                    "a",
+                    "a",
+                    "s"
+                ],
+                "default": 6
+            },
+            "video_duration_i2v": {
+                "options": [
+                    6,
+                    10,
+                    15
+                ],
+                "tiers": [
+                    "a",
+                    "a",
+                    "s"
+                ],
+                "default": 6
+            },
+            "video_duration_r2v": {
+                "options": [
+                    6,
+                    10
+                ],
+                "tiers": [
+                    "a",
+                    "a"
+                ],
+                "default": 6
+            },
+            "video_resolution_t2v": {
+                "options": [
+                    "480p",
+                    "720p",
+                    "1080p"
+                ],
+                "tiers": [
+                    "a",
+                    "a",
+                    "h"
+                ],
+                "default": "480p"
+            },
+            "video_resolution_i2v": {
+                "options": [
+                    "480p",
+                    "720p",
+                    "1080p"
+                ],
+                "tiers": [
+                    "a",
+                    "a",
+                    "h"
+                ],
+                "default": "480p"
+            },
+            "video_resolution_r2v": {
+                "options": [
+                    "480p",
+                    "720p"
+                ],
+                "tiers": [
+                    "a",
+                    "a"
+                ],
+                "default": "480p"
+            },
+            "video_aspect_ratios": {
+                "options": [
+                    "2:3",
+                    "3:2",
+                    "4:3",
+                    "1:1",
+                    "9:16",
+                    "16:9",
+                    "21:9",
+                    "5:2"
+                ],
+                "default": "2:3"
+            },
+            "image_aspect_ratios_t2i": {
+                "options": [
+                    "2:3",
+                    "3:2",
+                    "1:1",
+                    "9:16",
+                    "16:9"
+                ],
+                "default": "2:3"
+            },
+            "image_aspect_ratios_t2i_pro": {
+                "options": [
+                    "2:3",
+                    "3:2",
+                    "4:3",
+                    "1:1",
+                    "9:16",
+                    "16:9",
+                    "21:9",
+                    "5:2"
+                ],
+                "default": "2:3"
+            },
+            "image_aspect_ratios_i2i": {
+                "options": [
+                    "2:3",
+                    "3:2",
+                    "1:1",
+                    "9:16",
+                    "16:9"
+                ],
+                "default": "2:3"
+            },
+            "image_aspect_ratios_r2i": {
+                "options": [
+                    "2:3",
+                    "3:2",
+                    "1:1",
+                    "9:16",
+                    "16:9"
+                ],
+                "default": "2:3"
+            },
+            "image_generation_pro_mode_available": true,
+            "image_generation_pro_mode_tier": "a",
+            "image_generation_batch_size": {
+                "options": [
+                    0,
+                    2,
+                    4,
+                    8,
+                    12
+                ],
+                "default": 0,
+                "auto": 8
+            },
+            "image_generation_batch_size_pro": {
+                "options": [
+                    0,
+                    2,
+                    4,
+                    8,
+                    12
+                ],
+                "default": 4,
+                "auto": 8
+            }
+        },
+        "android_non_streaming_dictation_config": {
+            "timeout_seconds": 20,
+            "cutoff_seconds": 600
+        },
+        "android_imagine_multi_ref_image_generation": {
+            "enabled": true,
+            "max": 5,
+            "max_saved_references": 0
+        },
+        "android_imagine_sxs": {
+            "video_gen_sxs_enabled": true,
+            "image_gen_sxs_enabled": true,
+            "image_edit_sxs_enabled": true,
+            "api_v2_sxs_enabled": true
+        },
+        "android_model_selector_search_enabled": false,
+        "android_enable_side_by_side": false,
+        "android_voice_chime": {
+            "start_chime": "start",
+            "end_chime": "end"
+        },
+        "android_force_side_by_side": false,
+        "android_multi_agent_enabled": true,
+        "android_session_replay_config": {
+            "capture_first_time_users": false,
+            "capture_forced": false,
+            "session_percent": 0
+        },
+        "android_paste_as_file": 2000,
+        "android_use_winback_upsells_enabled": true,
+        "android_record_employee_voice_post": false,
+        "android_voice_attachments_limit": 15,
+        "android_chat_maximum_attachments": 20,
+        "android_imagine_extend_video_2": {
+            "enabled": true,
+            "minimum_start_duration": 2,
+            "maximum_extension_duration": 30,
+            "duration_options": [
+                6,
+                10
+            ],
+            "supported_resolutions": [
+                "480p",
+                "720p"
+            ],
+            "supported_resolution_tiers": [
+                "s",
+                "s"
+            ],
+            "allow_videos_with_audio_reference": true,
+            "warn_on_videos_with_audio_reference": true
+        },
+        "android_post_payment_enabled": true,
+        "android_imagine_lightbox_survey_config": {
+            "enabled": true,
+            "video": {
+                "chanceToShow": 5,
+                "showAfterNLoops": 1,
+                "quickFeedback": {
+                    "levels": [
+                        {
+                            "level": 0,
+                            "emoji": "\ud83d\ude21"
+                        },
+                        {
+                            "level": 1,
+                            "emoji": "\ud83d\ude14"
+                        },
+                        {
+                            "level": 2,
+                            "emoji": "\ud83d\ude10"
+                        },
+                        {
+                            "level": 3,
+                            "emoji": "\ud83d\ude42"
+                        },
+                        {
+                            "level": 4,
+                            "emoji": "\ud83d\ude04"
+                        }
+                    ],
+                    "showExtendedOptionsIfSelectedLevelLessThanOrEqualTo": 1
+                },
+                "extendedFeedback": {
+                    "maxSelectedOptionsCount": 3,
+                    "options": [
+                        "instructions",
+                        "movement",
+                        "identity_consistency",
+                        "story",
+                        "audio",
+                        "visual_quality",
+                        "voice_quality",
+                        "camera_movements",
+                        "speed_pacing",
+                        "text_rendering",
+                        "everything"
+                    ],
+                    "shouldRandomizeOptions": true
+                }
+            },
+            "image": {
+                "chanceToShow": 5,
+                "showAfterSeconds": 5,
+                "quickFeedback": {
+                    "levels": [
+                        {
+                            "level": 0,
+                            "emoji": "\ud83d\ude21"
+                        },
+                        {
+                            "level": 1,
+                            "emoji": "\ud83d\ude14"
+                        },
+                        {
+                            "level": 2,
+                            "emoji": "\ud83d\ude10"
+                        },
+                        {
+                            "level": 3,
+                            "emoji": "\ud83d\ude42"
+                        },
+                        {
+                            "level": 4,
+                            "emoji": "\ud83d\ude04"
+                        }
+                    ],
+                    "showExtendedOptionsIfSelectedLevelLessThanOrEqualTo": 1
+                },
+                "extendedFeedback": {
+                    "maxSelectedOptionsCount": 3,
+                    "options": [
+                        "instructions",
+                        "input_preservation",
+                        "human_identity",
+                        "world_knowledge",
+                        "image_composition",
+                        "camera_control",
+                        "style",
+                        "image_quality",
+                        "text_rendering",
+                        "everything"
+                    ],
+                    "shouldRandomizeOptions": true
+                }
+            },
+            "thanksShownDuration": 0.9
+        },
+        "android_agent_customization_enabled": true,
+        "android_subscription_cancellation_details_enabled": true,
+        "android_imagine_r2v": {
+            "enabled": true,
+            "max": 14,
+            "max_audio_references": 0,
+            "max_saved_references": 0
+        },
+        "android_imagine_attachment_config": {
+            "min_image_dimension": 300
+        },
+        "android_ptt_muted_talk_hint_config": {
+            "rmsThreshold": 0.11,
+            "monitoringInterval": 0.1,
+            "bounceCooldown": 5
+        },
+        "imagine_show_paywall_android": false,
+        "android_force_update_required": false,
+        "android_voice_audio_debug_enabled": false,
+        "android_premium_branding_enabled": false,
+        "android_shake_to_report_enabled": false,
+        "android_imagine_simple_feed_button_enabled": false,
+        "android_imagine_enable_nsfw_for_age_undefined": true,
+        "android_enterprise_enabled": true,
+        "android_auth_tab_enabled": true,
+        "android_imagine_pipeline_templates_enabled": true,
+        "android_x_premium_super_grok_lite_synthetic_enabled": false,
+        "android_x_premium_plus_grok_pro_synthetic_enabled": true,
+        "android_grok_finished_notification_enabled": false,
+        "android_imagine_heavy_users_one_time_migration_to_720p": true,
+        "android_post_payment_bg_config": {
+            "super_grok_video_url": "https://app-media.x.ai/android/video_post_payment_super_grok.mp4",
+            "super_grok_heavy_video_url": "https://app-media.x.ai/android/video_post_payment_super_grok_heavy.mp4",
+            "super_grok_lite_image_url": "https://app-media.x.ai/android/bg_post_payment_super_grok_lite.webp",
+            "super_grok_image_url": "https://app-media.x.ai/android/bg_post_payment_super_grok.webp",
+            "super_grok_heavy_image_url": "https://app-media.x.ai/android/bg_post_payment_super_grok_heavy.webp",
+            "super_grok_plus_image_url": "https://app-media.x.ai/android/bg_post_payment_super_grok_plus.webp",
+            "super_grok_plus_video_url": "https://app-media.x.ai/android/video_post_payment_super_grok_plus.mp4"
+        },
+        "android_enable_grok_file_system": true,
+        "android_model_selection_ttl_reset_enabled": true,
+        "android_imagine_video_remix": false,
+        "android_appsflyer_purchase_validation_enabled": true,
+        "android_tier_down_churn_prevention_enabled": true,
+        "android_voice_output_device_selection_enabled": true,
+        "android_imagine_x_reply_generated_with_grok_enabled": true,
+        "android_connectors_enabled": true,
+        "android_connector_mentions_enabled": false,
+        "android_skills_enabled": true,
+        "android_imagine_uk_content_restriction": true,
+        "android_default_tier_product_id": "grok.lite",
+        "android_imagine_video_upscale": {
+            "u480t720": {
+                "tier": "s",
+                "upsell": true,
+                "upscale_extended_up_to_s": 20
+            },
+            "u480t1080": {
+                "tier": "h",
+                "upsell": true,
+                "upscale_extended_up_to_s": 15
+            },
+            "u720t1080": {
+                "tier": "h",
+                "upsell": true,
+                "upscale_extended_up_to_s": 15
+            }
+        },
+        "android_imagine_transient_worker_analytics": {
+            "enabled": true,
+            "sampling": 1
+        },
+        "android_imagine_min_age_check": true,
+        "android_try_connectors_preset_enabled": true,
+        "android_subscription_status_from_backend": true,
+        "android_try_skills_preset_enabled": true,
+        "android_soft_update_available": false,
+        "android_use_discount_upsells_enabled": true,
+        "android_voice_liveness_config": {
+            "pingIntervalMs": 500,
+            "pauseAudioAfterMs": 6000,
+            "tierPoorMs": 600,
+            "tierBadMs": 1200,
+            "tierTerminateMs": 15000
+        },
+        "android_imagine_agent_entry_point": false,
+        "android_play_integrity_endpoints": {
+            "enabled": false,
+            "protected_endpoints": [
+                "/grok_api_v2.Subscriptions/GetProductsInfo"
+            ],
+            "warmup_enabled": false
+        },
+        "android_birth_year_change_limit_check": true,
+        "android_subscription_deferred_banner_enabled": true,
+        "android_subscription_free_trial_banner_enabled": true,
+        "android_subscription_promotion_banner_enabled": true,
+        "android_voice_tools_config": {
+            "enabled": [
+                "hang-up",
+                "add-calendar-event"
+            ]
+        },
+        "android_imagine_token_spend_config": {
+            "usageSpeedometerEnabled": false
+        },
+        "android_hardware_attestation_endpoints": {
+            "enabled": true,
+            "protected_endpoints": [
+                "/grok_api_v2.Subscriptions/GetProductsInfo",
+                "/grok_api.Chat/AddResponse",
+                "/grok_api.Chat/CreateConversationAndRespond"
+            ]
+        },
+        "android_tida_report_enabled": true,
+        "android_hardware_attestation_enabled": true,
+        "android_cooldown_break_enabled": true,
+        "android_voice_stream_asr_enabled": true,
+        "android_team_mfa_required_handling_enabled": true,
+        "android_enable_castle_integration": true,
+        "android_memory_v3_enabled": false,
+        "android_memory_v3_ask_grok_to_change_enabled": true,
+        "android_memory_v3_import_enabled": true,
+        "android_cloud_storage_enabled": true,
+        "android_imagine_storage_exhausted_view_enabled": true,
+        "android_imagine_content_copyrighted_message": "",
+        "android_imagine_content_copyrighted_toast_enabled": true,
+        "android_grok_webauthn_mfa_enabled": true,
+        "android_voice_screen_sharing_enabled": true,
+        "android_imagine_quota_reset_notification": true,
+        "android_grok_usage_enabled": false,
+        "android_hide_super_grok_lite_for_x_premium": true,
+        "android_imagine_agent_lightbox": true,
+        "android_supported_mime_types": {
+            "supported_list": []
+        },
+        "android_consumer_usage_threshold_toast_enabled": true,
+        "android_chat_usage_limit_upsell_enabled": true,
+        "android_voice_usage_limit_upsell_enabled": true,
+        "android_imagine_usage_limit_upsell_enabled": true,
+        "android_backend_compatible_mime_types_enabled": true,
+        "android_cse_report_enabled": true,
+        "android_voice_assistant_enabled": false,
+        "android_timed_offers_enabled": true,
+        "android_imagine_caption_presets": {
+            "allow_generation": false,
+            "presets": [
+                {
+                    "preset": "default",
+                    "label": "Standard",
+                    "preview_image_url": "https://storage.googleapis.com/grok-web-public/imagine-caption-presets/caption-standard.png"
+                },
+                {
+                    "preset": "standout",
+                    "label": "Colored",
+                    "preview_image_url": "https://storage.googleapis.com/grok-web-public/imagine-caption-presets/caption-colored.png"
+                },
+                {
+                    "preset": "lively",
+                    "label": "Highlight",
+                    "preview_image_url": "https://storage.googleapis.com/grok-web-public/imagine-caption-presets/caption-highlight.png"
+                }
+            ]
+        },
+        "voice_agent_builder_cta_config": {
+            "enabled": false,
+            "redirectURL": "https://x.ai/voice",
+            "opensInExternalBrowser": true,
+            "showsShareButton": false
+        },
+        "android_chat_ttft_tracking_enabled": true,
+        "android_imagine_library_search": false,
+        "latest_tos_version": 5,
+        "android_tos_acceptance_enabled": true,
+        "android_imagine_always_create_post_on_canvas_sharing": true,
+        "android_usage_config_links": {
+            "topUpPath": "/usage/topup?source=android",
+            "autoTopUpPath": "?_s=usage&action=auto-top-up&source=android",
+            "billingHelpUrl": "https://docs.x.ai/grok/faq#usage--limits"
+        },
+        "android_usage_top_up_config": {
+            "enabled": true,
+            "web_checkout_enabled": true,
+            "native_checkout_enabled": true,
+            "preferred_checkout_way": "native",
+            "native_checkout_product_ids": [
+                "grok.credits.5",
+                "grok.credits.20",
+                "grok.credits.50",
+                "grok.credits.100"
+            ],
+            "discount_upsells_enabled": false
+        },
+        "grok_subscription_copy_version_v2": "4.5",
+        "android_imagine_shared_feedback_enabled": true,
+        "android_consumer_usage_threshold_toast_poll_interval_ms": 30000,
+        "android_imagine_usage_speedometer_refresh_enabled": true,
+        "android_grok_app_builder_preview_enabled": true,
+        "android_chat_interleaved_thinking_enabled": true,
+        "android_voice_assistant_cta_enabled": false,
+        "voice_mode_config_v2": {
+            "voices": [
+                "ara",
+                "eve",
+                "leo",
+                "rex",
+                "sal",
+                "gork",
+                "carina",
+                "zagan",
+                "helix",
+                "orion",
+                "luna",
+                "iris",
+                "altair",
+                "zenith",
+                "perseus",
+                "helios",
+                "lux",
+                "kepler",
+                "rigel",
+                "cosmo",
+                "celeste",
+                "ursa",
+                "sirius",
+                "lumen",
+                "castor",
+                "naksh",
+                "atlas",
+                "aurora",
+                "liora"
+            ],
+            "personalities": [
+                "assistant",
+                "therapist",
+                "storyteller",
+                "kids-stories",
+                "kids-trivia",
+                "meditation",
+                "doctor",
+                "unhinged",
+                "sexy",
+                "motivation",
+                "conspiracy",
+                "romantic",
+                "argumentative"
+            ]
+        },
+        "android_enable_grok_automations": true,
+        "android_grok_automation_event_triggers": true,
+        "android_imagine_rate_limit_paywall": true,
+        "android_usage_limit_reset_enabled": true,
+        "android_sidebar_announcement_banner": {},
+        "android_chat_announcement_banner": {},
+        "android_usage_reset_refresh_delay_ms": 2000,
+        "android_voice_telecom_enabled": false,
+        "android_imagine_video_audio_toggle_enabled": true,
+        "android_imagine_video_reconnect": {
+            "enabled": true,
+            "max_attempts": 5
+        },
+        "android_imagine_image_gen_grpc": false,
+        "android_imagine_list_resource_exhausted_retry_delay_ms": 3000,
+        "android_workspace_share_explainer_enabled": true
+    }
+}
